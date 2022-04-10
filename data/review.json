@@ -348,8 +348,8 @@
     "estimatedDollarValue": null
   },
   "Cy87Wwb7x2ZAdX9a5eMGKKqGoA4vb7crGJkMoH7e5ujE": {
-    "reason": "Complex tx history after exploit",
-    "decision": "Under Review",
+    "reason": "Complex tx history after exploit/ tooling shows no funds",
+    "decision": "Rejected",
     "over100K": false,
     "estimatedDollarValue": null
   },
@@ -445,7 +445,7 @@
   },
   "DRHEqwnB9oiEKVQMw5fsGqUMR4Bi36TChUErcbVFcDRb": {
     "reason": "No transactions were found before the time of the hack (Mar 23, 2022, 3:16:35 AM CDT, slot 126,266,437).",
-    "decision": "Under Review",
+    "decision": "Rejected",
     "over100K": false,
     "estimatedDollarValue": null
   },
@@ -462,8 +462,8 @@
     "estimatedDollarValue": null
   },
   "4kY7azNyKFNQcWFDJX84vpEoFoPnr46JfpWPuDWaaANp": {
-    "reason": "Potentially Tulip, user claims more funds in memo than we see in tool",
-    "decision": "Under Review",
+    "reason": "Only for funds in tool (potentially also tulip funds)",
+    "decision": "Approved",
     "over100K": false,
     "estimatedDollarValue": null
   },
@@ -498,8 +498,8 @@
     "estimatedDollarValue": null
   },
   "5s3b1p28XpbYAkVxSaniz6v2KU4zLne88oaWa8xjhtgs": {
-    "reason": "Users requesting more than reporting, Tulip/Chest?",
-    "decision": "Under Review",
+    "reason": "Only for funds in tool (potentially also tulip funds)",
+    "decision": "Approved",
     "over100K": false,
     "estimatedDollarValue": null
   },
@@ -673,7 +673,7 @@
   },
   "AKa3MZ2Kfy7wxeZqbsZRbMhvGpAe3kKtsuBKHo1bPN9D": {
     "reason": "Tulip/Chestfi",
-    "decision": "Under Review",
+    "decision": "Rejected",
     "over100K": false,
     "estimatedDollarValue": null
   },
@@ -690,8 +690,8 @@
     "estimatedDollarValue": null
   },
   "76tYNdNtyytcSDQdBibNGDLXwEsQYQPPbmXrRagFMoXN": {
-    "reason": "Tulip/Chestfi",
-    "decision": "Under Review",
+    "reason": "Manual Review: Tulip (needs double check with tooling)",
+    "decision": "Approved",
     "over100K": false,
     "estimatedDollarValue": null
   },
@@ -817,7 +817,7 @@
   },
   "E4SFa3chM7ehRErNvqiR3dckfuPnNx57HbHiSSfd4em6": {
     "reason": "",
-    "decision": "Under Review",
+    "decision": "Approved",
     "over100K": false,
     "estimatedDollarValue": null
   },
@@ -912,8 +912,8 @@
     "estimatedDollarValue": null
   },
   "H6VU3JT1uz5TYvmuA6t5B39RHPTJKuh4279ZwbJa5dPP": {
-    "reason": "Asking for too much",
-    "decision": "Under Review",
+    "reason": "201.45 acUSD-CASH",
+    "decision": "Approved",
     "over100K": false,
     "estimatedDollarValue": null
   },
@@ -942,8 +942,8 @@
     "estimatedDollarValue": null
   },
   "GZb5wr4G5yzte8yV8dd2wcSUhEtQMP9byZEgof8hUPhQ": {
-    "reason": "Tulip/chestfi",
-    "decision": "Under Review",
+    "reason": "Only for funds in tool (potentially also tulip funds)",
+    "decision": "Approved",
     "over100K": false,
     "estimatedDollarValue": null
   },
@@ -960,8 +960,8 @@
     "estimatedDollarValue": null
   },
   "2HfVrFH9r6sErhcGsUCVupZht5fHxfc47HywD5nrHd8V": {
-    "reason": "16,332.03\n aeMIM-CASH + Tulip",
-    "decision": "Under Review",
+    "reason": "16,332.03\n aeMIM-CASH",
+    "decision": "Approved",
     "over100K": false,
     "estimatedDollarValue": null
   },
@@ -979,7 +979,7 @@
   },
   "AqW6XMFRX7THxKTd7aJgCj5edc6JaPZuwnundLY9xw27": {
     "reason": "",
-    "decision": "Under Review",
+    "decision": "Rejected",
     "over100K": false,
     "estimatedDollarValue": null
   },
@@ -1183,7 +1183,7 @@
   },
   "GpGwgbNFpijMyErEDkdTV4R3yEhKQxz9e6RgZHduQBAi": {
     "reason": "Chestfi",
-    "decision": "Under Review",
+    "decision": "Rejected",
     "over100K": false,
     "estimatedDollarValue": null
   },
@@ -1201,7 +1201,7 @@
   },
   "7ab81kmwVwxqaf4wGkHUYoACqT2A41VK3GEoHzAgMtaZ": {
     "reason": "",
-    "decision": "Under Review",
+    "decision": "Rejected",
     "over100K": false,
     "estimatedDollarValue": null
   },
@@ -1248,14 +1248,14 @@
     "estimatedDollarValue": null
   },
   "9wVLv1LhkzzhndeCqQsTfUj7c7dwnwFnrH3ZnLXPtxtF": {
-    "reason": "Memo claims >3x the money seen in tool",
-    "decision": "Under Review",
+    "reason": "USDH-CASH LP is there",
+    "decision": "Approved",
     "over100K": null,
     "estimatedDollarValue": null
   },
   "88YFGvjFMgdH8QsbuAAPvPd7LXuSmw1tsrSJfnfHgKsZ": {
     "reason": "",
-    "decision": "Under Review",
+    "decision": "Rejected",
     "over100K": false,
     "estimatedDollarValue": null
   },
@@ -1279,7 +1279,7 @@
   },
   "6MPyZmURvG8UXetHVSk9FHRc3XTeeELnfk5nDEZkVCY4": {
     "reason": "",
-    "decision": "Under Review",
+    "decision": "Approved",
     "over100K": false,
     "estimatedDollarValue": null
   },
@@ -1489,7 +1489,7 @@
   },
   "7kKGQiBevTKJ7o1codtF7aSQo57Ve79fKQr9SkjdcsR4": {
     "reason": "",
-    "decision": "Under Review",
+    "decision": "Approved",
     "over100K": false,
     "estimatedDollarValue": null
   },
@@ -1548,8 +1548,8 @@
     "estimatedDollarValue": null
   },
   "D6LQ6iUUU5eWD5PX626G3GHBYp6GYwSPszNi2RhNVtR4": {
-    "reason": "\n347.7685\n CASH - 7275 (?)",
-    "decision": "Under Review",
+    "reason": "Need to verify refund value",
+    "decision": "Approved",
     "over100K": false,
     "estimatedDollarValue": null
   },
@@ -1567,7 +1567,7 @@
   },
   "CcTTmTvZKDp2KRkGEstdBTiQxgswM2yedByFq93714pN": {
     "reason": "awaiting second manual review- seems like wallet may not have had any LPs or CASH at time of exploit",
-    "decision": "Under Review",
+    "decision": "Rejected",
     "over100K": true,
     "estimatedDollarValue": 286424
   },
@@ -1650,50 +1650,50 @@
     "estimatedDollarValue": null
   },
   "DnP9Xnrw5edjAkCVwgrJsVFky9akTCqN1Tk4Ae5vUSg5": {
-    "reason": "0 Cash balance",
-    "decision": "Rejected",
+    "reason": "Chestfi",
+    "decision": "Approved",
     "over100K": false,
     "estimatedDollarValue": null
   },
   "AM1tRE2xQRZXWeSLQTehUU7cK91nx7KLQ7bctCPS2e7G": {
-    "reason": "0 Cash balance",
-    "decision": "Rejected",
+    "reason": "Chestfi",
+    "decision": "Approved",
     "over100K": false,
     "estimatedDollarValue": null
   },
   "3HHhJQsXQW4pspBfMzDJRp3m7Tw3LKthD2vduifbQ9Yv": {
-    "reason": "0 Cash balance",
-    "decision": "Rejected",
+    "reason": "Chestfi",
+    "decision": "Approved",
     "over100K": false,
     "estimatedDollarValue": null
   },
   "CLTxQRd31xY1FYLGmUtpG7ypYqvefKahsCPiugDR8PBz": {
-    "reason": "0 Cash balance",
-    "decision": "Rejected",
+    "reason": "Chestfi",
+    "decision": "Approved",
     "over100K": false,
     "estimatedDollarValue": null
   },
   "8xEjQdaMspPEfyBVJUA2ArudtUX3Ftcf143YCLFrfnp9": {
-    "reason": "0 Cash balance",
-    "decision": "Rejected",
+    "reason": "Chestfi",
+    "decision": "Approved",
     "over100K": false,
     "estimatedDollarValue": null
   },
   "AnsrpSZYd5wDMnsAYPmRd6owa9semkuNQbfvm2kdXKNn": {
-    "reason": "0 Cash balance",
-    "decision": "Rejected",
+    "reason": "Chestfi",
+    "decision": "Approved",
     "over100K": false,
     "estimatedDollarValue": null
   },
   "ES4dLqrRhVe9RyCBCeDDD9WkDCf1AB9syuPp6ikEPh1T": {
-    "reason": "0 Cash balance",
-    "decision": "Rejected",
+    "reason": "Chestfi",
+    "decision": "Approved",
     "over100K": false,
     "estimatedDollarValue": null
   },
   "4VgLHjAuFNALmxdKZZKbQuPjM6FTQB3b55NBup9AAEeK": {
-    "reason": "0 Cash balance",
-    "decision": "Rejected",
+    "reason": "Chestfi",
+    "decision": "Approved",
     "over100K": false,
     "estimatedDollarValue": null
   },
@@ -1998,20 +1998,20 @@
     "estimatedDollarValue": null
   },
   "7EiMKpqMhLFyX6mkc266zejHDLKcz28bfNDJB7xoDJNF": {
-    "reason": "",
+    "reason": "Correct values in tool",
     "decision": "Approved",
     "over100K": false,
     "estimatedDollarValue": null
   },
   "": {
-    "reason": "",
-    "decision": "",
-    "over100K": null,
+    "reason": "Purchased cashio after exploit",
+    "decision": "Rejected",
+    "over100K": false,
     "estimatedDollarValue": null
   },
   "A2D7xRgN87PLE1qexw4U8JNoDuhPET1DEi3RTJXhz28n": {
     "reason": "Chestfi",
-    "decision": "Under Review",
+    "decision": "Rejected",
     "over100K": null,
     "estimatedDollarValue": null
   },
@@ -2047,7 +2047,7 @@
   },
   "Rty9Q33buymSJzvdVu6xJr4VUt2XB2SYUZJYWKyNeSB": {
     "reason": "Requires valid memo submission and signature, but funds are there",
-    "decision": "Under Review",
+    "decision": "Rejected",
     "over100K": null,
     "estimatedDollarValue": null
   },
@@ -2058,8 +2058,8 @@
     "estimatedDollarValue": 14928.66
   },
   "BTxFzBimhYdW4xxA2EFFbEEETJQXMv8F2y6dbjVzLAmL": {
-    "reason": "Requires valid memo submission and signature, but funds are there",
-    "decision": "Under Review",
+    "reason": "Invalid submission",
+    "decision": "Rejected",
     "over100K": null,
     "estimatedDollarValue": null
   },
@@ -2074,5 +2074,35 @@
     "decision": "Approved",
     "over100K": true,
     "estimatedDollarValue": 505000
+  },
+  "8dHbm6y9uy6mVJ3MRLXJaAxUidjcb2CUY3mZFXnEnRcm": {
+    "reason": "Tulip: manual verification",
+    "decision": "Approved",
+    "over100K": false,
+    "estimatedDollarValue": null
+  },
+  "4kmwVwK1sJNn3gmhhV5VuBkYJ5pLHBQx7EUSHtaWyF2x": {
+    "reason": "Correct values in tool",
+    "decision": "Approved",
+    "over100K": false,
+    "estimatedDollarValue": null
+  },
+  "BFPrtTwTpXyXyphCSQBNpXKddR2sm2qnrT2w21TRnht2": {
+    "reason": "Correct values in tool",
+    "decision": "Approved",
+    "over100K": false,
+    "estimatedDollarValue": null
+  },
+  "9B9KFjbGAE18pNX8MAi5ZRQ1kc6MJ5ZkEeBwG2LKoSJZ": {
+    "reason": "Correct values in tool",
+    "decision": "Approved",
+    "over100K": false,
+    "estimatedDollarValue": null
+  },
+  "GxPu592qKseMVAssJSGgzgF4PoZ6P2EpndZYBC14srnm": {
+    "reason": "Correct values in tool",
+    "decision": "Approved",
+    "over100K": false,
+    "estimatedDollarValue": null
   }
 }

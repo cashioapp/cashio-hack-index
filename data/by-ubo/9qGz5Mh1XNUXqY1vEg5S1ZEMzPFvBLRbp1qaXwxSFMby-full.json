@@ -1,77 +1,77 @@
 {
-  "tokenAccounts": [
-    {
-      "tokenName": "Cashio Dollar",
-      "account": "FaQvNTcFoRhBX8sFsErmYC7RJVBKD5WzLHkontfBo29C",
-      "owner": "9qGz5Mh1XNUXqY1vEg5S1ZEMzPFvBLRbp1qaXwxSFMby",
-      "type": "wallet"
-    },
-    {
-      "tokenName": "Saber CASH-USDC LP",
-      "account": "FtsFys3yoPZhTj5788bxvgS4dVEnKbF8b5ZfoFWjXTvW",
-      "owner": "B8Ro7U65k3jE5a1MmrfDCtEP2ug79ECg8fwPTWLJpZyz",
-      "type": "merge-miner"
-    },
-    {
-      "tokenName": "Saber CASH-USDC LP",
-      "account": "Hp4ZSpk31CVLSBMTAd9UJSUVVEBocCyiVu31z6foFGhJ",
-      "owner": "7uhYTpFpF1ivFVTvQiddYgCFohKf18LHisZ29oXnoNXE",
-      "type": "miner"
-    },
-    {
-      "tokenName": "Saber CASH-USDC LP",
-      "account": "6QzSrM5G1KyJVXG5FaUbRrt5jCP4oGzXAEUkeMPpb8bh",
-      "owner": "9qGz5Mh1XNUXqY1vEg5S1ZEMzPFvBLRbp1qaXwxSFMby",
-      "type": "wallet"
-    },
-    {
-      "tokenName": "Sencha CASH-COW LP",
-      "account": "GWwp3n21RA2fRr6gGkJxRk57HmtBgykzfj1HoecWNjxK",
-      "owner": "FZ3eLvfGn19qUaVijFVxiK359AVKmEVL9sVcAbuKHQJC",
-      "type": "merge-miner"
-    },
-    {
-      "tokenName": "Sencha CASH-COW LP",
-      "account": "CBx7g579girGeKFRrTkbT4e4CuSGRSmhAUqCM7uQRKYq",
-      "owner": "FPP7rESm3TNucckhu1PB9yUb2AktNNSp6UiQMcnyzauU",
-      "type": "miner"
-    },
-    {
-      "tokenName": "Sencha CASH-COW LP",
-      "account": "J2JbpWJU5sTLrMUkYFkaz8xpHsDCHFyFEjzgbYACFhc4",
-      "owner": "9qGz5Mh1XNUXqY1vEg5S1ZEMzPFvBLRbp1qaXwxSFMby",
-      "type": "wallet"
-    }
-  ],
   "reimbursements": [
     {
-      "signature": "4WF9BGSCwvKbXz9Zx1PMr6dZPVP963ET7p5LCqaeQQp4J6anuYDkLAdKjbCBryPGcfhxQHK8vqi94ArdrNJiNVyu",
-      "source": "8H4vUyYxpyqfszfVffECiXCdLBd2xRFY51Rp4AGGfDzS",
-      "destination": "Dw4eFKiD1mMtimAeC5sQ5yAtzgk1jNhkdtHEyVRvQY1S",
-      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
       "amount": "4989483031",
-      "destinationOwner": "B8Ro7U65k3jE5a1MmrfDCtEP2ug79ECg8fwPTWLJpZyz"
+      "destination": "Dw4eFKiD1mMtimAeC5sQ5yAtzgk1jNhkdtHEyVRvQY1S",
+      "destinationOwner": "B8Ro7U65k3jE5a1MmrfDCtEP2ug79ECg8fwPTWLJpZyz",
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "signature": "4WF9BGSCwvKbXz9Zx1PMr6dZPVP963ET7p5LCqaeQQp4J6anuYDkLAdKjbCBryPGcfhxQHK8vqi94ArdrNJiNVyu",
+      "source": "8H4vUyYxpyqfszfVffECiXCdLBd2xRFY51Rp4AGGfDzS"
     }
   ],
   "review": {
-    "reason": "4,989.483\n CASH-USDC / 9,381.098\n sCASH-COW",
     "decision": "Approved",
+    "estimatedDollarValue": 9,
     "over100K": false,
-    "estimatedDollarValue": null
+    "reason": "Partially refunded - 9,381.098\n sCASH-COW remaining"
   },
   "submission": {
-    "selfReportedAddress": "9qGz5Mh1XNUXqY1vEg5S1ZEMzPFvBLRbp1qaXwxSFMby",
-    "submissionIsValid": true,
-    "submissionInvalidReason": null,
-    "owner": "9qGz5Mh1XNUXqY1vEg5S1ZEMzPFvBLRbp1qaXwxSFMby",
-    "ethAddress": "0x42fe893101E5736507E374C97F1fbc7600305698",
-    "originalWallet": "9qGz5Mh1XNUXqY1vEg5S1ZEMzPFvBLRbp1qaXwxSFMby",
     "balance": "- $5000",
-    "source": "- My money from some of bounty/ambassador campaign. Me and my family are not so well provided for that I would not try to recover the \"lost\" funds.",
+    "ethAddress": "0x42fe893101E5736507E374C97F1fbc7600305698",
     "messageText": "1. 0x42fe893101E5736507E374C97F1fbc7600305698\n2. 9qGz5Mh1XNUXqY1vEg5S1ZEMzPFvBLRbp1qaXwxSFMby\n3. CASH-USDC LP token: 4 989,483031 owned by 9qGz5Mh1XNUXqY1vEg5S1ZEMzPFvBLRbp1qaXwxSFMby\n4. - \n5. - $5000\n6. - My money from some of bounty/ambassador campaign. Me and my family are not so well provided for that I would not try to recover the \"lost\" funds.",
-    "signatureIsVerified": true,
+    "originalWallet": "9qGz5Mh1XNUXqY1vEg5S1ZEMzPFvBLRbp1qaXwxSFMby",
+    "owner": "9qGz5Mh1XNUXqY1vEg5S1ZEMzPFvBLRbp1qaXwxSFMby",
     "rawMessage": "Y2FzaGlvLmFwcCByZWZ1bmQgc3VibWlzc2lvbjoKCjEuIDB4NDJmZTg5MzEwMUU1NzM2NTA3RTM3NEM5N0YxZmJjNzYwMDMwNTY5OAoyLiA5cUd6NU1oMVhOVVhxWTF2RWc1UzFaRU16UEZ2QkxSYnAxcWFYd3hTRk1ieQozLiBDQVNILVVTREMgTFAgdG9rZW46IDQgOTg5LDQ4MzAzMSBvd25lZCBieSA5cUd6NU1oMVhOVVhxWTF2RWc1UzFaRU16UEZ2QkxSYnAxcWFYd3hTRk1ieQo0LiAtIAo1LiAtICQ1MDAwCjYuIC0gTXkgbW9uZXkgZnJvbSBzb21lIG9mIGJvdW50eS9hbWJhc3NhZG9yIGNhbXBhaWduLiBNZSBhbmQgbXkgZmFtaWx5IGFyZSBub3Qgc28gd2VsbCBwcm92aWRlZCBmb3IgdGhhdCBJIHdvdWxkIG5vdCB0cnkgdG8gcmVjb3ZlciB0aGUgImxvc3QiIGZ1bmRzLg==",
     "rawSignature": "LBG/IWr+3DcxNqMkCd50DABuwhPVh59YHieV5GEm5QeKGnfpOhZNBKyGIKwCpqPIuoEhmEoZUP4atCevbYOBAg==",
-    "submissionID": 358
-  }
+    "selfReportedAddress": "9qGz5Mh1XNUXqY1vEg5S1ZEMzPFvBLRbp1qaXwxSFMby",
+    "signatureIsVerified": true,
+    "source": "- My money from some of bounty/ambassador campaign. Me and my family are not so well provided for that I would not try to recover the \"lost\" funds.",
+    "submissionID": 358,
+    "submissionInvalidReason": null,
+    "submissionIsValid": true
+  },
+  "tokenAccounts": [
+    {
+      "account": "FaQvNTcFoRhBX8sFsErmYC7RJVBKD5WzLHkontfBo29C",
+      "owner": "9qGz5Mh1XNUXqY1vEg5S1ZEMzPFvBLRbp1qaXwxSFMby",
+      "tokenName": "Cashio Dollar",
+      "type": "wallet"
+    },
+    {
+      "account": "FtsFys3yoPZhTj5788bxvgS4dVEnKbF8b5ZfoFWjXTvW",
+      "owner": "B8Ro7U65k3jE5a1MmrfDCtEP2ug79ECg8fwPTWLJpZyz",
+      "tokenName": "Saber CASH-USDC LP",
+      "type": "merge-miner"
+    },
+    {
+      "account": "Hp4ZSpk31CVLSBMTAd9UJSUVVEBocCyiVu31z6foFGhJ",
+      "owner": "7uhYTpFpF1ivFVTvQiddYgCFohKf18LHisZ29oXnoNXE",
+      "tokenName": "Saber CASH-USDC LP",
+      "type": "miner"
+    },
+    {
+      "account": "6QzSrM5G1KyJVXG5FaUbRrt5jCP4oGzXAEUkeMPpb8bh",
+      "owner": "9qGz5Mh1XNUXqY1vEg5S1ZEMzPFvBLRbp1qaXwxSFMby",
+      "tokenName": "Saber CASH-USDC LP",
+      "type": "wallet"
+    },
+    {
+      "account": "GWwp3n21RA2fRr6gGkJxRk57HmtBgykzfj1HoecWNjxK",
+      "owner": "FZ3eLvfGn19qUaVijFVxiK359AVKmEVL9sVcAbuKHQJC",
+      "tokenName": "Sencha CASH-COW LP",
+      "type": "merge-miner"
+    },
+    {
+      "account": "CBx7g579girGeKFRrTkbT4e4CuSGRSmhAUqCM7uQRKYq",
+      "owner": "FPP7rESm3TNucckhu1PB9yUb2AktNNSp6UiQMcnyzauU",
+      "tokenName": "Sencha CASH-COW LP",
+      "type": "miner"
+    },
+    {
+      "account": "J2JbpWJU5sTLrMUkYFkaz8xpHsDCHFyFEjzgbYACFhc4",
+      "owner": "9qGz5Mh1XNUXqY1vEg5S1ZEMzPFvBLRbp1qaXwxSFMby",
+      "tokenName": "Sencha CASH-COW LP",
+      "type": "wallet"
+    }
+  ]
 }

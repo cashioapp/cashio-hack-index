@@ -1,29 +1,29 @@
 {
+  "reimbursements": [],
+  "review": {
+    "decision": "Rejected",
+    "estimatedDollarValue": null,
+    "over100K": null,
+    "reason": "Automated rejection: reported address does not match signature"
+  },
   "tokenAccounts": [
     {
-      "tokenName": "Saros C98-CASH Saros LP",
       "account": "DxszRYkGz6Qzt63urpihV3XMgWtTBPgdvLxeQmULDQqA",
       "owner": "DWTAujt4TGmeyC1Vq7zGyrfLyqG1PSw2jWUDGV4NWtVb",
+      "tokenName": "Saros C98-CASH Saros LP",
       "type": "wallet"
     },
     {
-      "tokenName": "Saros C98-CASH Saros LP",
       "account": "EsA195aPEPSUJgAxUYfoXUqR7KxtLxz88fQeYQdEkNg8",
       "owner": "D3QNxKM8GUkPEQZnKxbnhEiLQ1sKdvQsyapfBYcKUE9w",
+      "tokenName": "Saros C98-CASH Saros LP",
       "type": "miner"
     },
     {
-      "tokenName": "Cashio Dollar",
       "account": "Hakbx4mw9GhWDN3mU41RTEKW8ikp6TvDBtdHv55VdgtF",
       "owner": "DWTAujt4TGmeyC1Vq7zGyrfLyqG1PSw2jWUDGV4NWtVb",
+      "tokenName": "Cashio Dollar",
       "type": "wallet"
     }
-  ],
-  "reimbursements": [],
-  "review": {
-    "reason": "Automated rejection: reported address does not match signature",
-    "decision": "Rejected",
-    "over100K": null,
-    "estimatedDollarValue": null
-  }
+  ]
 }

@@ -1,17 +1,17 @@
 {
-  "tokenAccounts": [
-    {
-      "tokenName": "Cashio Dollar",
-      "account": "8QE5T82zAShPbezPPkdP9quJms1zjpZxhc2bGfH97Q6X",
-      "owner": "BZZRr4wnzpMG4LC3U8oNoJaqdwskJBYKw3xsJmVuCrAx",
-      "type": "wallet"
-    }
-  ],
   "reimbursements": [],
   "review": {
-    "reason": "Automated rejection: reported address does not match signature",
     "decision": "Rejected",
+    "estimatedDollarValue": null,
     "over100K": null,
-    "estimatedDollarValue": null
-  }
+    "reason": "Automated rejection: reported address does not match signature"
+  },
+  "tokenAccounts": [
+    {
+      "account": "8QE5T82zAShPbezPPkdP9quJms1zjpZxhc2bGfH97Q6X",
+      "owner": "BZZRr4wnzpMG4LC3U8oNoJaqdwskJBYKw3xsJmVuCrAx",
+      "tokenName": "Cashio Dollar",
+      "type": "wallet"
+    }
+  ]
 }

@@ -1,44 +1,44 @@
 {
-  "tokenAccounts": [
-    {
-      "tokenName": "Cashio Dollar",
-      "account": "itFR86BG2fHn7sgiUXNmxVhFeMm4enyrAygmN9Uw5iG",
-      "owner": "6HEn9n8aQJGSYs7ciVVijtWa9rWxuJsGxkFxwaT87fRj",
-      "type": "wallet"
-    },
-    {
-      "tokenName": "Saber CASH-USDC LP",
-      "account": "9Ks6BJ89LAu2UFLiokkj8EpysHuTTsQ2ywvfLvJ9haRP",
-      "owner": "6HEn9n8aQJGSYs7ciVVijtWa9rWxuJsGxkFxwaT87fRj",
-      "type": "wallet"
-    },
-    {
-      "tokenName": "Saber CASH-USDC LP",
-      "account": "7kQ4W64LfdSdR3V2Ek4bmbZsXeux5pS6B3jFden8zja3",
-      "owner": "FR6ieWrEfe6qapTKyCuBq2FtBJnrCsoYJKHxDprCNXpe",
-      "type": "merge-miner"
-    }
-  ],
   "reimbursements": [],
   "review": {
-    "reason": "This entry has not yet been reviewed.",
-    "decision": "Needs Review",
-    "over100K": null,
-    "estimatedDollarValue": null
+    "decision": "Rejected",
+    "estimatedDollarValue": 43.35,
+    "over100K": false,
+    "reason": "Incorrectly filled out memo - requires resubmission with correct claim amount"
   },
   "submission": {
-    "selfReportedAddress": "6HEn9n8aQJGSYs7ciVVijtWa9rWxuJsGxkFxwaT87fRj",
-    "submissionIsValid": true,
-    "submissionInvalidReason": null,
-    "owner": "6HEn9n8aQJGSYs7ciVVijtWa9rWxuJsGxkFxwaT87fRj",
-    "ethAddress": "0xAC0ea85F1C2f0B07E2862BA1CC4DA36150A4Faab",
-    "originalWallet": "6HEn9n8aQJGSYs7ciVVijtWa9rWxuJsGxkFxwaT87fRj",
     "balance": "$228 + 33.35 CASH-USDC LP ~= $990 ",
-    "source": "Thes money is what I usually earn at work. In addition to daily expenses, I pay my mortgage every month. There is not much left over each year. I value this money very much. Thank you.",
+    "ethAddress": "0xAC0ea85F1C2f0B07E2862BA1CC4DA36150A4Faab",
     "messageText": "1.eth addr:\n0xAC0ea85F1C2f0B07E2862BA1CC4DA36150A4Faab\n2.solana addr:\n6HEn9n8aQJGSYs7ciVVijtWa9rWxuJsGxkFxwaT87fRj\n3.43Saber CASH-USDC LP tx:\nhttps://anchor.so/address/6HEn9n8aQJGSYs7ciVVijtWa9rWxuJsGxkFxwaT87fRj/cashio\n4.228.55 cash dollar addr:\nhttps://solscan.io/tx/5ZiE9Cr6QvJtseiBFWjdVdsUEVCiPCvxaJCUyHcaPtvnTsQ4gCBVnEUvM18RvpiCxKFypg6PTuFRvCxtSfvPqiB2\n5.$228 + 33.35 CASH-USDC LP ~= $990 \n6.Thes money is what I usually earn at work. In addition to daily expenses, I pay my mortgage every month. There is not much left over each year. I value this money very much. Thank you.",
-    "signatureIsVerified": true,
+    "originalWallet": "6HEn9n8aQJGSYs7ciVVijtWa9rWxuJsGxkFxwaT87fRj",
+    "owner": "6HEn9n8aQJGSYs7ciVVijtWa9rWxuJsGxkFxwaT87fRj",
     "rawMessage": "Y2FzaGlvLmFwcCByZWZ1bmQgc3VibWlzc2lvbjoKCjEuZXRoIGFkZHI6CjB4QUMwZWE4NUYxQzJmMEIwN0UyODYyQkExQ0M0REEzNjE1MEE0RmFhYgoyLnNvbGFuYSBhZGRyOgo2SEVuOW44YVFKR1NZczdjaVZWaWp0V2E5cld4dUpzR3hrRnh3YVQ4N2ZSagozLjQzU2FiZXIgQ0FTSC1VU0RDIExQIHR4OgpodHRwczovL2FuY2hvci5zby9hZGRyZXNzLzZIRW45bjhhUUpHU1lzN2NpVlZpanRXYTlyV3h1SnNHeGtGeHdhVDg3ZlJqL2Nhc2hpbwo0LjIyOC41NSBjYXNoIGRvbGxhciBhZGRyOgpodHRwczovL3NvbHNjYW4uaW8vdHgvNVppRTlDcjZRdkp0c2VpQkZXamRWZHNVRVZDaVBDdnhhSkNVeUhjYVB0dm5Uc1E0Z0NCVm5FVXZNMThSdnBpQ3hLRnlwZzZQVHVGUnZDeHRTZnZQcWlCMgo1LiQyMjggKyAzMy4zNSBDQVNILVVTREMgTFAgfj0gJDk5MCAKNi5UaGVzIG1vbmV5IGlzIHdoYXQgSSB1c3VhbGx5IGVhcm4gYXQgd29yay4gSW4gYWRkaXRpb24gdG8gZGFpbHkgZXhwZW5zZXMsIEkgcGF5IG15IG1vcnRnYWdlIGV2ZXJ5IG1vbnRoLiBUaGVyZSBpcyBub3QgbXVjaCBsZWZ0IG92ZXIgZWFjaCB5ZWFyLiBJIHZhbHVlIHRoaXMgbW9uZXkgdmVyeSBtdWNoLiBUaGFuayB5b3Uu",
     "rawSignature": "/XXB0pzejSU6m0PqLl4g/gnG7s4o4Dv6CKiKJjAa8hhdbxTwNGRE7woBMoy72NI8SxFRxPZbo8k+M0wgKLm7CA==",
-    "submissionID": 524
-  }
+    "selfReportedAddress": "6HEn9n8aQJGSYs7ciVVijtWa9rWxuJsGxkFxwaT87fRj",
+    "signatureIsVerified": true,
+    "source": "Thes money is what I usually earn at work. In addition to daily expenses, I pay my mortgage every month. There is not much left over each year. I value this money very much. Thank you.",
+    "submissionID": 524,
+    "submissionInvalidReason": null,
+    "submissionIsValid": true
+  },
+  "tokenAccounts": [
+    {
+      "account": "itFR86BG2fHn7sgiUXNmxVhFeMm4enyrAygmN9Uw5iG",
+      "owner": "6HEn9n8aQJGSYs7ciVVijtWa9rWxuJsGxkFxwaT87fRj",
+      "tokenName": "Cashio Dollar",
+      "type": "wallet"
+    },
+    {
+      "account": "9Ks6BJ89LAu2UFLiokkj8EpysHuTTsQ2ywvfLvJ9haRP",
+      "owner": "6HEn9n8aQJGSYs7ciVVijtWa9rWxuJsGxkFxwaT87fRj",
+      "tokenName": "Saber CASH-USDC LP",
+      "type": "wallet"
+    },
+    {
+      "account": "7kQ4W64LfdSdR3V2Ek4bmbZsXeux5pS6B3jFden8zja3",
+      "owner": "FR6ieWrEfe6qapTKyCuBq2FtBJnrCsoYJKHxDprCNXpe",
+      "tokenName": "Saber CASH-USDC LP",
+      "type": "merge-miner"
+    }
+  ]
 }

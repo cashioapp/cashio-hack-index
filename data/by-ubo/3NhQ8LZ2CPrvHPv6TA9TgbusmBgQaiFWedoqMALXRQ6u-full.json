@@ -1,23 +1,37 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "G6nYq9u4hc46T47rZthqLpTQatu5x5YNAEZuaopxkD1a",
+      "amount": 0,
       "owner": "3NhQ8LZ2CPrvHPv6TA9TgbusmBgQaiFWedoqMALXRQ6u",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "L5DqTfzEKJDnfSDAMH6t5Et4ipbsX7NpMpitDYTPTHm",
+      "amount": 0,
       "owner": "3NhQ8LZ2CPrvHPv6TA9TgbusmBgQaiFWedoqMALXRQ6u",
+      "price": null,
       "tokenName": "Sencha CASH-COW LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     },
     {
       "account": "AJAiki25B8JcKZvNm4nQ5KY91xMcpPTiQuNnG1fhVVB2",
+      "amount": 0,
       "owner": "3hHvtm7xaZJ1F2TCVWs1i1pmfXkbtBWJ1z6kLbx6Gdes",
+      "price": null,
       "tokenName": "Sencha CASH-COW LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": null
     }
   ]
 }

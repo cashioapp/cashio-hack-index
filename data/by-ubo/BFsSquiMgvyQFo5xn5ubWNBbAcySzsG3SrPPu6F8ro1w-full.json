@@ -1,29 +1,68 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 19.529762,
+    "totalLosses": 19.529762,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "AzPoHR5Jfo51uZRM7Yxq411BoSaGKvZiNQLUNovMSxTS",
+      "amount": 22976.14,
+      "historical": {
+        "amount": "22976.14",
+        "slot": 117870315,
+        "time": 1643170323,
+        "txSig": "2W6q55r2Eg7hLq9DZ1jkuzA9J8NyT61w1GHMar6om4Y13Cz3q8mih3nWRvz8suDJRHMiSueJsxbh2xnBCgAzApeo"
+      },
       "owner": "B82DSntxn5wQBoXpZmWyiGQMgFK6VbdZ4w2cp1z9A9f1",
+      "price": 0.00085,
       "tokenName": "Saros C98-CASH Saros LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": 19.529719
     },
     {
       "account": "GHje8gJgCuPfzfXbgTXRHpEwNNbrSAphmFRA4ps75BQW",
+      "amount": 0,
+      "historical": {
+        "slot": 117870315,
+        "time": 1643170323,
+        "txSig": "2W6q55r2Eg7hLq9DZ1jkuzA9J8NyT61w1GHMar6om4Y13Cz3q8mih3nWRvz8suDJRHMiSueJsxbh2xnBCgAzApeo"
+      },
       "owner": "BFsSquiMgvyQFo5xn5ubWNBbAcySzsG3SrPPu6F8ro1w",
+      "price": 0.00085,
       "tokenName": "Saros C98-CASH Saros LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "B73yA4c7fkR7ZhMM8NRFqouVfhsEyF5VLsLRk46j68Ks",
+      "amount": 0.000043,
+      "historical": {
+        "amount": "0.000043",
+        "slot": 117870226,
+        "time": 1643170272,
+        "txSig": "653eftv2b1JKx2EK2qV5ZSTo8gBj8L8k1nNiKfvVnti2VyjERbLuckUcwx4y6HUGj2PEcZP9xBx8Eqebw1g8ykGA"
+      },
       "owner": "BFsSquiMgvyQFo5xn5ubWNBbAcySzsG3SrPPu6F8ro1w",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0.000043
     },
     {
       "account": "C4bwHswAErQmZTxFpByko2UKDUdF8DWZGkc5DNqq48z6",
+      "amount": 0,
+      "historical": {
+        "slot": 116006800,
+        "time": 1642044579,
+        "txSig": "2h2zhcXynKrc8mgo6jG3p1bPbrzGcXbD2ZxPLvf6qr5Jcapqu4qntRGMcVXU4VGz6BFUmWHNhzsvwDFZJHGjg4gk"
+      },
       "owner": "BFsSquiMgvyQFo5xn5ubWNBbAcySzsG3SrPPu6F8ro1w",
+      "price": 1.011252854,
       "tokenName": "Saber CASH-USDC LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     }
   ]
 }

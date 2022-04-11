@@ -1,17 +1,38 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "BdiLS1RdxcJKhPZ3DNwaNb49bZfTSzhMqp3nPEmXZys3",
+      "amount": 0,
+      "historical": {
+        "slot": 108136769,
+        "time": 1637574379,
+        "txSig": "4zMAsHe1cdLXPk7z7NF4sTSr7YxUgMZZFaLtwzpiMAL7KF2exMV1ThU13vvFTddEyhwJsPb5mCgyggachyLN1jgT"
+      },
       "owner": "9Qw5ypYekdWn2micQbnqnjjErQB3AGp2c28QZ8dUJbWS",
+      "price": 1.011252854,
       "tokenName": "Saber CASH-USDC LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "36fqL1r7DPz4xL9CXwmsnqvhgoF8TxDCBQFAGiG2PMCY",
+      "amount": 0,
+      "historical": {
+        "slot": 108136765,
+        "time": 1637574377,
+        "txSig": "Y55ujDn7faX1XmdGbjoquTpCQLAgWS1H9w8mgu1CqGvQF8pska5KtEkY58PPBtfpaCvB8a8QHnB6LN96emEUTAC"
+      },
       "owner": "9Qw5ypYekdWn2micQbnqnjjErQB3AGp2c28QZ8dUJbWS",
+      "price": 0,
       "tokenName": "Sunny Saber CASH-USDC LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     }
   ]
 }

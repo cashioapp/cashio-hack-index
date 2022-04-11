@@ -1,23 +1,53 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 70.027752,
+    "totalLosses": 70.027752,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "4YqjmexcdANsXw7SMQAzj1dU2RtzFhEotafQsaL3gjyB",
+      "amount": 70.027752,
+      "historical": {
+        "amount": "70.027752",
+        "slot": 117287761,
+        "time": 1642828547,
+        "txSig": "RuGoJaCBo3qtLVEheq8jUDBi3Qv4Xo3Q9dksBbaedXhgYNSiovbXiirSbGE5xW4To3XbNTyLYPXbFxnwJq8y27J"
+      },
       "owner": "HkPuVfzbeJzqccVqcdGxSdD9oq7xErJnvGnTRKUrVirL",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 70.027752
     },
     {
       "account": "BghLwybDMD69KvHubLWLXa1imS1TgpTzSUfRpo8aoe1o",
+      "amount": 0,
+      "historical": {
+        "slot": 116769541,
+        "time": 1642490487,
+        "txSig": "2Y57CQSbqdME9vBhSxdE4bg6fugXVWGvDJ9Nm94PcXbygNV9Jfi2DrnPK9jH1iLUmAzDWAH3G5B8TB891QoY7dW5"
+      },
       "owner": "HkPuVfzbeJzqccVqcdGxSdD9oq7xErJnvGnTRKUrVirL",
+      "price": null,
       "tokenName": "Sencha CASH-COW LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     },
     {
       "account": "FiJwHNgXA6oMLChcY81T3YCE751B6GX1JDePKbNq3Jo7",
+      "amount": 0,
+      "historical": {
+        "slot": 116769257,
+        "time": 1642490327,
+        "txSig": "2XGXXtnGDhUP4itdMv8NS4hctsVkzGD14ZpDKM7cVx3KLaCeiLMdMNEm7AX6zS949oyEPGqH88wTwL6AK3RrMcQy"
+      },
       "owner": "4JJApmungFBESk4VX3RZ2RzRUqwmaromsCdF9h9zK1PV",
+      "price": null,
       "tokenName": "Sencha CASH-COW LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": null
     }
   ]
 }

@@ -1,29 +1,66 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "H1tHRvUfHzU54g6D4o4Nysg1WQ4hHuYhTWY5NAMY5Chk",
+      "amount": 0,
+      "historical": {
+        "slot": 117623619,
+        "time": 1643030642,
+        "txSig": "2CiWaSPbSGrMcuBg8WL3esHQbmxZwNtrLeVDPAPDrm4hvZsUbDRoSzEr7nAd9LE4m9xXKkGv756cydfYAks86qxX"
+      },
       "owner": "4YUXoBa9wDKGAeYjUtZkVk31fSc4p6UYK8pBtEbcxSG6",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "38HXcuPGaDyUoGaAo6FtHhHsJfwWyMHtSosCvpgB4NDP",
+      "amount": 0,
+      "historical": {
+        "slot": 117621249,
+        "time": 1643029220,
+        "txSig": "2PZBFcY9u58972qsSH2mzv3iDgPfvRkbApV2hUVFJHqnYzAVTA39KUfpLk7AZTcs8BFDtUNGdYKpwzXoDXHAWsiZ"
+      },
       "owner": "E4ZMa4CWQd7iaWrKdzDPheThZbWvDrhbFKXDTToLCCfG",
+      "price": null,
       "tokenName": "Sencha CASH-COW LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": null
     },
     {
       "account": "94hbvdPNCw7xx5Qw7WPHBY4i44VjSjLCEfhBrUQrZoza",
+      "amount": 0,
+      "historical": {
+        "slot": 117622374,
+        "time": 1643029908,
+        "txSig": "5W2PekDSsV6Mg2rd66j1YujKdWNuCVj4k826EBf4XCygUBDMbZzX1dy1bRF77cPjHJAMnxmSvoPBk8YYMYag9HMq"
+      },
       "owner": "4YUXoBa9wDKGAeYjUtZkVk31fSc4p6UYK8pBtEbcxSG6",
+      "price": null,
       "tokenName": "Sencha CASH-COW LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     },
     {
       "account": "CQvJCnRKJvZd1NK7W1ox3TGrHQA9g3pAiwrfzdRDrCRw",
+      "amount": 0,
+      "historical": {
+        "slot": 117622325,
+        "time": 1643029878,
+        "txSig": "3vuX3CUZw3HA1JDs5HycUXTkck89jpdLkrNrxkoRjYFCc5pZXLTSG242WdgRnLbeCugensFDbLWJL2mrRHXoSBmS"
+      },
       "owner": "BUHArC8Xbo3eQ2qNPVL4hQh9HyC8VsNbk31UtPqt5k6n",
+      "price": null,
       "tokenName": "Sencha CASH-COW LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": null
     }
   ]
 }

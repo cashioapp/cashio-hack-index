@@ -1,47 +1,83 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "6L3ZWwa5YLDLGKBNrNZHDmDPMubVbxTRw2KDaXPuBBLN",
+      "amount": 0,
       "owner": "7j7XbHByv4XMy9GoFYjJaWge9aNsNWZzKsFumjoRuu48",
+      "price": 0.00085,
       "tokenName": "Saros C98-CASH Saros LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": 0
     },
     {
       "account": "8No43zqBP1y3ifHhXZoXNGLgnaYHbx1SEffGXFab8zxN",
+      "amount": 0,
       "owner": "CErSZ9jEQTesjkxQoiyc2VGcp8FmjefVB7aDiroSZjHW",
+      "price": 0.00085,
       "tokenName": "Saros C98-CASH Saros LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "8uwpysJg6ti9EC8ajdYvncMMTigS9XiLvvsD9hC8xbmZ",
+      "amount": 0,
+      "historical": {
+        "slot": 124203960,
+        "time": 1646849335,
+        "txSig": "2fNc3TD96z2pZX36FgH5ygkZWxoRWwRqZLWKSNaDYmsJg3gF6HFwg9WEs5vx81oR3ZB11MQ7iPBQRtfkUxJUMNZj"
+      },
       "owner": "CErSZ9jEQTesjkxQoiyc2VGcp8FmjefVB7aDiroSZjHW",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "9cJ61nizA9Y2b6H2C46NqRaYLRtfRVMxtFWZud1LWv7s",
+      "amount": 0,
+      "historical": {
+        "slot": 124202673,
+        "time": 1646848577,
+        "txSig": "3S3kx9Mq11gwDaq3X2auKvuQFC7dXZJYe9GBPh4R8tw2tQs7VFYszp58BU4X9VTfpPTZ9Wpp4bc5WCVFqCLWwSCi"
+      },
       "owner": "CErSZ9jEQTesjkxQoiyc2VGcp8FmjefVB7aDiroSZjHW",
+      "price": null,
       "tokenName": "Saros POLE-CASH Saros LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     },
     {
       "account": "CZbVDdPCee8smN1ekK2wx1GXNC9YojAuD2WqJ15TXMtA",
+      "amount": 0,
       "owner": "7iT1e6JUc1gdx7rHxm4oMwTRq1cvgxNPoSe19EdfLKTq",
+      "price": null,
       "tokenName": "Saros POLE-CASH Saros LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": null
     },
     {
       "account": "3xGpqH3HWGDEfUiamSdHh8VZvzJr5srPmFJvjv8XgoRT",
+      "amount": 0,
       "owner": "CErSZ9jEQTesjkxQoiyc2VGcp8FmjefVB7aDiroSZjHW",
+      "price": null,
       "tokenName": "Sencha CASH-COW LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     },
     {
       "account": "DgMfzGLjUZEYaYtAbTnUrCvzqFveCEGB76E4GAV4xE24",
+      "amount": 0,
       "owner": "6w8YZb6nBxsakv23J3kQpu2HeWCYJKLDKeyRYRRF2M46",
+      "price": null,
       "tokenName": "Sencha CASH-COW LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": null
     }
   ]
 }

@@ -21,78 +21,176 @@
     "submissionInvalidReason": null,
     "submissionIsValid": true
   },
+  "summary": {
+    "netLosses": 245846.19534996754,
+    "totalLosses": 245846.19534996754,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "5u3F2cMTx6G1mvBJWr7E8MMziVeWqHPiGPPS6EXE3ft6",
+      "amount": 8.41e-7,
+      "historical": {
+        "amount": "8.41e-7",
+        "slot": 123965605,
+        "time": 1646708152,
+        "txSig": "U48G8fq5JbX445B7YgRiDZFu55ZEpR4y2nggMR8AMZzrdAKEzSZw1zMrXLecQkY9Q9Bdbw3Bbtrs9qyPDDdWdWU"
+      },
       "owner": "8JZ2sWqVjer1gb3nNyB7tKS7aNnx8JByw4rV8Ka667kB",
+      "price": 1,
       "tokenName": "Saber Wrapped Cashio Dollar (9 decimals)",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 8.41e-7
     },
     {
       "account": "ADqhtDjp9QXwsBnmGP3mioxSyiuA8S2tUHMG2R57Wu1B",
+      "amount": 0,
+      "historical": {
+        "slot": 124249953,
+        "time": 1646877147,
+        "txSig": "2DCkqBi2XJbgu5vYdCnkxqwLJ3DG5tDfmx86S6DZtBP9wDYACCVQm2uVKLLDMiyVkKFf4zQHVapeatvAnNKS29d7"
+      },
       "owner": "8JZ2sWqVjer1gb3nNyB7tKS7aNnx8JByw4rV8Ka667kB",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "CGaAoB8p6cwoP3FcENUXmsfguBEtzav2LUGnpiwGivhQ",
+      "amount": 0,
+      "historical": {
+        "slot": 121480723,
+        "time": 1645238464,
+        "txSig": "4ZAuwkJCv1iBavgUtvxtKcNyYfdVzcGq2FNYhPQShtZkdScceR6A6KhqP51gY3nCQ4bXnQKqdSkvdfH4j2uk2mAu"
+      },
       "owner": "DmvEGzdK528RTiGsEgG1cdUtunhwNGUKBcC3rfZp6r9o",
+      "price": 1.011252854,
       "tokenName": "Saber CASH-USDC LP",
-      "type": "sunny-vault"
+      "type": "sunny-vault",
+      "usdValue": 0
     },
     {
       "account": "57piviuRp77w8oJHzW7dhwQZ3YWH3LtKmdhnFRB25rEH",
+      "amount": 0,
+      "historical": {
+        "slot": 124249997,
+        "time": 1646877175,
+        "txSig": "4Lf6Hs84YkXqS686y9t9nQkhRpDsv5zhFQeEWUYkALoq6csAZ675WJ6oEhXUkvdtXdxFnTYToF8jLHV1jQbqhbTU"
+      },
       "owner": "8JZ2sWqVjer1gb3nNyB7tKS7aNnx8JByw4rV8Ka667kB",
+      "price": 1.011252854,
       "tokenName": "Saber CASH-USDC LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "DACUdqEYG4RrmYUwM4SkaPwrqP4PF76a6uCnTgxC1NeY",
+      "amount": 0,
+      "historical": {
+        "slot": 123965605,
+        "time": 1646708152,
+        "txSig": "U48G8fq5JbX445B7YgRiDZFu55ZEpR4y2nggMR8AMZzrdAKEzSZw1zMrXLecQkY9Q9Bdbw3Bbtrs9qyPDDdWdWU"
+      },
       "owner": "8JZ2sWqVjer1gb3nNyB7tKS7aNnx8JByw4rV8Ka667kB",
+      "price": 0.999,
       "tokenName": "Saber acUSD-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "GekJjsnQ5NYfPU1sb95f3n5vZoy3q3FSs1tsGJh1d6vr",
+      "amount": 0,
+      "historical": {
+        "slot": 123966103,
+        "time": 1646708450,
+        "txSig": "5WWBHsBee6Qn1Cy7PCH4XVTLfZ7F5woEMBS9cErMsE3GonomQzhthUspTM55jHbo1d5pPg6RLBe4ybeAXUxrj5SM"
+      },
       "owner": "GxFg3hDx5Yj9fYxcJMKjtHdanyb5WETsopXqPpyZDWeX",
+      "price": 0.999,
       "tokenName": "Saber acUSD-CASH LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": 0
     },
     {
       "account": "6ejChQyyZEZoqnyZSyikZHXsZQz7NSigXoYHAxqtNrK9",
+      "amount": 0,
+      "historical": {
+        "slot": 116728237,
+        "time": 1642467000,
+        "txSig": "2SihUaoUBq6PTZDYvFqKbF9p2QYA6GEWYKFESfmy6JcLQTY7rrtX6A4V1LPxG4gqMrhPxSEnNQv6iHyeb3qEDarR"
+      },
       "owner": "8JZ2sWqVjer1gb3nNyB7tKS7aNnx8JByw4rV8Ka667kB",
+      "price": 1.007,
       "tokenName": "Saber UST-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "F6ZpWTWidkDCsTDLkU5NxZGVF9PauxAUhvWnkZBRGRxB",
+      "amount": 0,
+      "historical": {
+        "slot": 119069822,
+        "time": 1643851855,
+        "txSig": "4bbtxW1eqHouf7hrBh6EmRQgY3PCLz7H9HGEXXwptgHds9qSw3NVVzhCSPp4u6hLM84Cniy8fVBqpfTwUdvgoD5j"
+      },
       "owner": "A4QsR2feFXRVZXEUxgxzmbziboUz95ALLbuZRNUHngrf",
+      "price": 1.007,
       "tokenName": "Saber UST-CASH LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": 0
     },
     {
       "account": "AACWrPQ7yTzmJQNSkiZponXd4p9h3ZEiGeZ183v84wjE",
+      "amount": 0,
+      "historical": {
+        "slot": 121480723,
+        "time": 1645238464,
+        "txSig": "TwopeUEpvHKv9s7Rcj4Na7JPoz8jpjMf1pR6EU8xQer7rTEfwX28qWteKE1YbqrgWUAbo9b8j2WfW4hU17VVkGp"
+      },
       "owner": "J4BVaQyVJHLKwXdbjmw1ezQiYUW4b93jeLdbMbhjjsvj",
+      "price": 0,
       "tokenName": "Sunny Saber CASH-USDC LP",
-      "type": "sunny-vault"
+      "type": "sunny-vault",
+      "usdValue": 0
     },
     {
       "account": "BkXf6kY35rQj4xQJw7X3YqKzgzVjg3Lo7cdrkqzNevev",
+      "amount": 234264.489757,
+      "historical": {
+        "amount": "234264.489757",
+        "slot": 124249997,
+        "time": 1646877175,
+        "txSig": "4Lf6Hs84YkXqS686y9t9nQkhRpDsv5zhFQeEWUYkALoq6csAZ675WJ6oEhXUkvdtXdxFnTYToF8jLHV1jQbqhbTU"
+      },
       "owner": "8fpLakTUozXLqFqMYFiR37L1PTDHx2TxuR3kEzP8M6pN",
+      "price": 1.049438588,
       "tokenName": "Tulip USDC-CASH LP",
-      "type": "tulip"
+      "type": "tulip",
+      "usdValue": 245846.19534912653
     },
     {
       "account": "DDP5kVgevyWS5Zqfc3uNnnCPu8ufrhghzww7dzYiS5hp",
+      "amount": 0,
       "owner": "8JZ2sWqVjer1gb3nNyB7tKS7aNnx8JByw4rV8Ka667kB",
+      "price": 1.049438588,
       "tokenName": "Tulip USDC-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "HpQnDRVfqcqj3UUQMZ9p2Ba2uTKY9Lh7ZLFMWzEFX9D2",
+      "amount": 0,
+      "historical": {
+        "slot": 121479259,
+        "time": 1645237652,
+        "txSig": "4g86jzrtZewaq38VdZCrNEGm6WB2wzeNmJ9NirLfkWeB8K9gnRdMf4TE5Ji7VaZ842Y3XxunvqAZgH3JgzGC91JT"
+      },
       "owner": "8fpLakTUozXLqFqMYFiR37L1PTDHx2TxuR3kEzP8M6pN",
+      "price": 1.049438588,
       "tokenName": "Tulip USDC-CASH LP",
-      "type": "tulip"
+      "type": "tulip",
+      "usdValue": 0
     }
   ]
 }

@@ -1,17 +1,40 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 1.9726540000000001,
+    "totalLosses": 1.9726540000000001,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "kqGAWUHd7aA8t53ysWx9LrQJtkQqRt93KpzhWUBTqzX",
+      "amount": 0.000493,
+      "historical": {
+        "amount": "0.000493",
+        "slot": 118983453,
+        "time": 1643800250,
+        "txSig": "412tovbkjwzbUcQWsFhqdUfrsH7rdXs9pbY2SwNsyYcUw2bR3P2LmQYjfjJGQTwwFMJ8TU39BycLwwKpUDeUW7LD"
+      },
       "owner": "SmGKxDmYw9DtchtbNHatAP5mxsiTbzT3i2wdfy4gpcq",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0.000493
     },
     {
       "account": "Ap8R9DUsvyGXMuVvDF88AQtqwLgoPKMBMJrgXFaphzuB",
+      "amount": 1.972161,
+      "historical": {
+        "amount": "1.972161",
+        "slot": 118983453,
+        "time": 1643800250,
+        "txSig": "412tovbkjwzbUcQWsFhqdUfrsH7rdXs9pbY2SwNsyYcUw2bR3P2LmQYjfjJGQTwwFMJ8TU39BycLwwKpUDeUW7LD"
+      },
       "owner": "SmGKxDmYw9DtchtbNHatAP5mxsiTbzT3i2wdfy4gpcq",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 1.972161
     }
   ]
 }

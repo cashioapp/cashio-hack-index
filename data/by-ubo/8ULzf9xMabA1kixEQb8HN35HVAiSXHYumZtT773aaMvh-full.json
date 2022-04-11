@@ -1,17 +1,38 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "7RQQ2J4opj5nrRb4nUaZfP5azkBjb6jNe2NHf2CQyq86",
+      "amount": 0,
+      "historical": {
+        "slot": 116489649,
+        "time": 1642323590,
+        "txSig": "5GR7tZ5UNhTxos9zJVmnY9yiNGDCYyKTPLWh7QUbf1hDQ3bj49Nxt8GyvCPPhWM8eDfrZrnyovKLQJbk64F1tzqt"
+      },
       "owner": "8ULzf9xMabA1kixEQb8HN35HVAiSXHYumZtT773aaMvh",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "2Ckn1cAf24c7aVKs2wdv2HR8utzeVhWAtzrJ1KKCsTWZ",
+      "amount": 0,
+      "historical": {
+        "slot": 116489475,
+        "time": 1642323493,
+        "txSig": "5fT8BjY9DueZcLYuc3NMng8qr9k8J6oY55eC5LmbcdPYmHtBMJKUrewfLuq4GkSXg8ZXgmromBmXwtnMgsnN7ySa"
+      },
       "owner": "8ULzf9xMabA1kixEQb8HN35HVAiSXHYumZtT773aaMvh",
+      "price": null,
       "tokenName": "Sencha aSOL-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     }
   ]
 }

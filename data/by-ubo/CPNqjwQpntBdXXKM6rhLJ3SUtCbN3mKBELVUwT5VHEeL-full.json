@@ -1,29 +1,66 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "9uum263oLi56Uny3vjVaDzy4HQdqoGM5psLC1oCkNyL6",
+      "amount": 0,
+      "historical": {
+        "slot": 114790520,
+        "time": 1641316604,
+        "txSig": "3dvVyHsmfxEoBr1utUFFAXNaEHoDe8hcGtAvptJ5ksWereSggTjGxSV9gjKY51yQdFLYhqkLPwf9GR4htHwdbwMR"
+      },
       "owner": "CPNqjwQpntBdXXKM6rhLJ3SUtCbN3mKBELVUwT5VHEeL",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "3QCDTMzXBZV7K47NzirP6FLwxAAopUYrmvjzzg7UwGzH",
+      "amount": 0,
+      "historical": {
+        "slot": 115821713,
+        "time": 1641939315,
+        "txSig": "4dDn9TohD6VHAtjjuE16LfurXiccigSFzqw1EVjo71Et1enm6E6wLvAySNbxd9HZK52owgtqC9P426Kpb5kJ7Es2"
+      },
       "owner": "CPNqjwQpntBdXXKM6rhLJ3SUtCbN3mKBELVUwT5VHEeL",
+      "price": 1.011252854,
       "tokenName": "Saber CASH-USDC LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "81Q19ZYgEjvQvyBgis46DMgGDGa2reXzswYxDBJ1RFD1",
+      "amount": 0,
+      "historical": {
+        "slot": 115821597,
+        "time": 1641939250,
+        "txSig": "3WDdWjXhiFXGjsbo2noAjW2nLdNWNnkrdWHmBzY3YnUJtTLwjv2BjuphLN5UmU7FnMWamkWt5GWfMWqKos4AUBVb"
+      },
       "owner": "CeAnpQ7Tq3o4syBYHJ3Pyc9tJsy2UhcYAGRbEBAc9wPf",
+      "price": 1.011252854,
       "tokenName": "Saber CASH-USDC LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": 0
     },
     {
       "account": "3jzQHzopufe622Xa7nusEU7jxDN9ZATMv4PX2sghEsdV",
+      "amount": 0,
+      "historical": {
+        "slot": 114398539,
+        "time": 1641090373,
+        "txSig": "3BUWPff8dfGJgobUUQ1qCnzS5NQ5c4ZbcWMdpfYGjSwMYQm13VHjdvsEy2LymDX2d7kWRfZW1iXyuWk9DNy2zA3P"
+      },
       "owner": "69KnraEuHhyG8D67UzEUUmZojHYLD4Qg1FN3PbCEGH95",
+      "price": 1.011252854,
       "tokenName": "Saber CASH-USDC LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": 0
     }
   ]
 }

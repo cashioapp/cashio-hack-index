@@ -1,17 +1,38 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "3H2i2rPMLTvpLRtQW4oS5tfdqJrRyF3UHdJQmau5HsRt",
+      "amount": 0,
+      "historical": {
+        "slot": 120096933,
+        "time": 1644435406,
+        "txSig": "2twG4WJJ5ak9uQPKn4NsuCjE5TfU8NbJ88ASrgdXZN1i8TVpBC5xp5hiV52hKSZAiYqnAEdfbA51c2z4Eyen2ixu"
+      },
       "owner": "EHzMbphwG2c1bWahHdD1qZQ7GJBNDPDqpZfo6P6cAcg3",
+      "price": null,
       "tokenName": "Sencha CASH-LUNA LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": null
     },
     {
       "account": "3Locud6DW4kuyzsQpzdH8AbeVHZ3ZTbaCPbHDWS1PVkS",
+      "amount": 0,
+      "historical": {
+        "slot": 123251306,
+        "time": 1646286182,
+        "txSig": "2vbCL1R6g7vDUEu6n4o3zvbhq2NM1Q731n4mcQpdG4F5MaFtqxQmAhPM5XBAYUoA9JAq2BgdfKqAovhWvsqH27gr"
+      },
       "owner": "3ibhgmJBcJNwxyCRMj9jTU5tw9Ce31JRPSvsuCzNvbqC",
+      "price": 1.007,
       "tokenName": "Saber UST-CASH LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": 0
     }
   ]
 }

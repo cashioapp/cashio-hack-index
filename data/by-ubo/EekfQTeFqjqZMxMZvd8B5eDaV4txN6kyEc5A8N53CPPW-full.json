@@ -1,29 +1,68 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 3.4784295,
+    "totalLosses": 3.4784295,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "9q9NDTYvJbkQKyRS9Rafod2vwdMdCmhVqEyQoPbHRF8r",
+      "amount": 4092.27,
+      "historical": {
+        "amount": "4092.27",
+        "slot": 116622253,
+        "time": 1642401682,
+        "txSig": "4oaVGYoUw9JuaMhVgxRTzSoedsPsm8XQUk1LbcodTZVd3oXxB4Atoe4UarECdMeKBfLQ25VXfN1XanXV2hahbszk"
+      },
       "owner": "EekfQTeFqjqZMxMZvd8B5eDaV4txN6kyEc5A8N53CPPW",
+      "price": 0.00085,
       "tokenName": "Saros C98-CASH Saros LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 3.4784295
     },
     {
       "account": "9fhqPjJ4gg9MQjV5YUDEmwVQmaaon8HnkrkPmCjw975K",
+      "amount": 0,
+      "historical": {
+        "slot": 121428607,
+        "time": 1645208312,
+        "txSig": "4pWXvLU9ZUHJPoaKH236hVqy5snXknrg7Us7VgDNmiYEKSoeMcDsR6dSBrHSx44uX8DdrTTkymwiZ81oXqUrhUh2"
+      },
       "owner": "EekfQTeFqjqZMxMZvd8B5eDaV4txN6kyEc5A8N53CPPW",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "4f8SGuykPDYoqcSqWqtyffj33vQXzYEYzzbFMgMcnSR9",
+      "amount": 0,
+      "historical": {
+        "slot": 121146686,
+        "time": 1645045041,
+        "txSig": "4zUR8a5TV2VKZMhbAo2vuQjMbh4SBoyao8P88GTHM7rWxvGLMyqrC4VYwqR6GwghtsT8F4KCgBbruLkjEZZHhwp9"
+      },
       "owner": "GTTXSArxEdasuHu9yxoGimuACt7At8t8hjDqHh8kFQKW",
+      "price": null,
       "tokenName": "Saros POLE-CASH Saros LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": null
     },
     {
       "account": "CfUZwS6M5mUaQ3QxKJJakFhHmVeJzdELUD93AF32GauF",
+      "amount": 884.51,
+      "historical": {
+        "amount": "884.51",
+        "slot": 121148346,
+        "time": 1645046084,
+        "txSig": "4R4Lu1x7DTeA7qHJDduSKsqfNqzuTDTfd7LfcsdkW3DbcXiY4RtjwJZSeuEn2ry5rpx152mVyKucAAKxmjbnEnYR"
+      },
       "owner": "EekfQTeFqjqZMxMZvd8B5eDaV4txN6kyEc5A8N53CPPW",
+      "price": null,
       "tokenName": "Saros POLE-CASH Saros LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     }
   ]
 }

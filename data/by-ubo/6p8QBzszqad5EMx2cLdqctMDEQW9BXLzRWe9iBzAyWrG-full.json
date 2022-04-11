@@ -1,17 +1,39 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 2.94e-7,
+    "totalLosses": 2.94e-7,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "72PaSThx5JSnK4tN5ZobaNzE3Lr1zvRfjrrrYxSWbbVf",
+      "amount": 2.94e-7,
+      "historical": {
+        "amount": "2.94e-7",
+        "slot": 117108545,
+        "time": 1642700970,
+        "txSig": "2RMm8RASXg5rdraj4noTXYrWT2DwryRQiPZYwdWwSGAaCUwrrni4CQLCcBNrZmQFvskGDmSF7YQczxAaAhw8queb"
+      },
       "owner": "6p8QBzszqad5EMx2cLdqctMDEQW9BXLzRWe9iBzAyWrG",
+      "price": 1,
       "tokenName": "Saber Wrapped Cashio Dollar (9 decimals)",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 2.94e-7
     },
     {
       "account": "3n64RNTqAvPNfqHZpoNSMTBNZ665vh31aLXsU3HtMN2n",
+      "amount": 0,
+      "historical": {
+        "slot": 125399844,
+        "time": 1647541872,
+        "txSig": "3G8dtcKEGSAyMuwYiXNuY1nmEdgmsou8XmCpACB8CQspP4L3T8kG1JrznorE4gFLmKFRPMMQnLaQSKoVFVsVmxVD"
+      },
       "owner": "6p8QBzszqad5EMx2cLdqctMDEQW9BXLzRWe9iBzAyWrG",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     }
   ]
 }

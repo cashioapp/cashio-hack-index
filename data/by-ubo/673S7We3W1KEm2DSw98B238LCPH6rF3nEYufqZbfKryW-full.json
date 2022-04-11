@@ -20,36 +20,78 @@
     "submissionInvalidReason": null,
     "submissionIsValid": true
   },
+  "summary": {
+    "netLosses": 804.8071779957489,
+    "totalLosses": 804.8071779957489,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "G82VJ6mqdxmithy6uE6LGkLWjafgvpDX82XdYPpwv1yw",
+      "amount": 3.70327,
+      "historical": {
+        "amount": "3.70327",
+        "slot": 126030099,
+        "time": 1647892907,
+        "txSig": "323oTSU9uZ5Z8eX8o26YtV4QhvWJJ7v1bVVBHFkbLX5upWzzMe67XTn1YCvGdkMFNYjp2M5PRtH7JX2cusmnMWqh"
+      },
       "owner": "673S7We3W1KEm2DSw98B238LCPH6rF3nEYufqZbfKryW",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 3.70327
     },
     {
       "account": "U64hviQTniyq7FNAAaarorUeBmSG2tsgndnEZBusmod",
+      "amount": 0,
+      "historical": {
+        "slot": 126030137,
+        "time": 1647892930,
+        "txSig": "4Bb21yCEEaKUdxsJhe1YVZWSz95HiYxjbkqRio1G8qQeGzTJkm7u1dZPxcsX6jz57k8CFg5cQuMzz3BPLDAUYRNz"
+      },
       "owner": "673S7We3W1KEm2DSw98B238LCPH6rF3nEYufqZbfKryW",
+      "price": 1.011252854,
       "tokenName": "Saber CASH-USDC LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "2jAD6G1z8SJvQjvchDEXSvZh8wo4sRSJD8z8tjXDq7At",
+      "amount": 0,
       "owner": "673S7We3W1KEm2DSw98B238LCPH6rF3nEYufqZbfKryW",
+      "price": 1.049438588,
       "tokenName": "Tulip USDC-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "Axk2y8KKJVjgHtezm9jqMzNNDi1yoSwvCg1GzTQ56MSL",
+      "amount": 0,
+      "historical": {
+        "slot": 124620438,
+        "time": 1647097503,
+        "txSig": "3vkaaYpbHLdcbJXBnYtAMkG1qEa6S8QpTWXB13Kkzw5Lf3UhuvXXYD4LD7UMDT8Eqc9BkDBDXpHa5w4Z9dzvZxwW"
+      },
       "owner": "2QdUzWEDPr88gXkhY3Pg1tHmUZZWUqZWnyVkHPrVgwSU",
+      "price": 1.049438588,
       "tokenName": "Tulip USDC-CASH LP",
-      "type": "tulip"
+      "type": "tulip",
+      "usdValue": 0
     },
     {
       "account": "D13uabb3QGJnCrpBt2iWJV6TUvyS1jpFSsnC3NTHMpRf",
+      "amount": 763.364257,
+      "historical": {
+        "amount": "763.364257",
+        "slot": 126030137,
+        "time": 1647892930,
+        "txSig": "4Bb21yCEEaKUdxsJhe1YVZWSz95HiYxjbkqRio1G8qQeGzTJkm7u1dZPxcsX6jz57k8CFg5cQuMzz3BPLDAUYRNz"
+      },
       "owner": "2QdUzWEDPr88gXkhY3Pg1tHmUZZWUqZWnyVkHPrVgwSU",
+      "price": 1.049438588,
       "tokenName": "Tulip USDC-CASH LP",
-      "type": "tulip"
+      "type": "tulip",
+      "usdValue": 801.103907995749
     }
   ]
 }

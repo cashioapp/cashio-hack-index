@@ -1,17 +1,40 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0.0084135,
+    "totalLosses": 0.0084135,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "5iuMPtNuhir18z3GoQxpwTfF6DqL8XT6jE9W2UQMV8wT",
+      "amount": 9.83,
+      "historical": {
+        "amount": "9.83",
+        "slot": 115847269,
+        "time": 1641953239,
+        "txSig": "5QqD24LPCfg2wn8ynhSbY3UQ4FZbXv3A1nCF9EgCqFo7pa3AK4oxbF4Gx4RSmv2w3bcET1bKs2VAFKebenJuVZRQ"
+      },
       "owner": "CSvQVKQg7ikCP71ZmfYimKhU5BbYKraZwE9apZHBpvjW",
+      "price": 0.00085,
       "tokenName": "Saros C98-CASH Saros LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0.0083555
     },
     {
       "account": "FLzPQ376yZ1QxrtiXbYvAocvogs4suvfdTP74N3EddNE",
+      "amount": 0.000058,
+      "historical": {
+        "amount": "0.000058",
+        "slot": 115847761,
+        "time": 1641953495,
+        "txSig": "33b2fS9UCr1Gar7j5EEgAwbpj1BHcyKpjWYvXetYxp6C1RiY5xtZVQ7JwgsjVLGLDSU7iBiAkLyFAYbosNszDb2S"
+      },
       "owner": "CSvQVKQg7ikCP71ZmfYimKhU5BbYKraZwE9apZHBpvjW",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0.000058
     }
   ]
 }

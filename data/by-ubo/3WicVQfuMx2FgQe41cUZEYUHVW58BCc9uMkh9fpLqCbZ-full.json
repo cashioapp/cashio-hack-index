@@ -30,36 +30,83 @@
     "submissionInvalidReason": null,
     "submissionIsValid": true
   },
+  "summary": {
+    "netLosses": 820.0480771099201,
+    "totalLosses": 981.96640810992,
+    "totalRefunds": 161.918331
+  },
   "tokenAccounts": [
     {
       "account": "CBg2GCZPJFkM2hVCcTwJChatbUrrUzuqVNnaHRxLTSct",
+      "amount": 0,
+      "historical": {
+        "slot": 117970869,
+        "time": 1643228130,
+        "txSig": "5tjea476Y5auJiL7isF9kGbx1EpCobYfnJYQFR6CuToUbZ5YGYESkuTqfs1guahjakVajcqCQQBr7unV6brMGgwW"
+      },
       "owner": "3WicVQfuMx2FgQe41cUZEYUHVW58BCc9uMkh9fpLqCbZ",
+      "price": 0.16964,
       "tokenName": "Sencha SUNNY-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "EF6orq6mmh6VJcuwamBeTaPvwTX4i8m3bLbBg1GS3miv",
+      "amount": 4834.049028,
+      "historical": {
+        "amount": "4834.049028",
+        "slot": 117970869,
+        "time": 1643228130,
+        "txSig": "5tjea476Y5auJiL7isF9kGbx1EpCobYfnJYQFR6CuToUbZ5YGYESkuTqfs1guahjakVajcqCQQBr7unV6brMGgwW"
+      },
       "owner": "BcxzLLnoKjj1YNqgtHsspMhF2NWW8eaiZByHsi3mYqqX",
+      "price": 0.16964,
       "tokenName": "Sencha SUNNY-CASH LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": 820.0480771099201
     },
     {
       "account": "FmkebwDfdpgWAE7q42D39se2LjFUmY9paqTCdV9oBXJJ",
+      "amount": 161.918331,
+      "historical": {
+        "amount": "161.918331",
+        "slot": 117970609,
+        "time": 1643227964,
+        "txSig": "4Lq5SrqCrjXCh8DhhL7UDV2ZuHdfvDZm2XKG8umf9y72jNkp6qsWtZnzpNmyPxivSuN49WBSKwf1ScC4Q79sGFGu"
+      },
       "owner": "3WicVQfuMx2FgQe41cUZEYUHVW58BCc9uMkh9fpLqCbZ",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 161.918331
     },
     {
       "account": "8gjr7AaSZs1rZHLqZGyzMJVU12kAZTB2uqpujvaaQ4BM",
+      "amount": 0,
+      "historical": {
+        "slot": 117970449,
+        "time": 1643227862,
+        "txSig": "4fNFc8BKJZKHk6SSsafA19gHZwfDM5u7n4F3TAaywjrNQWvrQgB4yAq9KW5Pg9t5ayF4Lex43uTe66d89DSL6S4z"
+      },
       "owner": "3WicVQfuMx2FgQe41cUZEYUHVW58BCc9uMkh9fpLqCbZ",
+      "price": null,
       "tokenName": "Sencha CASH-COW LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     },
     {
       "account": "GgzjJW8G5hEBoqJr46RLM9NHZJT6ua8kWPzj5F2Ahzfq",
+      "amount": 0,
+      "historical": {
+        "slot": 117970050,
+        "time": 1643227621,
+        "txSig": "4tkaXyojZxCnJwGG51b3jXfsvaymyjsVCBUikHPKAprgskPoL5xuVDpmCExx7N6UX7GXSQSAVpSmFQ74Grovw4nh"
+      },
       "owner": "HJsk4Mn7PiJWXKXA1eYQcRoimFKVfGPuveV5w44NtSWq",
+      "price": null,
       "tokenName": "Sencha CASH-COW LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": null
     }
   ]
 }

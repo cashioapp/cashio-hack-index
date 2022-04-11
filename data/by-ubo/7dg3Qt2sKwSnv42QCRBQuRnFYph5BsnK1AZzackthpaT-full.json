@@ -1,23 +1,53 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0.009513,
+    "totalLosses": 0.009513,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "6hZssf3vAXcU6Ai7q1aHNCzCjWukqwmqem1212x2tnc6",
+      "amount": 0.009513,
+      "historical": {
+        "amount": "0.009513",
+        "slot": 123779421,
+        "time": 1646596871,
+        "txSig": "qE3V7HAiF1Jsh4oFyYaShCcsiZqQcBGGSGWTPeYNgvufk8tcwogvM5AQn5zJYKjuT9wnRooVV5ytKQ41tQpwEaw"
+      },
       "owner": "7dg3Qt2sKwSnv42QCRBQuRnFYph5BsnK1AZzackthpaT",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0.009513
     },
     {
       "account": "H67aav4MjfaTeZRUdyqp5dmddEPShSvqLthcGHQLrWBJ",
+      "amount": 0,
+      "historical": {
+        "slot": 112834703,
+        "time": 1640227684,
+        "txSig": "2fzY22qA1U1AYkrhBDNX6YaLRtudNydC6LCBnpfEh5sBD2Fm3FxzsAx6UepTVHzWhxPTUHEd8navev3DHRFPX6Lu"
+      },
       "owner": "4JHWq5tCM3Z4YNZ27ybb6BmcGaJpB5dRuMdUXQJ1zvhd",
+      "price": 1.011252854,
       "tokenName": "Saber CASH-USDC LP",
-      "type": "sunny-vault"
+      "type": "sunny-vault",
+      "usdValue": 0
     },
     {
       "account": "Et2BWLsBirz3XLWcXjWQb6KZb8p5FDNfpULnnGLkQUbm",
+      "amount": 0,
+      "historical": {
+        "slot": 112834702,
+        "time": 1640227683,
+        "txSig": "4Py2ntN5aFKsE13iYa32bh7CTu9yCqdY5D51yh1EX2RnUK7NiByALTyrN1bFyyxqKPWWznoozhbCHfj2Mto4bCxA"
+      },
       "owner": "RdTgxSYu5ifWFF23dSEs2bSLoodbPeynae6ysLoeusR",
+      "price": 0,
       "tokenName": "Sunny Saber CASH-USDC LP",
-      "type": "sunny-vault"
+      "type": "sunny-vault",
+      "usdValue": 0
     }
   ]
 }

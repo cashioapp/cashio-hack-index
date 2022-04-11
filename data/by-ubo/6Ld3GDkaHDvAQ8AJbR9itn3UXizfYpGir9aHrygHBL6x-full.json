@@ -21,24 +21,54 @@
     "submissionInvalidReason": null,
     "submissionIsValid": true
   },
+  "summary": {
+    "netLosses": 5503.6388004093,
+    "totalLosses": 5503.6388004093,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "AefRWhAFhRd8xhoFSb54qGosg8D9qSpyC3yAWiyPcMcu",
+      "amount": 0,
+      "historical": {
+        "slot": 126200282,
+        "time": 1647987027,
+        "txSig": "5YTUjJdrLB7TUERHxtWQSSNkv4vALUzVVNuBjML7EXm1Y6MANLRso4qDvBdNKYCvFuiNn1FRRQNxbDjPhqnBv8qa"
+      },
       "owner": "6Ld3GDkaHDvAQ8AJbR9itn3UXizfYpGir9aHrygHBL6x",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "49zgK9T5rPSMNqe2TLEsM534aHTnFd6rsteDNVZmGCZ4",
+      "amount": 0,
+      "historical": {
+        "slot": 126200334,
+        "time": 1647987056,
+        "txSig": "32ntNtZ5kJ6JSBEedjaGW4rh9D8H5j9nLEjZdoTuwyDduWsMLjUYtHU9CsSd5UNByETbSRSDWmLaUJDyCqx6zaUt"
+      },
       "owner": "6Ld3GDkaHDvAQ8AJbR9itn3UXizfYpGir9aHrygHBL6x",
+      "price": 0.9957,
       "tokenName": "Saber PAI-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "9RUNueHuSXNjWxmSqq7igroXcE8r1PbAMY35XQ4BvhtE",
+      "amount": 5527.406649,
+      "historical": {
+        "amount": "5527.406649",
+        "slot": 126200334,
+        "time": 1647987056,
+        "txSig": "32ntNtZ5kJ6JSBEedjaGW4rh9D8H5j9nLEjZdoTuwyDduWsMLjUYtHU9CsSd5UNByETbSRSDWmLaUJDyCqx6zaUt"
+      },
       "owner": "69A2QL6YDuoazHy3Py6q7QK2imL3bhUaFLziaVTajC42",
+      "price": 0.9957,
       "tokenName": "Saber PAI-CASH LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": 5503.6388004093
     }
   ]
 }

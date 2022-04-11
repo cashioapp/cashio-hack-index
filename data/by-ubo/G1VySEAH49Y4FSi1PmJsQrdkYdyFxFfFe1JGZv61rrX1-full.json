@@ -1,29 +1,66 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "JDqhdHJajpcFyGutaGNF6vrVotJugJs9B4z4V6FYkw4H",
+      "amount": 0,
+      "historical": {
+        "slot": 123832625,
+        "time": 1646628511,
+        "txSig": "4CG85YzePmBdHbCzuxVLGFkrQqEJ5w7X8kABzkpUHYsgeFZUootzuUoEiQamPY4y3fPJoLAgjSsoE2asDrb1HSoL"
+      },
       "owner": "G1VySEAH49Y4FSi1PmJsQrdkYdyFxFfFe1JGZv61rrX1",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "GQTq9JRT6etpfTzpgJDiUVR4XZr32BXzvzXhArD8CRif",
+      "amount": 0,
+      "historical": {
+        "slot": 118618265,
+        "time": 1643592335,
+        "txSig": "5tJqkTHMpRA81nXQV2bvFZZH668ks2z9AWL5Wx8EKMdJnmP4DmobJ2tx12enrevpV6V32ZdvyTyqemP4bw9mMBdT"
+      },
       "owner": "G1VySEAH49Y4FSi1PmJsQrdkYdyFxFfFe1JGZv61rrX1",
+      "price": 1.007,
       "tokenName": "Saber UST-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "4GdZUQg2PWHc8PGRsd12ktEy3uza2j3WNrb9ytzwNMBH",
+      "amount": 0,
+      "historical": {
+        "slot": 110464994,
+        "time": 1638885239,
+        "txSig": "557j4NVHPrsphQW13yfavhHJocbhQarui1xLPxiqwZhe9E21HTph9JBimchGwuUG1Hc7Ada5hKr3sWJRjctnFCDZ"
+      },
       "owner": "CqGm6ZdekC9HP6TEyoHHX8qn3XmfMxd6Zd1BcJpSoM9P",
+      "price": 1.007,
       "tokenName": "Saber UST-CASH LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": 0
     },
     {
       "account": "7p6LjjMb3Rc6Ku7VfedDgQYQin1bSV4LcPn1XfqNjKyJ",
+      "amount": 0,
+      "historical": {
+        "slot": 118617851,
+        "time": 1643592112,
+        "txSig": "4GXS8DPyVj6WtjTMGNxmxGEkDefY1mZZXu1D5TpiaktKVxWWwHCp2ds3YMZgYzV3g9KFbpXuDqxoRUsR9sHfmmEZ"
+      },
       "owner": "7osj5i2Y4uYcF6GKVVSMGPiYp1a2r6kcTKGRDvjs7RJN",
+      "price": 1.007,
       "tokenName": "Saber UST-CASH LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": 0
     }
   ]
 }

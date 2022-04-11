@@ -1,29 +1,67 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 7.94e-7,
+    "totalLosses": 7.94e-7,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "3tJnTnEeMK5Ag2Q3xSYRvn2L5GAUXN8MG3wCF89qE7No",
+      "amount": 0,
+      "historical": {
+        "slot": 117279814,
+        "time": 1642822807,
+        "txSig": "4M3yMoQK3ETaFXzkVdFsrp7LQuNpU5nfzGryRVPmAUJBjeX5ncZS3kwwYDhxR8Gp94oZ2TRnU1sxVQsP8TMmbfmp"
+      },
       "owner": "B15M5cKGVKGdZmKvuDT57FUjY5K92RNnoUPe3JCf9WVW",
+      "price": 1.011,
       "tokenName": "Saber aeFEI-CASH LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": 0
     },
     {
       "account": "98V75jVFDmrGswDc4cp1W76hhG4WC8FHQVv22kms87f6",
+      "amount": 0,
+      "historical": {
+        "slot": 117280034,
+        "time": 1642822954,
+        "txSig": "4fTGnQUifTGLzFPH9QiW3okRNKc23wn56ARPrS3eATaZ4EnvULrukwoB6gH3r4UDWXc9qzFHCwNvHxuX5XyaboHG"
+      },
       "owner": "A1XeeYfgioRxGZcNdhHHGmeNUJXHSjkTXN6r9MJvUmCH",
+      "price": 1.011,
       "tokenName": "Saber aeFEI-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "8JZEmYhjCNUrUVo3jJcGuVBQrtyvAWGQQHX6nvMVaGK1",
+      "amount": 7.94e-7,
+      "historical": {
+        "amount": "7.94e-7",
+        "slot": 117280574,
+        "time": 1642823371,
+        "txSig": "7qEukfgyeGxdHeCh1tJRHD8Dz1mw4tqFH2oHHe43aDEHdq4Vk1eA6SuLyGDUTv1WuVFsjrkzeG6CazYqWk6t6kp"
+      },
       "owner": "A1XeeYfgioRxGZcNdhHHGmeNUJXHSjkTXN6r9MJvUmCH",
+      "price": 1,
       "tokenName": "Saber Wrapped Cashio Dollar (9 decimals)",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 7.94e-7
     },
     {
       "account": "7deV3uGCxWKhGFs494oyVqeGDVmndrLeRAXyGcdaZGuA",
+      "amount": 0,
+      "historical": {
+        "slot": 117280574,
+        "time": 1642823371,
+        "txSig": "7qEukfgyeGxdHeCh1tJRHD8Dz1mw4tqFH2oHHe43aDEHdq4Vk1eA6SuLyGDUTv1WuVFsjrkzeG6CazYqWk6t6kp"
+      },
       "owner": "A1XeeYfgioRxGZcNdhHHGmeNUJXHSjkTXN6r9MJvUmCH",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     }
   ]
 }

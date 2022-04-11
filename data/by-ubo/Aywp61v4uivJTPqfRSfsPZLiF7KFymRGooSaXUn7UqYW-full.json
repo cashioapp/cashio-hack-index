@@ -1,11 +1,24 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "5MMsrVvrPrEQqRF6XbNTFor8s5X3ReBt4H3UbqQav9mY",
+      "amount": 0,
+      "historical": {
+        "slot": 108637565,
+        "time": 1637843978,
+        "txSig": "BQB6eoRnU1A2Hsb8kATsCR5uADGixpztdT2wJP3nbWVU2k825xRedgCMExu5xsnAUnE2oaA7X8yRBtEtYhAQxDp"
+      },
       "owner": "Aywp61v4uivJTPqfRSfsPZLiF7KFymRGooSaXUn7UqYW",
+      "price": 1.011252854,
       "tokenName": "Saber CASH-USDC LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     }
   ]
 }

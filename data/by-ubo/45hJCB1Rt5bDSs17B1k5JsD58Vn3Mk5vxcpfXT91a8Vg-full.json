@@ -21,42 +21,97 @@
     "submissionInvalidReason": null,
     "submissionIsValid": true
   },
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "eK85xVgwJ7SPZDPnjBo3xboHafyQAg3WP9j1WnhovD5",
+      "amount": 0,
+      "historical": {
+        "slot": 116616608,
+        "time": 1642398463,
+        "txSig": "54gqEE3FoQGq9qKxfmM6e6z8mkyrG2zfik2CskpfQ1a46Xfpq13P8xMBd5g62q6Y39QRCHPa9wrQ3wMpJFoB71pD"
+      },
       "owner": "45hJCB1Rt5bDSs17B1k5JsD58Vn3Mk5vxcpfXT91a8Vg",
+      "price": null,
       "tokenName": "Sencha CASH-LUNA LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     },
     {
       "account": "CW5YptAqLNSnPcR455mS2bg35ioCizftKTW3evgQDxyw",
+      "amount": 0,
+      "historical": {
+        "slot": 116610006,
+        "time": 1642394595,
+        "txSig": "5aB8JuuFumGwZPYg11Lb7QEo4cEFpvPjNtEgzgubZkX3BjNynXrSwX2N16CVRFs2LUWTwz1MBUyRVq8gmKYNNpE7"
+      },
       "owner": "BsY7t5c2TmQRxZ7hiea7EoeLcZeJHXrSTBsFPPHc1hzH",
+      "price": null,
       "tokenName": "Sencha CASH-LUNA LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": null
     },
     {
       "account": "8ZTHxCmSzzpyyseHpHPdy9515TS7aPxnY67ggYDmiHwV",
+      "amount": 0,
+      "historical": {
+        "slot": 125094299,
+        "time": 1647372000,
+        "txSig": "4gLtyL7gD5JJf7ELQn4pQL4ibt7TguXG8ijvFwA41HyyRniG3DPaCXr7xcRWCbh8Baefa3qp4VS6YyXgVY8wcffX"
+      },
       "owner": "45hJCB1Rt5bDSs17B1k5JsD58Vn3Mk5vxcpfXT91a8Vg",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "BorUMoNi9Rj49fjWjjW2XmGYzR7Ld2Pd6SMgv6ZigK91",
+      "amount": 0,
+      "historical": {
+        "slot": 125094841,
+        "time": 1647372323,
+        "txSig": "2vAP1rSDMt2iXJsARnYvuCicQuGXeRnwiMFpAV8ZTSLE6PWhj5WXSAgq8BSVpeUD1uh9rvbJP2GAu9bw7i6B7jdB"
+      },
       "owner": "45hJCB1Rt5bDSs17B1k5JsD58Vn3Mk5vxcpfXT91a8Vg",
+      "price": null,
       "tokenName": "Sencha CASH-COW LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     },
     {
       "account": "3QzpAnVRmMUgnJjgjU9tLQBYsCDVRgk4vH44p31QkXDF",
+      "amount": 11849.895067,
+      "historical": {
+        "amount": "11849.895067",
+        "slot": 125094841,
+        "time": 1647372323,
+        "txSig": "2vAP1rSDMt2iXJsARnYvuCicQuGXeRnwiMFpAV8ZTSLE6PWhj5WXSAgq8BSVpeUD1uh9rvbJP2GAu9bw7i6B7jdB"
+      },
       "owner": "h6ibYfaPKgew6eiNiqyYDHghxeMDmdDmkXepmuXuvfW",
+      "price": null,
       "tokenName": "Sencha CASH-COW LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": null
     },
     {
       "account": "BNLgPSBm3K3a7phRPq6qLb7ozwd39bTZ8rGDe5Xs8Jca",
+      "amount": 52359.765869,
+      "historical": {
+        "amount": "52359.765869",
+        "slot": 125093897,
+        "time": 1647371768,
+        "txSig": "2KoWP3dvCBn4o5DXtKSKbRTQGh4RRxd378ERcYnWLMfoNDjn7FVHwuZatKsah2H46BYZUiPgJiCN2nQuf9dzzw7S"
+      },
       "owner": "7CUwN9rrpT5eNAJUrKkQ3PgpBHCBxUqaueWjCBW9CHrw",
+      "price": null,
       "tokenName": "Sencha CASH-COW LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": null
     }
   ]
 }

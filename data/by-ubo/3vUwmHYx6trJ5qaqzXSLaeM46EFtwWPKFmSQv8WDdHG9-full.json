@@ -1,11 +1,24 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "886R2zpmi3ba6zQzWDZ22jx5cC9eX1wkz55wruz8Tp4P",
+      "amount": 0,
+      "historical": {
+        "slot": 118714267,
+        "time": 1643646006,
+        "txSig": "2NUHnDBCpVTMBFnLKpkiAriTaPGMPzcubZLVzarf6HWLhhWDEFj5v2bkXyUsBdPR8Uach2EgZkRTwGAgAEAsqR8K"
+      },
       "owner": "FTouW4PF3xt63isrGniBMoi61gxyoWWaYdWRfQhp81ih",
+      "price": 1,
       "tokenName": "Saber FRAX-CASH LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": 0
     }
   ]
 }

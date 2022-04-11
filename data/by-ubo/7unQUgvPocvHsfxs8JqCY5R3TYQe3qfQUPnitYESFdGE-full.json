@@ -1,29 +1,63 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0.121499,
+    "totalLosses": 0.121499,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "3W5ijEkg3WmbXpqtq1z5fVsgLQQKcMS1zxj9pT9vZ2u3",
+      "amount": 0.121499,
+      "historical": {
+        "amount": "0.121499",
+        "slot": 113622922,
+        "time": 1640645464,
+        "txSig": "4GeQ1ALtg7QSeiuFHTCR6WA3hsaSc5ZLsP4kx7VsQKvU4Pwz6DzTth6nLi6KqURCpnXmbZcYdo1gDyS8AP6tzjDh"
+      },
       "owner": "7unQUgvPocvHsfxs8JqCY5R3TYQe3qfQUPnitYESFdGE",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0.121499
     },
     {
       "account": "8vnzgKy9W5KxkftG14sVcgGXwzbavZnMQ9gv1xnxdMaG",
+      "amount": 8397.502312,
+      "historical": {
+        "amount": "8397.502312",
+        "slot": 121783018,
+        "time": 1645417075,
+        "txSig": "TPka4AEhrgxg5b7KaxRsHkYJ874zab3ghMzJ7xhifJrn3AnwwPBRXi8gScchQuzuAoDzMi1YTtjw1jAJC4dE6z4"
+      },
       "owner": "6ggPXB88dz7Y2xBbk9rX4pL118PFovheqFEz8BoaiGcD",
+      "price": null,
       "tokenName": "Sencha CASH-COW LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": null
     },
     {
       "account": "7p5NWYdg7fw5z4CUY4x377MhJem2ZBHHE12TN7xEpRKR",
+      "amount": 0,
+      "historical": {
+        "slot": 113623166,
+        "time": 1640645623,
+        "txSig": "2smHidvp2C38gtTTfuduqbc7P7wjFrmiTxxBzzTfW3BDNumNdYZTtcy2cjcrzE23RgSMomQRASV9NvrVEPxR3mH7"
+      },
       "owner": "7unQUgvPocvHsfxs8JqCY5R3TYQe3qfQUPnitYESFdGE",
+      "price": null,
       "tokenName": "Sencha CASH-COW LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     },
     {
       "account": "5deeSm7v9cfCPbVC4Q4FKrhtdqZGs9ginEKcBHSP5ZDU",
+      "amount": 0,
       "owner": "HkoHQWFAHwvn3M1HRmfBWkJMcsRnCtgMKvbLz1dLKhw5",
+      "price": null,
       "tokenName": "Sencha CASH-COW LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": null
     }
   ]
 }

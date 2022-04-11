@@ -1,11 +1,24 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "8uXZURstJfEaqAKUvmNxzahbUD6TbLdZpztBnwMgjM3j",
+      "amount": 0,
+      "historical": {
+        "slot": 122228662,
+        "time": 1645678219,
+        "txSig": "2zQyyzXoSSmggeJweMG8aH3KvohejWBwPpvRHxNR1mKahzYeGQijZnCfrbPebDsf4YSFZTx8VJU7oj5rTE4MyF9S"
+      },
       "owner": "FFf8FQWUGQv2hUcyndc9KNuV2EJZC1osjYMsSbPrvSdF",
+      "price": null,
       "tokenName": "Sencha CASH-COW LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     }
   ]
 }

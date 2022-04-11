@@ -1,11 +1,24 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "3p5CFbN822rW8H3ZqMt9nFgTTKmDxHMNaeYqkc1S3pYm",
+      "amount": 0,
+      "historical": {
+        "slot": 117752069,
+        "time": 1643103429,
+        "txSig": "5GMeToCYUhZfFzkyDYgRkxM4Y3jvXgovP6w6v5t1K39svTMi5B7WRUBkYMNQkwHRTgd71b1LSFXmK6gHkR21HrRM"
+      },
       "owner": "6JkFNQVKZeaFjMpRR9B16dXprWC15m9sEqAbiCG6PBAD",
+      "price": null,
       "tokenName": "Sencha CASH-LUNA LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     }
   ]
 }

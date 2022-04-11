@@ -1,29 +1,67 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0.5169682305200001,
+    "totalLosses": 0.5169682305200001,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "3k1ce6z3c3SzCHd3GmdTzE48BbGBdEWVZnXGJqXoiVuV",
+      "amount": 3.047443,
+      "historical": {
+        "amount": "3.047443",
+        "slot": 114345094,
+        "time": 1641061115,
+        "txSig": "3Y7xPVcBg1egReRPB8QfEQrYXGA8VS4sdvTNdYjYcwtYL4SyhEFWwkL7hkSNcoXiNBFk7A42gPUHyKecEXYSSEiM"
+      },
       "owner": "HQ9LbdLZXSBrepenQkwTyjDcsvNzmam1tZNjhtLt8o6D",
+      "price": 0.16964,
       "tokenName": "Sencha SUNNY-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0.5169682305200001
     },
     {
       "account": "HYqZnfAnZAUnSoVfVGGtXd5iuxNUqegSWzJDGDRxbzbY",
+      "amount": 0,
+      "historical": {
+        "slot": 119402120,
+        "time": 1644037577,
+        "txSig": "2oASMfMzRu5vfJsd4akoLvf4MACyEbuXQzKzcr2s78huxmTCsHua18i7jNTZGeZC9H5Zr6NocZba8qBCi3HajEt7"
+      },
       "owner": "HQ9LbdLZXSBrepenQkwTyjDcsvNzmam1tZNjhtLt8o6D",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "7NykHPdTeno2ZmMHoB94WVLycteKUdvE2oJYaGEbxmys",
+      "amount": 0,
+      "historical": {
+        "slot": 119401845,
+        "time": 1644037425,
+        "txSig": "26vJwRWnNfVUzdy8hL3WxtYKHE231SU2Jc86KoeebsocRLYEEokDwQaxXKskU4VFjwNyz3DJXpqqREgdpTj7WUhB"
+      },
       "owner": "HQ9LbdLZXSBrepenQkwTyjDcsvNzmam1tZNjhtLt8o6D",
+      "price": null,
       "tokenName": "Sencha CASH-COW LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     },
     {
       "account": "CorGky5Xcv9njK2jv4SiZHZzZGNKnnEasGkEVAVbdzw2",
+      "amount": 0,
+      "historical": {
+        "slot": 119401772,
+        "time": 1644037387,
+        "txSig": "4SzJRW7DC2H417AqjrfPKMt5f7EgMrRiP95ZQxavAY6x7nXNEg6YgU5hTFFZsjGvfBJxpvz36TjQfXFnRBq3ncVV"
+      },
       "owner": "FNqDdcoVvZf1ACDt1185u5S4453L1rnY4aH1A2GsqNpG",
+      "price": null,
       "tokenName": "Sencha CASH-COW LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": null
     }
   ]
 }

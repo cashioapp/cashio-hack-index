@@ -1,17 +1,39 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 283.55227437,
+    "totalLosses": 283.55227437,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "HXUaXFhvdffFGfkp8SDyBnc72ZdW7VnZExJKryBK2s7d",
+      "amount": 0,
+      "historical": {
+        "slot": 122395066,
+        "time": 1645779963,
+        "txSig": "J1TX29UvfSTBT1gMRDLVf5q7inxR8Pmw3E21MFjYSEuH7wezu8p9tAVFSuqmsGX2yWUdaLa2A1tMNaiABUpGJx4"
+      },
       "owner": "7FoTfYJqCaTWGX9YvYbuNTemVhF2TgC36vES9Gw5gJsu",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "BPiyUUHW2qY4388LEWctpHkQAJzC1Z3fTYMGszJxoine",
+      "amount": 283.55227437,
+      "historical": {
+        "amount": "283.55227437",
+        "slot": 120646054,
+        "time": 1644754475,
+        "txSig": "5gPsDaWAV3aN5VprM3xGWJXBxmCU3hmL7DZ7P5MfdjAT8PTnp8hVWBMHyui5rnDknRDpPUbWYaoQxp7RwAoHvaU2"
+      },
       "owner": "7FoTfYJqCaTWGX9YvYbuNTemVhF2TgC36vES9Gw5gJsu",
+      "price": 1,
       "tokenName": "Saber FRAX-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 283.55227437
     }
   ]
 }

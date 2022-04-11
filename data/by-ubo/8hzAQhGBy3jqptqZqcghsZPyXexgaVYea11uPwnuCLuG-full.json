@@ -1,47 +1,88 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "3vC79sx8nd64ow1fxb95dPAxbmnHRFZRrZzWmSLnBt5N",
+      "amount": 0,
+      "historical": {
+        "slot": 125691476,
+        "time": 1647702594,
+        "txSig": "5BhRvCkMCuo1qm58o2eMZzhpR4bn9ECeq7e71xTNVPoyxNveWCeyaupk7J9vnsXeWsSAcTK4pq971J7eVvxb8H9Y"
+      },
       "owner": "8hzAQhGBy3jqptqZqcghsZPyXexgaVYea11uPwnuCLuG",
+      "price": null,
       "tokenName": "Sencha CASH-OOGI LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     },
     {
       "account": "7Tt6YzvVjweawts6yQXoVhqnXxwfWumrx4Hd88nELEJ4",
+      "amount": 0,
+      "historical": {
+        "slot": 125691071,
+        "time": 1647702354,
+        "txSig": "7vCyfVVvNXe3Lsj2ZrwAR3Nf9zWMfLa66xvsakbFNB6HLLHtWjVdfUTWA6XXPTLwcjj2d9voBYDW9Xnztc5vra9"
+      },
       "owner": "AkeWfGMax7RHsaoqDsNWXDJ97BfPdMUot76ZDA5HaTZv",
+      "price": null,
       "tokenName": "Sencha CASH-OOGI LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": null
     },
     {
       "account": "3ih8rFKzFTPrmmnfSzKEp4P2WZL2H8EEZjdRVknsZYQy",
+      "amount": 0,
       "owner": "8hzAQhGBy3jqptqZqcghsZPyXexgaVYea11uPwnuCLuG",
+      "price": 0.16964,
       "tokenName": "Sencha SUNNY-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "Fux7JbRiDzucoctTgSpPz26g3P9Y4EXKbBoXmTp5bCk6",
+      "amount": 0,
       "owner": "225Wc1QqC3bLHNhMSHidBUcrdhFq1jv38q9QGQX7JJ8A",
+      "price": 0.16964,
       "tokenName": "Sencha SUNNY-CASH LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": 0
     },
     {
       "account": "Ar2N2AB1mKkHBiaWPuDU3L3QxQbkhorGeSV6LjK2FJQR",
+      "amount": 0,
+      "historical": {
+        "slot": 125691821,
+        "time": 1647702792,
+        "txSig": "2CQmHB2AprVysZf95xaJf9k3cBMLibXkpH9KsAAmWMW9dbP1rgnRFYTYpKCsc6VUMJEW2Q49jV4jNCoxE2gSKLpo"
+      },
       "owner": "8hzAQhGBy3jqptqZqcghsZPyXexgaVYea11uPwnuCLuG",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "8WAWeSK7AgPnsm1rK9d6K16uCc2yRsVvUoABT7BUgpjy",
+      "amount": 0,
       "owner": "8hzAQhGBy3jqptqZqcghsZPyXexgaVYea11uPwnuCLuG",
+      "price": null,
       "tokenName": "Sencha CASH-COW LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     },
     {
       "account": "5jjhnsCKmLzrtSfXj5mA1AKPzMF1jYWnFZyvscqMvNYh",
+      "amount": 0,
       "owner": "3QNY9SZ6CwSGWa5fqk2vWhvhayfVaSDg1d9XLpJXQKGq",
+      "price": null,
       "tokenName": "Sencha CASH-COW LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": null
     }
   ]
 }

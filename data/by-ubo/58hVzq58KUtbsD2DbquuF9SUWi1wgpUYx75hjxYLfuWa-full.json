@@ -1,11 +1,24 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "7VdG3zFYpa17xAUtQNkXnkLJmdFxiyAHtmJfVX8FXX7F",
+      "amount": 0,
+      "historical": {
+        "slot": 116949425,
+        "time": 1642602594,
+        "txSig": "hwRAWadWzWq3S74r17QFdmyBn4DxVrVSbJ4PRZ318LNnBTUXh7frbzoCBEVhhp1bFwxbZjF2obW7bDwcbLARKiC"
+      },
       "owner": "58hVzq58KUtbsD2DbquuF9SUWi1wgpUYx75hjxYLfuWa",
+      "price": 1.011,
       "tokenName": "Saber aeFEI-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     }
   ]
 }

@@ -1,23 +1,52 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "2FUjMcvXwBEcDT1PdZcTey6NRBL3ET3PDGsTHnFLkDcF",
+      "amount": 0,
+      "historical": {
+        "slot": 117344142,
+        "time": 1642870070,
+        "txSig": "3xSiZRwXFoswqJYnmZpuVAVXefEv7cdCq36XMeYy4Gbs3XrbuppXsYHJC8x18HjxJjfjdxpmrAQ5j1jMfpFWDJR1"
+      },
       "owner": "5qGvSa6rQt1VnadZ2KrBep4Ln9MvmCwNFFfhzmcQWYP1",
+      "price": 1,
       "tokenName": "Saber Wrapped Cashio Dollar (8 decimals)",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "4ENTfA9S3d3Na8hLDAtDyWCgKQqBrpeV7QiLT5r1tKNC",
+      "amount": 0,
+      "historical": {
+        "slot": 119208397,
+        "time": 1643929022,
+        "txSig": "tWoLH337Aa8aDQN1s4fFzjMvbjuFykWbQB2v9uUkMUALvQDyuwTssMoaBEziaBdowp13VuApe3qc3zR2o79cGrW"
+      },
       "owner": "FvGzuE3tYgowKiWaDCDEf97aQJj3drTWGAjqmdM7myXJ",
+      "price": 1,
       "tokenName": "Saber FRAX-CASH LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": 0
     },
     {
       "account": "7ECBjZuvegV4sGQQ4UPr7FR7giZzSkscEqGBfjtfNGNV",
+      "amount": 0,
+      "historical": {
+        "slot": 119208675,
+        "time": 1643929177,
+        "txSig": "3Sx9ocBCQHHpwPj5NAEbaM2Yfu2muXpcpbcAfjvmTx5Zmovf64if7VsJy3vNEa7Z12s9aSZfM1hHMLpxdb63muck"
+      },
       "owner": "5qGvSa6rQt1VnadZ2KrBep4Ln9MvmCwNFFfhzmcQWYP1",
+      "price": 1,
       "tokenName": "Saber FRAX-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     }
   ]
 }

@@ -1,11 +1,24 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "9ZnHfGL2FUhTyn89PjQ6VL1qZ3Jg4Y72oLPXb5o4sEHQ",
+      "amount": 0,
+      "historical": {
+        "slot": 126187000,
+        "time": 1647979787,
+        "txSig": "tsCJnFE8EzbGH61ayj9gYonVK2C19MSncaCUJWpzhdgv4gG2FDTni2wvX68RJT7iFGQixArKXk1Zn1LdK6EwQNn"
+      },
       "owner": "7WaSPFUpCY9efAqxnH19o6oP1tGcLwcaBwT7AiE6G5Cf",
+      "price": 0.9957,
       "tokenName": "Saber PAI-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     }
   ]
 }

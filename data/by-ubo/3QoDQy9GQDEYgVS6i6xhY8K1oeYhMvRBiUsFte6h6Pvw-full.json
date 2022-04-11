@@ -1,11 +1,24 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "7EMHq5H2AVyjiFTyfiB4uW6538xwKb6B59QDhMitmrtC",
+      "amount": 0,
+      "historical": {
+        "slot": 123752267,
+        "time": 1646580555,
+        "txSig": "5WVFQ8TtZWqKdZw8ghZmRmt9rGmPGBLM7i2E7xrRkSrXAnZkr8bwV4xyaM7eQdNHNq54d8P9WFhTusdfGmo7htTM"
+      },
       "owner": "3QoDQy9GQDEYgVS6i6xhY8K1oeYhMvRBiUsFte6h6Pvw",
+      "price": 0.999,
       "tokenName": "Saber acUSD-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     }
   ]
 }

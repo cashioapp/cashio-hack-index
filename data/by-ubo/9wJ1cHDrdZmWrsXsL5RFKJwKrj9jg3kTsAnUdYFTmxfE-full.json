@@ -1,11 +1,24 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "7FGwEeLmS3pou6y4ja54LqnPELBLvrAww299rYf6Eg6u",
+      "amount": 0,
+      "historical": {
+        "slot": 125424529,
+        "time": 1647555418,
+        "txSig": "3JhHG812mvYSfT5GqDuCfoT5mdq88krHwJ2orrTjJqUxqpBmkKnceMksEHucjTLA7fcc6ZFKZuokt4ibTAM5XxjK"
+      },
       "owner": "9wJ1cHDrdZmWrsXsL5RFKJwKrj9jg3kTsAnUdYFTmxfE",
+      "price": null,
       "tokenName": "Saros PORT-CASH Saros LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     }
   ]
 }

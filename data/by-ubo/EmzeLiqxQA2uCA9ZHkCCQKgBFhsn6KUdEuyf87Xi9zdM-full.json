@@ -1,17 +1,39 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0.009731,
+    "totalLosses": 0.009731,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "BZT52JjkF4zRs8ywaiWEDQCnfgnmctWycaZSu6gdrmc9",
+      "amount": 0,
+      "historical": {
+        "slot": 109495159,
+        "time": 1638319595,
+        "txSig": "2iacFJJmUpKRzKCtN4CyG4cWTSWZzbLWRKwqFTmzBqvWzCnmPbkznYctyKXra2n3keQy9nPwq7xTtRgAcGxf64fu"
+      },
       "owner": "EmzeLiqxQA2uCA9ZHkCCQKgBFhsn6KUdEuyf87Xi9zdM",
+      "price": null,
       "tokenName": "Sencha CASH-LUNA LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     },
     {
       "account": "EJVK4edfvjAjFBdYJaPHxLX9iEsAqToRi8Qaf6mLtkGe",
+      "amount": 0.009731,
+      "historical": {
+        "amount": "0.009731",
+        "slot": 110016840,
+        "time": 1638627196,
+        "txSig": "5Zb6nhsxYwnfkfrxN3mkoDbYhV3fwC5w8HiQ8ezPj1McDxv8SGpWTTiBTZp1dxYDNpRvVBSSeqTLxTFQrutjSVt"
+      },
       "owner": "EmzeLiqxQA2uCA9ZHkCCQKgBFhsn6KUdEuyf87Xi9zdM",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0.009731
     }
   ]
 }

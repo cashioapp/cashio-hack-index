@@ -1,47 +1,109 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "7nxHcGDXYNj2GCrpDLwVPrC9MpQ5BJpoyW96LeKEj5id",
+      "amount": 0,
+      "historical": {
+        "slot": 119283342,
+        "time": 1643970252,
+        "txSig": "3f4kbUziSR2yeTaDNoLmb9tT5sbu3oFYtUjP4PuEWuz82nUNs6vE7Jj1WVnXAAMg6xsrGBWSVGPhGCoSrDETGZqG"
+      },
       "owner": "Eb5Tf8DAVXbnhUL3enqCBwv4R85Z97qtNiFA7kXYGgqz",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "BK8Hyg6CwxLQWmzqKMMvCwZFNkLBAXJcbqzM84nPGpCq",
+      "amount": 0,
+      "historical": {
+        "slot": 116155225,
+        "time": 1642129990,
+        "txSig": "4xy74UgRVG36AWL3y4L4zHgHEqaUa2dTVRCTXTMy24mbPdBLbGPMG8RV2BrYfupZBPmZA1tH362gnMCo5UFDox4s"
+      },
       "owner": "Eb5Tf8DAVXbnhUL3enqCBwv4R85Z97qtNiFA7kXYGgqz",
+      "price": 1.011252854,
       "tokenName": "Saber CASH-USDC LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "HpJ5jSfRFjKJLZVvEXYvbrYSU3uF7mjc54KGcgqxGn4C",
+      "amount": 0,
+      "historical": {
+        "slot": 116155022,
+        "time": 1642129875,
+        "txSig": "5iGTa8xXWhxn7ic84QPavzLrCewrcVXy5HVhWTHm7CbWADtmhHi1HRK5rBQ3ENwACTWqpGKUT1E7uDxoPC4X21wf"
+      },
       "owner": "6K7hUZbzLD8thxECNpe1iVoo8oRghKXPSqmZEXebq9vT",
+      "price": 1.011252854,
       "tokenName": "Saber CASH-USDC LP",
-      "type": "sunny-vault"
+      "type": "sunny-vault",
+      "usdValue": 0
     },
     {
       "account": "ACY57RyFPQVs7FX4uEJ5jj9NfNTQasMFSX6k3vRXtZdy",
+      "amount": 0,
+      "historical": {
+        "slot": 116155022,
+        "time": 1642129875,
+        "txSig": "2HEWT88srYqXjfTU3Fz5YgudTYzm2cYqhmh5t1JzeXHmo2KnUbZCD2NNhaZBaQjNkB3hRDHpTdpiSdT7JRWfcvPT"
+      },
       "owner": "U4QdymKUiKv8JZTWdftmJJW6qN7XzMHZgzUDk1e3Wmk",
+      "price": 0,
       "tokenName": "Sunny Saber CASH-USDC LP",
-      "type": "sunny-vault"
+      "type": "sunny-vault",
+      "usdValue": 0
     },
     {
       "account": "4eUnr4dhe2aDJcLTVzYzcjqbYGWP8jLWZXMC5EuKdSSy",
+      "amount": 556084.23,
+      "historical": {
+        "amount": "556084.23",
+        "slot": 118346752,
+        "time": 1643441388,
+        "txSig": "5i4czfcSEySQ1CdKDQzbrimFGag7x88mo99yj3P6UaSumLemfn21AMtWcK14XmtcEfDyMjjUaCiP3W7eGaBwWZom"
+      },
       "owner": "31Ucp9WW4BQoiHw1zm2xrow8rtLvs2nLNdPBf5YK9bGz",
+      "price": null,
       "tokenName": "Saros POLE-CASH Saros LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": null
     },
     {
       "account": "731wBwwc7VLBeSXaB4HgXQn7TyvDhvCHPorjcxqa5kmM",
+      "amount": 0,
+      "historical": {
+        "slot": 118346752,
+        "time": 1643441388,
+        "txSig": "5i4czfcSEySQ1CdKDQzbrimFGag7x88mo99yj3P6UaSumLemfn21AMtWcK14XmtcEfDyMjjUaCiP3W7eGaBwWZom"
+      },
       "owner": "Eb5Tf8DAVXbnhUL3enqCBwv4R85Z97qtNiFA7kXYGgqz",
+      "price": null,
       "tokenName": "Saros POLE-CASH Saros LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     },
     {
       "account": "C7QrtorgU3tayN72X4vWbabhkh7QkhqzfjrEGCBmvhcE",
+      "amount": 0,
+      "historical": {
+        "slot": 118201505,
+        "time": 1643359528,
+        "txSig": "4yUHWPw9tUdPHaufFc9MDY4Xv1b8wrB3g1mk334LrTraHWQDrmFnYpLSvKo4JA8A1Gq57juU52tVsucaefyG6Vs6"
+      },
       "owner": "4fDcdXG9CW9HiKCzTSjwCreWyLECPHDkMDbEWa8wm82m",
+      "price": null,
       "tokenName": "Saros POLE-CASH Saros LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": null
     }
   ]
 }

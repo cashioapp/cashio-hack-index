@@ -1,29 +1,67 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0.0055350963,
+    "totalLosses": 0.0055350963,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "B6QN53YGnVNzBL7p5UqSg338fwd66fAoqv3SnuvUa5JA",
+      "amount": 0,
+      "historical": {
+        "slot": 108307428,
+        "time": 1637664062,
+        "txSig": "3tpYLMkgM4wvk1Af5ag4dcSU1SZbjgwXvLz4RAMz3Q5HnwUPkbrUtmuf4QsHpmaDSjx2momejfYyEDhj7DKQa4yG"
+      },
       "owner": "5zrQSV4G6oBAdEkPxEcFDeoqUUD5kzYfT87p5VvsbG3Q",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "2fbR5NGD3RDN6X1B28YukNBSbVCtT6zBxsG3ZGuqbQUb",
+      "amount": 0,
+      "historical": {
+        "slot": 108307923,
+        "time": 1637664292,
+        "txSig": "3bbEAw9j4Aw7nxhoNEN34XEabrqb92gFZ6hqHXoGuLpYEGUVZ7AtPRk91SXEXYUgHkkGAs7P2HNx7JkRwgrievuL"
+      },
       "owner": "752Zg1UsPbTmB3zD3b1B35bkGtCmeWEXT4mvhUXpsPVJ",
+      "price": 0.9957,
       "tokenName": "Saber PAI-CASH LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": 0
     },
     {
       "account": "DKY6owR5UXszULSRNaqSm3kQFHMnE2TMyhQFFX8hi8RS",
+      "amount": 0.005559,
+      "historical": {
+        "amount": "0.005559",
+        "slot": 109124833,
+        "time": 1638110355,
+        "txSig": "4d1h1pw5cyPgGiGTdFsS8shbE6VTZbDCruUPp8HZR4qctWF3W39FK6oSXMBk141xt7XE2cBrVgk4vxa48txCVZuL"
+      },
       "owner": "5wBKqyqS4Wopfg7Zwzv5d9dM3kWGimohmDnph4YpSPgP",
+      "price": 0.9957,
       "tokenName": "Saber PAI-CASH LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": 0.0055350963
     },
     {
       "account": "F4Dho8HTT63ggzKmrzGxqBE3L1CpP1UZoQ7aT7tq4NhB",
+      "amount": 0,
+      "historical": {
+        "slot": 109125233,
+        "time": 1638110557,
+        "txSig": "2oafNgDmgQ7XE9y3enpRqvUeTEmq2HixbzLkmsJVt8RqWAgH7bWjaUxwJN6kruPELrjXArPB1XmvVw1aDC41xYoD"
+      },
       "owner": "5zrQSV4G6oBAdEkPxEcFDeoqUUD5kzYfT87p5VvsbG3Q",
+      "price": 0.9957,
       "tokenName": "Saber PAI-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     }
   ]
 }

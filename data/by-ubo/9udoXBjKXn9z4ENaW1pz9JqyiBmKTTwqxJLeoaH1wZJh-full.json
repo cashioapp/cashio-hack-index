@@ -1,23 +1,53 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "7VVz1wNzDE2uBnU2D4jMQduFpoJjNiQC62sUP8CQ5WC7",
+      "amount": 0,
+      "historical": {
+        "slot": 116828865,
+        "time": 1642527831,
+        "txSig": "cgAps5RAVBD5aTWqMSNRQbYVMZgxG6JhAZAY8LeBJbrqTQN2ZMC5me6KaELy8gfZyGzPV4D9ZzxwnoazYCWrYAJ"
+      },
       "owner": "9udoXBjKXn9z4ENaW1pz9JqyiBmKTTwqxJLeoaH1wZJh",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "4S6Ruedgtf8LCENXaR3pHkndvS1Q8ERU4XjpGrSd1Hyi",
+      "amount": 16904.05,
+      "historical": {
+        "amount": "16904.05",
+        "slot": 116094030,
+        "time": 1642094119,
+        "txSig": "3vks8PX81rPAwzVD2uhC9f8VTptpjQXmattc1cmtMq6vv7czBUxs4tDyFuZpYb2s8bvPqjDrivfzBAKGK7L1UvE3"
+      },
       "owner": "9wu75tPjc6bJMzEct2J88MTwB8K36fPiP8RcXPJWNKAE",
+      "price": null,
       "tokenName": "Saros POLE-CASH Saros LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": null
     },
     {
       "account": "CbdjnjNeXTBuff6kEvpEx98sMPWnUduv4q1wX7FdiEsZ",
+      "amount": 0,
+      "historical": {
+        "slot": 116094030,
+        "time": 1642094119,
+        "txSig": "3vks8PX81rPAwzVD2uhC9f8VTptpjQXmattc1cmtMq6vv7czBUxs4tDyFuZpYb2s8bvPqjDrivfzBAKGK7L1UvE3"
+      },
       "owner": "9udoXBjKXn9z4ENaW1pz9JqyiBmKTTwqxJLeoaH1wZJh",
+      "price": null,
       "tokenName": "Saros POLE-CASH Saros LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     }
   ]
 }

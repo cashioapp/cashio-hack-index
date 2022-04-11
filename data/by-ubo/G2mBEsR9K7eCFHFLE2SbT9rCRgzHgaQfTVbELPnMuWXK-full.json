@@ -1,35 +1,70 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "54YUC8WPAjEXGS89Hmc6AJKBNLQvvwhohQJMqfUGYLJS",
+      "amount": 0,
+      "historical": {
+        "slot": 122217512,
+        "time": 1645671017,
+        "txSig": "4Fvoow5TLXYom9dVy71vza4wUZskPc9vPzQ7VNdfSiFnZE4RMhPY72u3p62Lvnd8uZY9d761izMzWjtTe7t6RDe4"
+      },
       "owner": "G2mBEsR9K7eCFHFLE2SbT9rCRgzHgaQfTVbELPnMuWXK",
+      "price": null,
       "tokenName": "Sencha CASH-OOGI LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     },
     {
       "account": "GE5LoGGzzYX7DBbUF2cbAMCiHdYqoVWAZ29aFvjxbvVS",
+      "amount": 0,
+      "historical": {
+        "slot": 122217378,
+        "time": 1645670939,
+        "txSig": "3SxFVDReUCB88C7DSueTVe4GHGQjDy25qeESXyFKCWye5f5VLiGQNDwTRPWWedUtVxYnUVpsjkGwwbi8cSjVv8A1"
+      },
       "owner": "FYJvhsD1bfS5S3P2NhULXwwkVAWEVfUtuBJMWmXCHnLA",
+      "price": null,
       "tokenName": "Sencha CASH-OOGI LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": null
     },
     {
       "account": "4JNXMshUFtB4K7Q2Ci8a3w42ZneRFfBLiWpvuNVntkAo",
+      "amount": 0,
+      "historical": {
+        "slot": 123238591,
+        "time": 1646278724,
+        "txSig": "5M1kA3Zo2DfYW34MdyvuZewzFvgHNpKfhGWhkCWdfBPkzkd4qhLxwjPtmpimFDLVeUZCZdrRdHB9cKDWSSfb4jA2"
+      },
       "owner": "G2mBEsR9K7eCFHFLE2SbT9rCRgzHgaQfTVbELPnMuWXK",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "9wLvoyUyq5QDojesW6ZJPRuGPL1H88njcS1XEg5rrGxK",
+      "amount": 0,
       "owner": "FpFHzXL2WeA83PemW1aYpBHymXkxN1gi7uJx8vYJZUkP",
+      "price": null,
       "tokenName": "Sencha CASH-COW LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": null
     },
     {
       "account": "E8uZjVVVdKndE8anqrMXKsyNnXcf2E3DrC6WrG8Yc7Ns",
+      "amount": 0,
       "owner": "G2mBEsR9K7eCFHFLE2SbT9rCRgzHgaQfTVbELPnMuWXK",
+      "price": null,
       "tokenName": "Sencha CASH-COW LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     }
   ]
 }

@@ -1,29 +1,67 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0.672688,
+    "totalLosses": 0.672688,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "8ZVBQo77KRfoBTyPFqMF4C6XXcDVP6uwaksGkaChZwde",
+      "amount": 0.672688,
+      "historical": {
+        "amount": "0.672688",
+        "slot": 108724961,
+        "time": 1637891482,
+        "txSig": "2HkXBD2AtkB6VThRjjKs2imWJfcaSqNNT6d6F8xv8mozuNehhRmVYs9FRLJomSkyV8ygB8TV3KhYmypJa63uxzvd"
+      },
       "owner": "HxXHuDox7iEMb11hzuo7CJbWXoQ7weh9wwbZszWmRDUm",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0.672688
     },
     {
       "account": "4azvCUwiX4EdB7Zc495zsUa6zg8kT5Lup6cvuv79ptuD",
+      "amount": 0,
+      "historical": {
+        "slot": 108356663,
+        "time": 1637690416,
+        "txSig": "7sWie6MmpwdJQ48dMyB8F1rBcyy4dx8FLj31vUt2mmJhKEVKRJm9f8vfhJxeaThbq1QG6ReiPXUKHfhuEKDnKUV"
+      },
       "owner": "GnFpmfM6tSEZbNPCn47gmwZQ628av9brEJnj6o9nv5aF",
+      "price": 1.007,
       "tokenName": "Saber UST-CASH LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": 0
     },
     {
       "account": "F8mS8XAsbvEZYXrtjCiDBfJsy8GMsySXH71XtfD5DQY8",
+      "amount": 0,
+      "historical": {
+        "slot": 108355911,
+        "time": 1637689952,
+        "txSig": "5qndtmxEcLjP72Sue59PRbx4gKYqaav41J2rM5fjm7WuhaZ5vyQgAhF83PwEbpGJpdDFwfr3QifnuYKsk8SM6QgH"
+      },
       "owner": "HxXHuDox7iEMb11hzuo7CJbWXoQ7weh9wwbZszWmRDUm",
+      "price": 1.007,
       "tokenName": "Saber UST-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "FxZAKnAu84ssRxJyyixuML4XndDSpFvnrMeuTsB5SYKQ",
+      "amount": 0,
+      "historical": {
+        "slot": 108232165,
+        "time": 1637626362,
+        "txSig": "5cWdkCVBCMpq2XWkRvDk8KkDezWxBRdCw6ypGQiTvKDiPHchKZNxiCkjhqSNFkKK2DVTJLfRS7mhEsDUrVwLW3ts"
+      },
       "owner": "7exFsjXeXyL9546ZyLF3xV3iLyhjfmooSp1bRFWCefKn",
+      "price": 1.007,
       "tokenName": "Saber UST-CASH LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": 0
     }
   ]
 }

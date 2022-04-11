@@ -1,29 +1,67 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "2xa4okjJVNjyA79Dzr2NiJ5znaJSr1qCE6RzGyWFqgeJ",
+      "amount": 0,
+      "historical": {
+        "slot": 123741035,
+        "time": 1646574013,
+        "txSig": "5ADestBgv174ZqoXnSvdfokWzd6cSUzvj3G4zQXRUCDntHTY18ic6CgiXdSF2Dm8WqmSAaB5knKVTWhvRr9e65Eo"
+      },
       "owner": "2edz4BKoZNx64brBqbU5dvdWKzVA42f3AboQ9mp62Mn1",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "zfXwfA3N81EHWLH1VaYUonf1rQ46YgWPBTakEwQJS3D",
+      "amount": 1357.49,
+      "historical": {
+        "amount": "1357.49",
+        "slot": 121148990,
+        "time": 1645046455,
+        "txSig": "2S2igXF2JCo3c639hXyHcevvJqCg9avZsjkZfjgL24HUZCGNHYnRedR1rmTuvdfnU6ME7b67AWYFdeiih9yokBzR"
+      },
       "owner": "2edz4BKoZNx64brBqbU5dvdWKzVA42f3AboQ9mp62Mn1",
+      "price": null,
       "tokenName": "Saros PORT-CASH Saros LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     },
     {
       "account": "3NVVZeWoLGLwEK9r8zya3VHEdjgUvxptzRtLDuXCz521",
+      "amount": 0,
+      "historical": {
+        "slot": 121148978,
+        "time": 1645046445,
+        "txSig": "jH9qvVBXxUXnmWDhUzfPMAtnaQ3xJTZe6CKiN8NCZWKVkZ3AkuFmsVzLNkenVKnrb3BQaYaqqpofy56dgL8zKa7"
+      },
       "owner": "2ecMqdxz9fWvijQaWpFr6R8Yh5SJEC8UWRKgs1Fi1K8V",
+      "price": null,
       "tokenName": "Saros PORT-CASH Saros LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": null
     },
     {
       "account": "BM7C4Gsg79FMeNr57UAWUCtP114oY4ULkKxAxDYkw2pn",
+      "amount": 0,
+      "historical": {
+        "slot": 120492534,
+        "time": 1644666140,
+        "txSig": "3Ca1odJcz8jzmBRDnznAauAkbdhPA5WJCG3xZQeYDYkFpWNLqFrWxtXPc7iSGL4uLELrdgDCd29HUMyqWdJPsJFZ"
+      },
       "owner": "2edz4BKoZNx64brBqbU5dvdWKzVA42f3AboQ9mp62Mn1",
+      "price": null,
       "tokenName": "Saros PRT-CASH Saros LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     }
   ]
 }

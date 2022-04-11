@@ -21,30 +21,68 @@
     "submissionInvalidReason": null,
     "submissionIsValid": true
   },
+  "summary": {
+    "netLosses": 88767.7137433,
+    "totalLosses": 88767.7137433,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "4z5gjoMF4u7AxVXekjKGi8yA4nVGtEYLkDTG3Zz3N4FU",
+      "amount": 0,
+      "historical": {
+        "slot": 124216466,
+        "time": 1646856941,
+        "txSig": "48FDrLZzwYhsH234ZsZsqtt2zS5tSP5C2Q2vE5L8xg3wivbgiSpCvzM3RhD4GNozsb39KtmPSPBnUQkgJtC5HHNn"
+      },
       "owner": "2mitF9RNDFNHqL2cLWYazBwE8ub7Z9ghdwo4S259NpEG",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "5TGA8MPDp4R7SNfcPbjxQyhoqLFXE5pdT1qUFXaPUz3B",
+      "amount": 0,
+      "historical": {
+        "slot": 121328093,
+        "time": 1645150325,
+        "txSig": "nzQ7YwtwYZdehiUf1bNinzhJcJPxFpLSBTc5vouYuA9gMDT4n6qiMuxHs5kLW83n4FedJ21ZVPv5W6hC2rbmZ62"
+      },
       "owner": "ANcYQWFain3MXx5Yhq6XBQPUPLkgQ7e7miHrzmuDkEbU",
+      "price": 3.35,
       "tokenName": "Saber USDH-CASH LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": 0
     },
     {
       "account": "AL1iXoHZoLLetGb9jow2DxHFWLQxRWkWt8ztRRsqSKAn",
+      "amount": 26497.824998,
+      "historical": {
+        "amount": "26497.824998",
+        "slot": 125988314,
+        "time": 1647868370,
+        "txSig": "giRznFx9FgDHGBhdmL4qCErNQ14q9cXHwij1c2RoCL8QLqM4wnEr6cj3Ebwqd5f8VA2nujXbLyWyaRbR3HeSXPP"
+      },
       "owner": "9HFRSWa4pPdrPWNoEYN26bVUqjCEGHB6zNBNAgRc3nBJ",
+      "price": 3.35,
       "tokenName": "Saber USDH-CASH LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": 88767.7137433
     },
     {
       "account": "CZE9UaMSNHkFcfdq6fSH7QRLvUk878HA1pqTjuWCzNJG",
+      "amount": 0,
+      "historical": {
+        "slot": 121328177,
+        "time": 1645150372,
+        "txSig": "YjfmvimPmNKPScNJaVRybeF6GEBdesDyEAogh2oqTysVhjDB79zXWsteqBbK7ft91Ej7gBwAXXSr2Fp4q4cekjX"
+      },
       "owner": "2mitF9RNDFNHqL2cLWYazBwE8ub7Z9ghdwo4S259NpEG",
+      "price": 3.35,
       "tokenName": "Saber USDH-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     }
   ]
 }

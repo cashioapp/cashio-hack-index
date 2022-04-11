@@ -6,12 +6,26 @@
     "over100K": null,
     "reason": "Automated rejection: reported address does not match signature"
   },
+  "summary": {
+    "netLosses": 0.00006,
+    "totalLosses": 0.00006,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "8QE5T82zAShPbezPPkdP9quJms1zjpZxhc2bGfH97Q6X",
+      "amount": 0.00006,
+      "historical": {
+        "amount": "0.00006",
+        "slot": 125280550,
+        "time": 1647476179,
+        "txSig": "4hPCKQjy2AgvsiVZ8qVJkFgeZGZJ4Yd1YNob8Acd4xX5p6LcmrZEoXXSorxqx8VVkeViz52WW8Y941d2K35XNuxL"
+      },
       "owner": "BZZRr4wnzpMG4LC3U8oNoJaqdwskJBYKw3xsJmVuCrAx",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0.00006
     }
   ]
 }

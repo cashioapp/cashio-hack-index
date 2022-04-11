@@ -1,11 +1,24 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "3XN8BwHxzxtZmMmWnYFLVvWp2APtDSG6kMB3LDHn5mkf",
+      "amount": 0,
+      "historical": {
+        "slot": 116223085,
+        "time": 1642169854,
+        "txSig": "Me4je1sSFE8RLnrgt4zL9nQsHeDdhgqRTv3ifar7z5udVtZqbjRo1H8gtXJNinYGq2ijU8fufFMZbZYCMBWRFpX"
+      },
       "owner": "F81GKRUF6ESD6onx3CkRVAQuYpRpQiSjZCPkD4U6ouPu",
+      "price": null,
       "tokenName": "Saros PRT-CASH Saros LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     }
   ]
 }

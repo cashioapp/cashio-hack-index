@@ -1,29 +1,66 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "DbcH4t4LYK54S9QdfF2NztKauYMkEDdkEt7N1wNuvqFi",
+      "amount": 0,
+      "historical": {
+        "slot": 115882419,
+        "time": 1641971967,
+        "txSig": "XmVywNDvZSaMKJk43tR8X5zMy9NpnVHPuTEFua2HcjBP5hG8eWtDv3NHAMcFSRWnpw9YKxvnDoyyJc4ju9oTN5z"
+      },
       "owner": "C7uS3iBt3YoPEwbGVv8RfoFTpD1F9xJCMFctCBkGf6xp",
+      "price": 1.011252854,
       "tokenName": "Saber CASH-USDC LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": 0
     },
     {
       "account": "AEbvB5XZny5wLULqToarbouj6zGQh9EA6MXtAgmWQdCe",
+      "amount": 0,
+      "historical": {
+        "slot": 117615904,
+        "time": 1643026024,
+        "txSig": "dHTtg6XFPs4t5j3u3SZw4sVvxSaoDX8NHsRfebV7SZioc7Hrxa5vKoYHUiy9aKDo7J7oawNyuCSVGXh8kDVrHMU"
+      },
       "owner": "95eHU9yyUipQHMnpjALEP18Nmr41qExdJeV38oS3ncFL",
+      "price": null,
       "tokenName": "Sencha CASH-COW LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": null
     },
     {
       "account": "DNJGaYaHm9ADbbC2ugyKNDfQ9A8EiZMLZsge1RpKZEF7",
+      "amount": 0,
+      "historical": {
+        "slot": 117615627,
+        "time": 1643025849,
+        "txSig": "66BjoDuAQn5koZPSw8JSCK2CvBSmuzE9nCEdgTgEBTyn49x9dg5E8rgPZVhepp5mw3LG3oMVduHpqfogLuRpu3Yb"
+      },
       "owner": "Fjm2dpaynVbT6ZLY9csRQENmA1zNmVRT54adiHmMduc3",
+      "price": null,
       "tokenName": "Sencha CASH-COW LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": null
     },
     {
       "account": "H6g1VTsjDR6etXFTTpTrK1HBhp4Pmh6P3fz3Kup7vT9P",
+      "amount": 0,
+      "historical": {
+        "slot": 115839580,
+        "time": 1641949167,
+        "txSig": "YgtGnZwCPat64BKgjTx1auYDNXkgAPyGiNdQR67REmhwPRjYNdC4ZReaWytG1zC6CYwZz5MiFWqSyfiymuwHjpQ"
+      },
       "owner": "AxL4WxXxWprCFiikateLwzkMdaPzRW3uacLK3TkBWJZ5",
+      "price": null,
       "tokenName": "Sencha aSOL-CASH LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": null
     }
   ]
 }

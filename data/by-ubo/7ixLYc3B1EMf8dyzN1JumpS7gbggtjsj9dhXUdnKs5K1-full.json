@@ -6,24 +6,55 @@
     "over100K": null,
     "reason": "Automated rejection: reported address does not match signature"
   },
+  "summary": {
+    "netLosses": 2901.8826714999996,
+    "totalLosses": 2901.8826714999996,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "6zLtJsFPVkviKMR5Fz1x8rU3x8nAQt8Yok6bohZikbh6",
+      "amount": 3413979.59,
+      "historical": {
+        "amount": "3413979.59",
+        "slot": 126155326,
+        "time": 1647962293,
+        "txSig": "33sNVvupNheavdNd2mZzUikdu2VYUvCMqLtoA87gESWHWREZeNJ6tTjXwp6e3Kidnro3N9HDiHcFVKbe7qErjknD"
+      },
       "owner": "7ixLYc3B1EMf8dyzN1JumpS7gbggtjsj9dhXUdnKs5K1",
+      "price": 0.00085,
       "tokenName": "Saros C98-CASH Saros LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 2901.8826514999996
     },
     {
       "account": "EcJHU9foq5YG9pL3ArowZ2dicWDyG4nS6ezXmY6iboF7",
+      "amount": 0,
+      "historical": {
+        "slot": 126155371,
+        "time": 1647962319,
+        "txSig": "2HMPbDqLcppWX4j89HjJS84VZ2UhWusCMmta5DveizzyAbwKJHdk4cE8HN6tHTjA3aQxYHAEAGWBaWKFzZrgKb9A"
+      },
       "owner": "BHDnW5VTrDw2iuFTQqRZxk92JNRqrgwsdYg45gfWWyVv",
+      "price": 0.00085,
       "tokenName": "Saros C98-CASH Saros LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": 0
     },
     {
       "account": "3Q2iKhLkhJyipjj2aHus1VNHWnvWX96xLUjXkoWpWUbj",
+      "amount": 0.00002,
+      "historical": {
+        "amount": "0.00002",
+        "slot": 122070224,
+        "time": 1645584433,
+        "txSig": "2jcFU8mfVd6Nuep7SCHSE94s1GB52VzCBXMDH1bg5nHeLCRyPGBfqjhHz7sF79a9XL8octMN7bg4p1vkFs2KwwHd"
+      },
       "owner": "7ixLYc3B1EMf8dyzN1JumpS7gbggtjsj9dhXUdnKs5K1",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0.00002
     }
   ]
 }

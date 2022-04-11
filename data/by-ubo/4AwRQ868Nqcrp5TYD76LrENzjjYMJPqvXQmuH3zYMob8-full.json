@@ -1,23 +1,53 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 8.9e-7,
+    "totalLosses": 8.9e-7,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "E944aFY15k2AmGMUjkpyTNtR2RaERNtvfaP5fwJ65Vhq",
+      "amount": 8.9e-7,
+      "historical": {
+        "amount": "8.9e-7",
+        "slot": 113512790,
+        "time": 1640583639,
+        "txSig": "4T6Auc4ie2jXDSHamyGE9tXtdDUBRvpKFgthPiTDmWHWkLFeMxcirG3TfUgHenU7BRDvYC8DY9uHywikYwvEGb9Z"
+      },
       "owner": "4AwRQ868Nqcrp5TYD76LrENzjjYMJPqvXQmuH3zYMob8",
+      "price": 1,
       "tokenName": "Saber Wrapped Cashio Dollar (9 decimals)",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 8.9e-7
     },
     {
       "account": "AvLXdFXSHMLNvPaqG12sKJTgkS3xmJZUszWuCiW8aFxB",
+      "amount": 0,
+      "historical": {
+        "slot": 113512585,
+        "time": 1640583538,
+        "txSig": "4Xbkmtopy2v9Dz7AJ2Cka3G2qqGzFDad1RPPyiE2gdUtTwpiGSzN1wgtFusVdS4wYnJCU8GnYxjw9gFjZ3koKLN"
+      },
       "owner": "AVa1xv3j1SAuZS7vtMQLL6wXeTcBpMftpQTtnA55zYFS",
+      "price": 0.999,
       "tokenName": "Saber acUSD-CASH LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": 0
     },
     {
       "account": "AUbRafiZdHvk2BcL6sgv4QPZHycHfT31TRoPJ7ibf2Ym",
+      "amount": 0,
+      "historical": {
+        "slot": 111371530,
+        "time": 1639406188,
+        "txSig": "61hmqiwamf7R5dWuYnEtkuyuyekgnCtWRN4P3zii2pJqQDXubxzNUjcNgPqYECREU5xRhQgsW1hHPGUcYisvdjAa"
+      },
       "owner": "4Y7KxCorX2c942zRULtWkVoTUBLye2c51Zzdm4dNZYB7",
+      "price": null,
       "tokenName": "Sencha aSOL-CASH LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": null
     }
   ]
 }

@@ -1,11 +1,24 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "D7YNRmbYMsx24WLpGeDxr7AM8FPc7wBWFehkpkvqQPvi",
+      "amount": 0,
+      "historical": {
+        "slot": 114713440,
+        "time": 1641271063,
+        "txSig": "3urH5f7QV2N1UExdf3bPnvA2ehjfBoUUmTTdA9TLL99k16VKBp7cQDdrJPr4LVRqBfSD2z2LfBPHdx3AcfZspK5T"
+      },
       "owner": "3SH8q3y7eEiBwLLmFQaGccYZk8MidKKTVqZKjaPqp4Lu",
+      "price": 1.007,
       "tokenName": "Saber UST-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     }
   ]
 }

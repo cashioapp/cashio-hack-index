@@ -1,29 +1,67 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 1.6e-7,
+    "totalLosses": 1.6e-7,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "DPMSiTvQbgYgSBQnFGcdgmHMdSUw2qJJWFC41WPHd75z",
+      "amount": 1.6e-7,
+      "historical": {
+        "amount": "1.6e-7",
+        "slot": 115042584,
+        "time": 1641465768,
+        "txSig": "5iRrQRKJMjgp3YMCEaLWFaoWEm5VMhE4St9RgjREJb3gkEBdEgHfiSqRDxzzGgtd1cPgLuVvHtXdt1nKfZqEcYFw"
+      },
       "owner": "d5ynv9Y8tSaULAMhyJCyDdo5b7Y7vR5evrpg4fbQFkd",
+      "price": 1,
       "tokenName": "Saber Wrapped Cashio Dollar (8 decimals)",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 1.6e-7
     },
     {
       "account": "9s8Z4UifYP3VftSyofB1GJqvmchud4oN1QmFDXTCZT9o",
+      "amount": 0,
+      "historical": {
+        "slot": 115043017,
+        "time": 1641466078,
+        "txSig": "2bSwZFH5ENSUm61A2T35QJKqSbTun34u6EGZKgexKzMV81bvDTeCbmV5hrVSB9cV9GbaeUi1NJN5AkGLeXGd68CY"
+      },
       "owner": "d5ynv9Y8tSaULAMhyJCyDdo5b7Y7vR5evrpg4fbQFkd",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "44WtMAZPeBRj3eETtPwAw77M4duc5muEJgX9VaGk9M8N",
+      "amount": 0,
+      "historical": {
+        "slot": 117296941,
+        "time": 1642835285,
+        "txSig": "hDjPvF8MXjTM8p5AB1MXmU49H59RDMdgXFHSXLcLCcdAuhqnztwCvZc4j8k2ykpy5UnQXowhKp9vnpz8zsC3SVn"
+      },
       "owner": "CBTsGWmEWw2UAjtAvcXTPYvJJbT6fbywMSJUehiyeyGx",
+      "price": 1,
       "tokenName": "Saber FRAX-CASH LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": 0
     },
     {
       "account": "GZ4xbMBNNRcdu7yZJSzth6hN8oFzReghhhfayaq2tghs",
+      "amount": 0,
+      "historical": {
+        "slot": 117297506,
+        "time": 1642835688,
+        "txSig": "2NXqdzNxHCCLkwg9dQqdocGxZAn6RjJPdPvcbKkR6JZZkP4X2xcv4juNNaMCnHk59BibUcvmjPhcRsPE35yTZmYt"
+      },
       "owner": "d5ynv9Y8tSaULAMhyJCyDdo5b7Y7vR5evrpg4fbQFkd",
+      "price": 1,
       "tokenName": "Saber FRAX-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     }
   ]
 }

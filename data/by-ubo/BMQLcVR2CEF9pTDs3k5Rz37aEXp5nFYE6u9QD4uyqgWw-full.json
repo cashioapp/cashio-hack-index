@@ -1,29 +1,69 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 2635.36610038176,
+    "totalLosses": 2635.36610038176,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "FoitPMkBcEz6ut95GNa6PxmAWDAsjyMe9bHqcXE2PCkk",
+      "amount": 0,
+      "historical": {
+        "amount": "0",
+        "slot": 119708806,
+        "time": 1644209146,
+        "txSig": "5mSGhn6UBhmTfMABq71sKPX67JZ8baGh6J57Xgji9a6GM1HMKTaga98bMKyw5AzyM8sjvtku6nxs2R5JPk96wWii"
+      },
       "owner": "BMQLcVR2CEF9pTDs3k5Rz37aEXp5nFYE6u9QD4uyqgWw",
+      "price": 0.16964,
       "tokenName": "Sencha SUNNY-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "G4xx3gUkL16EYFbegRzD6Cwmbt9K5GokNZFnME6jVbaL",
+      "amount": 15535.051284,
+      "historical": {
+        "amount": "15535.051284",
+        "slot": 118022867,
+        "time": 1643258394,
+        "txSig": "5gLCBXL3Uzs7UFKxA7vFkeVjfifzJFG5RWx4jE86527aUjiiLJJ4QTTbAE3qyvUfvfrDkDGf6RgJmfthruLpZvQ9"
+      },
       "owner": "BehN3vLLKs5vDsddPrZLRxFtgaUxRHDDmuYro4ju1siL",
+      "price": 0.16964,
       "tokenName": "Sencha SUNNY-CASH LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": 2635.36609981776
     },
     {
       "account": "AY6e1frwugAWeuS9S7vwzFTzn9xW2rgrKDYoxkSwL4o",
+      "amount": 5.64e-7,
+      "historical": {
+        "amount": "5.64e-7",
+        "slot": 119200645,
+        "time": 1643924641,
+        "txSig": "3pgidBGhJyKim8pwGtFN4CT14NZSMZtTGD9Rj8zBm1CfycdRZPo7sK5h7Tu4vuRxeysaTvNz4jsD5UNhVdsP5UE9"
+      },
       "owner": "BMQLcVR2CEF9pTDs3k5Rz37aEXp5nFYE6u9QD4uyqgWw",
+      "price": 1,
       "tokenName": "Saber Wrapped Cashio Dollar (9 decimals)",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 5.64e-7
     },
     {
       "account": "Gte3y4xzzQSaG5nSEpBMrGWcBQsfzY1CFsxCw5KgDdYM",
+      "amount": 0,
+      "historical": {
+        "slot": 122675581,
+        "time": 1645943965,
+        "txSig": "5nWH6An8wFditRbKT92c5VQ3UmKMmxLJgevqvEPQjLAGRcN9JCWHKkPvqTeahEjAQxRQrwxZSJ8JjrnhWTe2hhEC"
+      },
       "owner": "BMQLcVR2CEF9pTDs3k5Rz37aEXp5nFYE6u9QD4uyqgWw",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     }
   ]
 }

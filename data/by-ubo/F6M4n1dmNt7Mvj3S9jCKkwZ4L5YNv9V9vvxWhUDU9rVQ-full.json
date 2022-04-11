@@ -1,29 +1,66 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "HtsUM7iwEo9rTsN2YBjXETshpBD6pXFnuPj1PWKgRTN6",
+      "amount": 0,
+      "historical": {
+        "slot": 119785176,
+        "time": 1644252459,
+        "txSig": "o2FpsbxZsNJhHbJZ8rySkmSiLL2J1vtpJ27zb2VNPA6ZsxQviw7T6q6eQFYtq6C7bAxpavSqggvC4HZf8Ek25jz"
+      },
       "owner": "F6M4n1dmNt7Mvj3S9jCKkwZ4L5YNv9V9vvxWhUDU9rVQ",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "7rwnt1FWUoArzkY7thkCx7yV2PR6SYDVjqAhU1wqdxp",
+      "amount": 0,
+      "historical": {
+        "slot": 119784897,
+        "time": 1644252284,
+        "txSig": "3VYxkGSDs97B7TGR2NT5boQT9SnMLLadWQsaM5nnDAGtiJaoNeUQVctBwpbPcCadN55tXUJFj5E63dcZk31qMd93"
+      },
       "owner": "9GonrErDFK1Gxr6NgvV4ye5j4acn1KwyodMFNAMH623N",
+      "price": 3.35,
       "tokenName": "Saber USDH-CASH LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": 0
     },
     {
       "account": "6Q7oKompUmfukPxVfvVHsRxB5MM5E4mmzsrrkkdkVMky",
+      "amount": 0,
+      "historical": {
+        "slot": 119785078,
+        "time": 1644252397,
+        "txSig": "2kNX2B8dhR2E95hbDKY6wYKEwyjrti1hQXDP29zPY6n1M8jWHzLrnt2HN1yuQCtewiZJppBBoUoKYuQrBJ85YgkN"
+      },
       "owner": "F6M4n1dmNt7Mvj3S9jCKkwZ4L5YNv9V9vvxWhUDU9rVQ",
+      "price": 3.35,
       "tokenName": "Saber USDH-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "8oEEnhCVP1hyKVPmrBR6rjspzjnk1GjgTDG14XGoNr97",
+      "amount": 0,
+      "historical": {
+        "slot": 119500538,
+        "time": 1644092720,
+        "txSig": "51ZpvznWWv4rXtHTjmP7unKzUAAhFjuUCvXcjnhU9PrjXypCkY5UHt2mEAqm7Cx2YSGZPC53oKejiJxqnurdk9fy"
+      },
       "owner": "5HFkRdjMR8YAbeEZoNfcTsJXX5YYGXt5WWNfXcntR8CX",
+      "price": 3.35,
       "tokenName": "Saber USDH-CASH LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": 0
     }
   ]
 }

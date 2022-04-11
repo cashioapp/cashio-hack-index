@@ -1,11 +1,25 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "GZpDCYZGivEabMxJxXm3bHRxPxQ8sWMQXZL1ssYTxBW",
+      "amount": 0.000735368,
+      "historical": {
+        "amount": "0.000735368",
+        "slot": 119775161,
+        "time": 1644246438,
+        "txSig": "47s1eDc6AfbSGmSyQVSWxx7wcmXofaFrakH6kbg7VztbHrRxQE79ViinMqnBhSJamjaRHxmdasv4br7L3qwUdoa8"
+      },
       "owner": "8eMtzYNNozjvRWrh5ojwDAAzsSwVaJwxZLXjSub73o3W",
+      "price": null,
       "tokenName": "Sencha CASH-OOGI LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": null
     }
   ]
 }

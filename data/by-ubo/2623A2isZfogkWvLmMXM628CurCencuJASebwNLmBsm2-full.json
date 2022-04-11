@@ -1,11 +1,24 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "2V32Lc7qxqEeCKofA4basEzsFoLp5WsroqtFLbQYCohi",
+      "amount": 0,
+      "historical": {
+        "slot": 119773015,
+        "time": 1644245121,
+        "txSig": "UzseFeLApShVUVuJXpFbJDi9M7Nd7SMkH7yQAGf9BaH6HKqA84Y8n3oGWX2o8vMdK4qXZeVhN3Rp8F3N3ZdiNZp"
+      },
       "owner": "2623A2isZfogkWvLmMXM628CurCencuJASebwNLmBsm2",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     }
   ]
 }

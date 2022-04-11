@@ -9,30 +9,68 @@
       "source": "8H4vUyYxpyqfszfVffECiXCdLBd2xRFY51Rp4AGGfDzS"
     }
   ],
+  "summary": {
+    "netLosses": 690.5187562156061,
+    "totalLosses": 62054.396419215605,
+    "totalRefunds": 61363.877663
+  },
   "tokenAccounts": [
     {
       "account": "7tEwV3qLUDRZQM3VFgEetxxr9EWWfBM34Bb4kLWyHSB8",
+      "amount": 0,
+      "historical": {
+        "slot": 107691950,
+        "time": 1637347551,
+        "txSig": "3M6RaHdthL5QSrnxaWSuaaxzvf1nSNHb6LCbQC81jmHi8sEevUtU8bLfqSb15tySFYReoi8DHZpdgP88iAFW7vwS"
+      },
       "owner": "AhNZJsBmcn4Ha5qhr3Axr6hPXG8iDu7rn7JJKx8je42g",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "4Jq8Qq4qkTijCJPkAUPSmeJBqKFppaeTye9EndFLauHC",
+      "amount": 0,
+      "historical": {
+        "slot": 108686359,
+        "time": 1637871035,
+        "txSig": "3iBuU1asgd5bdbXLbPir32PCJoYyRYuR62FGnCxLdmr1kqZ8rPsxY5P2DR5uhv7CBmoKSag3Qh89hoBKVLcWEyao"
+      },
       "owner": "j2dekdQZmKLwiCc81tXQ4FV7tpU3XL4iUY11Bs6G5UD",
+      "price": 1.011252854,
       "tokenName": "Saber CASH-USDC LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": 0
     },
     {
       "account": "F82SWs7BnRbQyfcagTum1aSm9P2mGWoPQJQmDif7NQZ",
+      "amount": 61363.877663,
+      "historical": {
+        "amount": "61363.877663",
+        "slot": 125736269,
+        "time": 1647727602,
+        "txSig": "ioLQ5RpSaGN3VS3WtHrK1fagGExFWv9K8aftiBmuFZgJRnfyweyNnNn2ke4mzWuvy3ucwpvoGYGoo2dqwjMNySp"
+      },
       "owner": "H2FhCgmAkwrMyvpYmbjzawbKQmxQ4ftFes4bLLLpJc8k",
+      "price": 1.011252854,
       "tokenName": "Saber CASH-USDC LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": 62054.396419215605
     },
     {
       "account": "3wRGbFJh87pedAU19FYb7zNTUpnEw2MSjmwxUGKMEPa7",
+      "amount": 0,
+      "historical": {
+        "slot": 108686398,
+        "time": 1637871055,
+        "txSig": "3XCrVD6F8MkYy8YhrppZdAaDEpnkBHuhmmXLbkQJHukbxkCNt2GVTgVdFbPEDE5Wr66HxVTxtLA9Kd2ru57MZzgk"
+      },
       "owner": "AhNZJsBmcn4Ha5qhr3Axr6hPXG8iDu7rn7JJKx8je42g",
+      "price": 1.011252854,
       "tokenName": "Saber CASH-USDC LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     }
   ]
 }

@@ -1,17 +1,39 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 2.01728258700909,
+    "totalLosses": 2.01728258700909,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "9bZFEsPjhmrSb1QsaYCtZm5RwNBvyVvrCigNPzj5dJwi",
+      "amount": 1.994835,
+      "historical": {
+        "amount": "1.994835",
+        "slot": 108410799,
+        "time": 1637722452,
+        "txSig": "onQ9MvDwKTQPbYLyWepkADcGYwkAZcnK9WFsVgQN8HCCxEGizfKuB97qdAUDYvi7dxKiXE4MFGJT8PEg8oRYovp"
+      },
       "owner": "BUhoBE7VDptDK9PAU22vFjgZJe9bshDzzuynSSLZZSa3",
+      "price": 1.011252854,
       "tokenName": "Saber CASH-USDC LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": 2.01728258700909
     },
     {
       "account": "BeqWx3zD9Z3fpW3jrDrwxcdEhEEYskUbRmjJH38XXKnP",
+      "amount": 0,
+      "historical": {
+        "slot": 116163893,
+        "time": 1642134911,
+        "txSig": "4aKemFetsXCJ9ELiTS7tZRNEteRFQFyDPSHH3Mhhk15RX29zQkUe1MBY1LdngQzvVvoHckwgBWF3RY8giQVzonrT"
+      },
       "owner": "GTM6UZq1e73cRPo2wSfJKeN2zaue2BpUL3qeArmphBPj",
+      "price": null,
       "tokenName": "Sencha CASH-COW LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": null
     }
   ]
 }

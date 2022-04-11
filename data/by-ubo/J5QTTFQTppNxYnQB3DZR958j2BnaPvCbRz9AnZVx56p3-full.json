@@ -1,23 +1,52 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "AEq266HREX5PYwmyicwrE7Nn3cA81aiG7Utr3rUjc81v",
+      "amount": 0,
+      "historical": {
+        "slot": 115953821,
+        "time": 1642014335,
+        "txSig": "4hf7ghT6ZTiU52fswmfuHgX3Tzvhd5r9JQ7kQHB9PBQbFLntvfqRqBhdFV24A8qaNHvxwbfw5SMAgYu5QSpgeG6"
+      },
       "owner": "J5QTTFQTppNxYnQB3DZR958j2BnaPvCbRz9AnZVx56p3",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "2us2Jqt3SLgduLtnByhTrvvczN7X1vBp3oPSJN1jcg3K",
+      "amount": 0,
+      "historical": {
+        "slot": 108213684,
+        "time": 1637616829,
+        "txSig": "mjgc9iuJf2yWK7bRMFD9N2pnswTerERKanMbLmqm4goWKaYn9vuF7784sLSJhZ6QW3VYQ7feHc7p1cRV5Z6muaK"
+      },
       "owner": "3qCec5ZZgpxqDtESUi6AVUHUaGNDLdGuxuTG1T8iZhg5",
+      "price": 1.007,
       "tokenName": "Saber UST-CASH LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": 0
     },
     {
       "account": "5jrSQwGZuvajfb8JTjURM2LWLjWJiWa5RpFyBqhUVSjL",
+      "amount": 0,
+      "historical": {
+        "slot": 108218597,
+        "time": 1637619374,
+        "txSig": "2teBk7HpqsmDiCLrYEx3uUAczwGZ2CytYVPe3c226wKd28WUc7Ffc5udBNDGYKsNAnaVm4CPCYegaVVv9AS9TKJy"
+      },
       "owner": "J5QTTFQTppNxYnQB3DZR958j2BnaPvCbRz9AnZVx56p3",
+      "price": 1.007,
       "tokenName": "Saber UST-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     }
   ]
 }

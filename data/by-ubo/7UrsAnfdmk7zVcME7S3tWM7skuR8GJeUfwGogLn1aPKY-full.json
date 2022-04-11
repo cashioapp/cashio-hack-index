@@ -21,12 +21,25 @@
     "submissionInvalidReason": "reported address does not match signature",
     "submissionIsValid": false
   },
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "yypSD2h81ZkTHThV8SsYHsPpx9rvNPhGjtzoxyr24dG",
+      "amount": 0,
+      "historical": {
+        "slot": 126065119,
+        "time": 1647912046,
+        "txSig": "5aGk72eDww1CodpovKrCoBcoJuccf9SqhPD7WFQ9T8W2o2uMEdx4NDAWo6En5tfA7NmhEzjZYb87c8wi7UEas2rG"
+      },
       "owner": "7UrsAnfdmk7zVcME7S3tWM7skuR8GJeUfwGogLn1aPKY",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     }
   ]
 }

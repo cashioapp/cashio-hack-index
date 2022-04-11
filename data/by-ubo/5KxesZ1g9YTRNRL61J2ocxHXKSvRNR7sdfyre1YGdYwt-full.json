@@ -1,23 +1,54 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 13.326302499999999,
+    "totalLosses": 13.326302499999999,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "3AaBa5EoHDsaL5wzY3K4tWsPgWt9Jh8DgzDYhXQDo8ma",
+      "amount": 0,
+      "historical": {
+        "slot": 116568698,
+        "time": 1642370270,
+        "txSig": "3Q2H4GUgaNDQRD6G4jgAC7rWKYJ3PRHYdDieGyQFd4iZK6opmmgDR2kkA5So3zsH2oNjWWEg2xU75KTZgrpdth5j"
+      },
       "owner": "5KxesZ1g9YTRNRL61J2ocxHXKSvRNR7sdfyre1YGdYwt",
+      "price": 0.00085,
       "tokenName": "Saros C98-CASH Saros LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "EDL2aW2BZR5evksmcJDSMAcMoDyXCNiu36htaVV9ncuF",
+      "amount": 15677.93,
+      "historical": {
+        "amount": "15677.93",
+        "slot": 116568698,
+        "time": 1642370270,
+        "txSig": "3Q2H4GUgaNDQRD6G4jgAC7rWKYJ3PRHYdDieGyQFd4iZK6opmmgDR2kkA5So3zsH2oNjWWEg2xU75KTZgrpdth5j"
+      },
       "owner": "9y6xx4J9aNuGyXg1BxMpyi3t9MhJ7kf9kXtXTVXMFxDf",
+      "price": 0.00085,
       "tokenName": "Saros C98-CASH Saros LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": 13.326240499999999
     },
     {
       "account": "FCyTqrpEseBGf8UDk6NE9uEWJSm9dQRwYinTcetR6dtM",
+      "amount": 0.000062,
+      "historical": {
+        "amount": "0.000062",
+        "slot": 116568152,
+        "time": 1642369946,
+        "txSig": "RdQnybtupLKbHDU9hawCqC13m2pJtYeNcD4hdEXmQr6WAM8uazbbh8pWUsAhMFkw9F4rfRXVGccGB1i2nR8C8K9"
+      },
       "owner": "5KxesZ1g9YTRNRL61J2ocxHXKSvRNR7sdfyre1YGdYwt",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0.000062
     }
   ]
 }

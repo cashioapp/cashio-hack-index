@@ -1,35 +1,80 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "7NuETph3XRrjgMdDF7QWR7ERdMe3VdAHAXbovcci6BHc",
+      "amount": 0,
+      "historical": {
+        "slot": 120188675,
+        "time": 1644488181,
+        "txSig": "SrCGJgkoTeG42vKJ37FasrANo5no7J1QMYK4VkxMASvgfHVt14q2ZGqWCcv9VXoAmJHLGa61XVET6SyBe3MgSfQ"
+      },
       "owner": "C6S6pXuSTQcGDexTceJbAht2rvbrQ4RCuJh37LcTgX7A",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "En6JtJJUmdGcGgTfvNabBLbBETcciJtYkc4ptnPLz4Fa",
+      "amount": 0,
+      "historical": {
+        "slot": 118503659,
+        "time": 1643528676,
+        "txSig": "3tuPsv3P8az1JLpo9o4rmihS9XMFfYmqZ4t4XfHgjaaesBRUZ2jnmTJfzugmMWugByuyAXrqoD22f9yL5itgcRou"
+      },
       "owner": "C6S6pXuSTQcGDexTceJbAht2rvbrQ4RCuJh37LcTgX7A",
+      "price": 1.011252854,
       "tokenName": "Saber CASH-USDC LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "691nXvg7af59iEpzXo3cP5vSuLgF43gvjUDzAuXeAEH5",
+      "amount": 0,
+      "historical": {
+        "slot": 118503378,
+        "time": 1643528528,
+        "txSig": "4EomjZBY1GDqxEU6D9CsHaSPrhHF7UmRZQwo7eUiUi76CiTGTrMaEVDka8jKBVFxMNtNSpDx2c5WzwQtyQYTaQJ8"
+      },
       "owner": "GHQay6q7hMtfqszy6sTRtdqM4pQ5YbAxG8qN46yNRdAD",
+      "price": 1.011252854,
       "tokenName": "Saber CASH-USDC LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": 0
     },
     {
       "account": "2j9CKcPtQzzTp35yAg6kUkD6RrX8j5EJEY9hqS6eD5zk",
+      "amount": 0,
+      "historical": {
+        "slot": 120187363,
+        "time": 1644487404,
+        "txSig": "3bsg4GGri8aanEukxUTg5BqFFBbtEbRJ3aczwjnr2LZsi1pyWFWqXuQAYYbb346PGhqVRJscr7nxdq3ugT3MP4ja"
+      },
       "owner": "C6S6pXuSTQcGDexTceJbAht2rvbrQ4RCuJh37LcTgX7A",
+      "price": 0.0002107,
       "tokenName": "Saros MIX-CASH Saros LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "J9bpL9R3oNbrQzHWbsH6tDgtJWYzFrUH6wdwYUt1r5L8",
+      "amount": 0,
+      "historical": {
+        "slot": 120186455,
+        "time": 1644486847,
+        "txSig": "4xXbpZFxQ9UburVacJuurq6APzKveT8U1VzfyFCA6Kn8eei4jimFk5zwf1qcKxNY5hFXXLFvMKhuno88mAqm2aFQ"
+      },
       "owner": "PaWTdeNRwRqftAkDCEPdgQ6d6zLaJwcG9QKLm3haCkW",
+      "price": 0.0002107,
       "tokenName": "Saros MIX-CASH Saros LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": 0
     }
   ]
 }

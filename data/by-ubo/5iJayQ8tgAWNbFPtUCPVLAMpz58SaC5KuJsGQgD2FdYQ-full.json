@@ -1,11 +1,25 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 1.31e-7,
+    "totalLosses": 1.31e-7,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "FuUTNh77FNRATbFSTQ7juyumvmxbdjf2yuU9JXapShAv",
+      "amount": 1.31e-7,
+      "historical": {
+        "amount": "1.31e-7",
+        "slot": 113680102,
+        "time": 1640679116,
+        "txSig": "2CZ3FEvRhzs1saJAdoP4kCDwc8qY9xyZefgYJJ9Y9yuhFPWc2m4GhRZ997WQg6Zzs4HYDf9JhYGE8aW5N39shbgA"
+      },
       "owner": "5iJayQ8tgAWNbFPtUCPVLAMpz58SaC5KuJsGQgD2FdYQ",
+      "price": 1,
       "tokenName": "Saber Wrapped Cashio Dollar (9 decimals)",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 1.31e-7
     }
   ]
 }

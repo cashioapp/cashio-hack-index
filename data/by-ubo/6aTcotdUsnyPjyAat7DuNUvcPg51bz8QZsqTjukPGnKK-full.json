@@ -1,29 +1,66 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "FMGhDgmV7e6wUCpi912Q6JjAvNXu3gVn3dhUeyiCmieB",
+      "amount": 0,
+      "historical": {
+        "slot": 120232443,
+        "time": 1644514426,
+        "txSig": "5MztUbsLFAr8RUEdwzwY4fnkLjgenGqghzJjSSKC7QRCKBdNm6XST6951RGZbchvNfjBDzk476pHkkSPLM5UzP2U"
+      },
       "owner": "6aTcotdUsnyPjyAat7DuNUvcPg51bz8QZsqTjukPGnKK",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "GQ89qESgTJfwtwA6G82KupMJwUiBtBowU2ipgeL55cMn",
+      "amount": 0,
+      "historical": {
+        "slot": 120624066,
+        "time": 1644742053,
+        "txSig": "3RXU93eUAhYLhfKBUKsH2QVXuZZ33mFkqHqp3DEA7cCZb4kiaEvoZJ5MwiLHCS1DvHopZTD86iASnzkkDVGqrjr1"
+      },
       "owner": "8h41mpG6nE4ioh1waEU8FzXFFZntjmjtPMsd9nTZnMir",
+      "price": 1.011252854,
       "tokenName": "Saber CASH-USDC LP",
-      "type": "sunny-vault"
+      "type": "sunny-vault",
+      "usdValue": 0
     },
     {
       "account": "FFzNsVEV26MTwyX4VqZTXzM4mSS6HYvdvB8amXfizNSB",
+      "amount": 0,
+      "historical": {
+        "slot": 120624285,
+        "time": 1644742175,
+        "txSig": "4UHAdUT2nAaQ54vchjg6RTYfA7U965L7h6mBPik8h3LW5LsZL8eUYqRVkPBmcWYLhJwUSfxLX3yU2bFjtHgbDVvx"
+      },
       "owner": "6aTcotdUsnyPjyAat7DuNUvcPg51bz8QZsqTjukPGnKK",
+      "price": 1.011252854,
       "tokenName": "Saber CASH-USDC LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "CKGsJTvgB3q3ZkKKk7uV64gJQaNy4Cp5cST6jdAYo1vg",
+      "amount": 0,
+      "historical": {
+        "slot": 120624066,
+        "time": 1644742053,
+        "txSig": "G2B1MKiyoecxNiGv2qfiYE5NKEmmmUZeFSXV4x1EtAiM6gY8GxWm6LnkbAbcBjWakgKoz3mNqvpFJvcnwLtoZ2D"
+      },
       "owner": "913S9QehtLYShZ4wBtk1FjJTJXEbS4DaytoKwPuydm45",
+      "price": 0,
       "tokenName": "Sunny Saber CASH-USDC LP",
-      "type": "sunny-vault"
+      "type": "sunny-vault",
+      "usdValue": 0
     }
   ]
 }

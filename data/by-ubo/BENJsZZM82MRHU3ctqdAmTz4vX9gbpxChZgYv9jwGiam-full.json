@@ -1,11 +1,24 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "GvLLJgV7h1FJiJgeKnbjxgL88Tnib7DgrQBMv8M5Eq3j",
+      "amount": 0,
+      "historical": {
+        "slot": 115518269,
+        "time": 1641764540,
+        "txSig": "3t57NdARRtr3zDdzpAeaYz3ruigbXVDz9kWPUkYjhpPG6ZLUHFaLoNLTroYWqEJyb1hPjHPubEXSfvRTRwzTxMkV"
+      },
       "owner": "BENJsZZM82MRHU3ctqdAmTz4vX9gbpxChZgYv9jwGiam",
+      "price": 1,
       "tokenName": "Saber FRAX-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     }
   ]
 }

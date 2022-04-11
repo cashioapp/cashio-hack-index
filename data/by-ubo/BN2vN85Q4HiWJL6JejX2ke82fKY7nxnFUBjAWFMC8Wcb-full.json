@@ -1,23 +1,52 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "FGTipDLkqamGuTPbvgGfduLTZhTAQZswYG438KxME1Lb",
+      "amount": 0,
+      "historical": {
+        "slot": 121872567,
+        "time": 1645469160,
+        "txSig": "3Jn8d9osYtCCbSnBnraNLwArRB32cJCcqF6ZVNi7pgZBWboGTHfk2kVuYaHP1WF38qNV8gnnomWkQpYwDgmGMNSL"
+      },
       "owner": "BN2vN85Q4HiWJL6JejX2ke82fKY7nxnFUBjAWFMC8Wcb",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "BQ8A4MjmbPzQnsaFBpuHbBiLEmAtuL8Nbcm8psacTdWy",
+      "amount": 0,
+      "historical": {
+        "slot": 121872361,
+        "time": 1645469029,
+        "txSig": "4v3wHVjD2GSXSdUERTyGiQdiRy2soKMzidY53YBftZtM19g7vFT6AZRJnaAErs2eZ77h2EvmQCQMjSUG32bJmHiE"
+      },
       "owner": "5GDA4G55CDvcNYJdy75j7pbH6UbPjM1unRsPHaWx1ks",
+      "price": 1.049438588,
       "tokenName": "Tulip USDC-CASH LP",
-      "type": "tulip"
+      "type": "tulip",
+      "usdValue": 0
     },
     {
       "account": "DzHkQpZpUnTvZuCYXF6ZfpoMnr7XeJJ5wgVGCPkrzdZL",
+      "amount": 0,
+      "historical": {
+        "slot": 120797438,
+        "time": 1644842617,
+        "txSig": "3ZQwnzgoNVPf4xfQn91Bca5jRQj1qsAT64SDkVUoZDLE3ULPqdPz81LA3RjZ6BCnDUCVq4EAna6oGJUqqb1mHQTg"
+      },
       "owner": "5GDA4G55CDvcNYJdy75j7pbH6UbPjM1unRsPHaWx1ks",
+      "price": 1.049438588,
       "tokenName": "Tulip USDC-CASH LP",
-      "type": "tulip"
+      "type": "tulip",
+      "usdValue": 0
     }
   ]
 }

@@ -1,11 +1,24 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "9YtMVRJuuCG84wRQ57aBFAprZ6J6sc25quFx3gCJoU49",
+      "amount": 0,
+      "historical": {
+        "slot": 118229571,
+        "time": 1643375388,
+        "txSig": "3BieTPPUDW3mspz7iP4epiYpCKqxAMfx4P2VLGZtNQQY6rj7rW3fj7XvKNEcwv24yP9Kt5Cfh7Wco32VL5VupX6V"
+      },
       "owner": "CZMmU5GZd6Cms5Qq63uXGjkTDP3MoM1KsjwbudMCFgrx",
+      "price": 0.00085,
       "tokenName": "Saros C98-CASH Saros LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": 0
     }
   ]
 }

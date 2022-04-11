@@ -1,23 +1,53 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "2nk8PztppUqRin1K5kXiWS97TKgTTrkLqA2SdHCse9Kf",
+      "amount": 0.076243189,
+      "historical": {
+        "amount": "0.076243189",
+        "slot": 119924047,
+        "time": 1644334014,
+        "txSig": "UPHMmHrfTfq3UaGggJSZF3fz62PU1Y8MVrxdSnsJYevxeQsdjyjMiHcnC2DbMCQx2DXYTyfXE41vrC8MfTHSrx3"
+      },
       "owner": "5CVGHP3pcUypba9sA9KoAJUWVV9dn6WMA3uCtrYXGzri",
+      "price": null,
       "tokenName": "Sencha CASH-OOGI LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": null
     },
     {
       "account": "AUrbG73A3gMiCepvQAzHiEnmyQoWLoQj3u4eazMsefm4",
+      "amount": 0,
+      "historical": {
+        "slot": 119927711,
+        "time": 1644336184,
+        "txSig": "5eHk3gNUMdrJXk6sWzh8rzsoLE13FxFbvaX4L4VTB3FounvChCkoHp8ECGqBADXRdzqzTXsoPcK5dmHSbRAx7NmU"
+      },
       "owner": "3LphqDgEzYUc3KZWMMMg3tPtgecjYatD3s1Cgb28vX3U",
+      "price": null,
       "tokenName": "Sencha CASH-OOGI LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     },
     {
       "account": "H7c8RRktNmfn1MzLwYaumPg6jrqvgByYqXbULL3VQEVf",
+      "amount": 0,
+      "historical": {
+        "slot": 119932653,
+        "time": 1644339124,
+        "txSig": "YtgJwPoH3GxGC7rQTU76rMA8fSzr9p9NeGsbSfLJTCUK6ytWJbBjajAviUQ1hbCAuo8GDz12UYdjD9Wd7DXQFof"
+      },
       "owner": "3LphqDgEzYUc3KZWMMMg3tPtgecjYatD3s1Cgb28vX3U",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     }
   ]
 }

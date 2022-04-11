@@ -1,11 +1,24 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "3tGRZ5ViGwoDdtFGdkp7otmvcAe6ogxMZh8Cyyxoip6e",
+      "amount": 0,
+      "historical": {
+        "slot": 120808588,
+        "time": 1644849243,
+        "txSig": "3nj3DVVeLthcc2jX4mopRLBGVjz7ErwcFitzjC4Cs8goJ44a7osWTeYCG1N751KtJR9A8iNTHqXbYXegkP3psDs5"
+      },
       "owner": "CQ5Bkgp7vnbTs43h3oD1R8h1fBieED1hGMZPCn6mUxmY",
+      "price": null,
       "tokenName": "Saros POLE-CASH Saros LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     }
   ]
 }

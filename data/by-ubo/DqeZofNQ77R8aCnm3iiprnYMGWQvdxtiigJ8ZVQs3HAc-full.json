@@ -1,29 +1,67 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0.000001,
+    "totalLosses": 0.000001,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "9nTRCwZTfssqwH679rGPZBDKZUoaZaVNffgwvMdSt4xY",
+      "amount": 0,
+      "historical": {
+        "slot": 119793030,
+        "time": 1644257070,
+        "txSig": "3bq1qWsATYiXsbeAXDTMkV4pZ4zj4af1HbdARvTwBajeuzCJxtBCwnUkTtAHWtUf2tAA7suuTmbHsfXGBbXD5y3S"
+      },
       "owner": "DqeZofNQ77R8aCnm3iiprnYMGWQvdxtiigJ8ZVQs3HAc",
+      "price": 0.16964,
       "tokenName": "Sencha SUNNY-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "Hc4Y41n97AfPwHkv5ZzamAayaM8531gjVQiUsMw37kSX",
+      "amount": 0.000001,
+      "historical": {
+        "amount": "0.000001",
+        "slot": 119794349,
+        "time": 1644257865,
+        "txSig": "3ArwAfLstMbJezoCv16mqZEqbaTpft7ztapFP6Zqyxu328FM7L6Rj6vB37BaE4sAy7mHxfzYbZamixhAsyP8RWuw"
+      },
       "owner": "DqeZofNQ77R8aCnm3iiprnYMGWQvdxtiigJ8ZVQs3HAc",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0.000001
     },
     {
       "account": "xhQSUE5ToNxjW5VxTZF5G8vzjZe5EbsZhoMEfpytJHY",
+      "amount": 0,
+      "historical": {
+        "slot": 119791641,
+        "time": 1644256256,
+        "txSig": "31Y9g1XitDeeC57e2CXP1SoCeVKJjDLSaaNAKynQnjPqTWBRxUvNjFdv2QaqApsDxNCMohEZKiiC4DkjTpNsQ96o"
+      },
       "owner": "DqeZofNQ77R8aCnm3iiprnYMGWQvdxtiigJ8ZVQs3HAc",
+      "price": 0.0002107,
       "tokenName": "Saros MIX-CASH Saros LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "5WmYQkdwTxYiMHUUKvymrrsCMd9GVoFmi3xJiTKtCJaX",
+      "amount": 0,
+      "historical": {
+        "slot": 119791038,
+        "time": 1644255904,
+        "txSig": "3E9kZ2VMDPYPgE7uzPLcCe62YvKziHDjsvss26GysqNZbUY52mPy34fPtXtvpc8rNuM3hmBuAyDADNvrqKr5DNa"
+      },
       "owner": "DBHrVGKmpDG1Pk2EPWmHX93oG87q1hNUDA4kzwMTQRoP",
+      "price": 0.0002107,
       "tokenName": "Saros MIX-CASH Saros LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": 0
     }
   ]
 }

@@ -21,36 +21,83 @@
     "submissionInvalidReason": null,
     "submissionIsValid": true
   },
+  "summary": {
+    "netLosses": 2641.5607419999997,
+    "totalLosses": 2641.5607419999997,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "3fJfrb6rSCK617STp2TRTm96x1nhTEKNKN9arbn448wb",
+      "amount": 0,
+      "historical": {
+        "slot": 116181729,
+        "time": 1642145328,
+        "txSig": "37Fs85FUsLrY4k9hCYrehUTmBEVDHCcUF469ap3SpqurnBftznbJDWuuW4kipiSeoZQUEdPZWDqaYPrcQViiDqWh"
+      },
       "owner": "F3D6habiJz3wMkch2Jfjqx9PGxwSbcMcbEzdGfS55LGn",
+      "price": 0.00085,
       "tokenName": "Saros C98-CASH Saros LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "B5FShJ7AuBAvRva3bcKYhNfooLdEzPgFwsvqQfa2cprE",
+      "amount": 3107718.52,
+      "historical": {
+        "amount": "3107718.52",
+        "slot": 116181729,
+        "time": 1642145328,
+        "txSig": "37Fs85FUsLrY4k9hCYrehUTmBEVDHCcUF469ap3SpqurnBftznbJDWuuW4kipiSeoZQUEdPZWDqaYPrcQViiDqWh"
+      },
       "owner": "8NkC63yHQmnBRA9Uq1oE6xW9MMFMBzFSStRcgvF4d5pM",
+      "price": 0.00085,
       "tokenName": "Saros C98-CASH Saros LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": 2641.5607419999997
     },
     {
       "account": "EMtkndnYBUeK1aZmbLVrzwYCY1ByognTVWExVKoXCuWW",
+      "amount": 0,
+      "historical": {
+        "slot": 116826481,
+        "time": 1642526187,
+        "txSig": "2KJA4H4fihAABMSptgzZPj2jP2jTxpvbEHZ7Mnq8AXbjbjTT6LfijdgSc6H4sco2M8H8EgXTbzJjGKFPATscd8gn"
+      },
       "owner": "F3D6habiJz3wMkch2Jfjqx9PGxwSbcMcbEzdGfS55LGn",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "4ZwCxpc3wQ7Zt3Y9eFviV2NUPko4FbRRYYZpW9sFng6V",
+      "amount": 5082384.75,
+      "historical": {
+        "amount": "5082384.75",
+        "slot": 116826640,
+        "time": 1642526311,
+        "txSig": "xDExkNgrYrany8nr1eVoBoUjUd5FHUveEyVNvySFR4eVzRN8E75Qr64CiBKarAFAMAB7QXCogWy7QgWrz99G4P8"
+      },
       "owner": "QVbMv7Bmsy5aMqAWbHtL6ar5PsgtTaorDYXvFE7Sc9W",
+      "price": null,
       "tokenName": "Saros PRT-CASH Saros LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": null
     },
     {
       "account": "BykNsNJhjQbURBPkvwgACHcLNbAPvjzcf9obnCR5qLv9",
+      "amount": 0,
+      "historical": {
+        "slot": 116826640,
+        "time": 1642526311,
+        "txSig": "xDExkNgrYrany8nr1eVoBoUjUd5FHUveEyVNvySFR4eVzRN8E75Qr64CiBKarAFAMAB7QXCogWy7QgWrz99G4P8"
+      },
       "owner": "F3D6habiJz3wMkch2Jfjqx9PGxwSbcMcbEzdGfS55LGn",
+      "price": null,
       "tokenName": "Saros PRT-CASH Saros LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     }
   ]
 }

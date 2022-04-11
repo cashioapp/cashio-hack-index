@@ -9,24 +9,54 @@
       "source": "8H4vUyYxpyqfszfVffECiXCdLBd2xRFY51Rp4AGGfDzS"
     }
   ],
+  "summary": {
+    "netLosses": 1.2230924500187825,
+    "totalLosses": 109.91484745001878,
+    "totalRefunds": 108.691755
+  },
   "tokenAccounts": [
     {
       "account": "EgWMRy9S6nGCoXotLSKCMNaYtsJ3weJc3rhofucADuLt",
+      "amount": 0,
+      "historical": {
+        "slot": 107890161,
+        "time": 1637448387,
+        "txSig": "AXC4aXsDLxt2ZJmD9c7t3qXWBo7EeMiJBai7bYd6GPscEVZufDNth1aFHFgMmCmkNwkescqbHJLi4RmXnBGbrZX"
+      },
       "owner": "EFUzh6PcGnX13puiWAVorwVjNoTbsud3f6MeoDcnkAxS",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "9n6VTDTZAajrrjfzuX67NZqLr3PF8MPqcFYK3qUAXnbL",
+      "amount": 0,
+      "historical": {
+        "slot": 107890305,
+        "time": 1637448460,
+        "txSig": "5Fo3MVgZ5BWxMRUNMNDk7vrqY8AHkCpP9moK3SYDtaPo9XStUiMuK33TihoZZFM1ZMbvuYqvdGN2nVq4awamTgvQ"
+      },
       "owner": "EFUzh6PcGnX13puiWAVorwVjNoTbsud3f6MeoDcnkAxS",
+      "price": 1.011252854,
       "tokenName": "Saber CASH-USDC LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "6TC43tNHXhyAhKipPxHrNqMjjAPNPugVadWzkyMh24Hb",
+      "amount": 108.691755,
+      "historical": {
+        "amount": "108.691755",
+        "slot": 112664722,
+        "time": 1640133319,
+        "txSig": "3eVvBFBkSYKF2nBS1NoiEPD9TfDb2BR3YTDMmxqDJuirA5qhwk178HeSDL7EjN6P5Q6meUfvGPYi8MJWHpD19hDu"
+      },
       "owner": "5ykfsueV4PwEjccLgoHFoTmxuAXtSW4dgEZWdEaMFyS2",
+      "price": 1.011252854,
       "tokenName": "Saber CASH-USDC LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": 109.91484745001878
     }
   ]
 }

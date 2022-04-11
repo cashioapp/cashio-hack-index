@@ -1,29 +1,66 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "DR65DXvWvc9wjZ5cAxCZncb91LwF8WLmmL37jF2TejuJ",
+      "amount": 0,
+      "historical": {
+        "slot": 117936473,
+        "time": 1643207623,
+        "txSig": "4eXKQkhHPMbkkVowF3QKpCGMnyEefdfiiR2d1QQcQNYG2nM3n1h93KtmokTXaWgsd2xTabRBzcNVazBoTRkJDiR8"
+      },
       "owner": "9GArk6rNagGFpyN181vudTF244h53FJ96kVNH1VKbA86",
+      "price": null,
       "tokenName": "Sencha CASH-LUNA LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": null
     },
     {
       "account": "GnqAjf1KQZiPrAXasYd4CvewFpPL9iQBZePy8AypFfqT",
+      "amount": 0,
+      "historical": {
+        "slot": 117936586,
+        "time": 1643207700,
+        "txSig": "4yqXeZhKsDz8BusyWbSmFxA6WxU82AFdiFP1XbpNg9cKRq5teFh8TfYwXPEvY4Cp8syACFvUb2iMZhBNpnA6f3KE"
+      },
       "owner": "G7WWd2aTKkYAM1zUMHbJfEhQj1yHDhwraj9soZYt5H5i",
+      "price": null,
       "tokenName": "Sencha CASH-LUNA LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     },
     {
       "account": "J9LdCaXBxAU5yTJVxFZ9zB9GtpdnwDGwEmErgSgQxYxj",
+      "amount": 0,
+      "historical": {
+        "slot": 122944930,
+        "time": 1646103437,
+        "txSig": "3Pxh42pZwoHknwUiu3HHDEZpq73W1LrDc4Q9dadG5CsarH6ZiKgSyFkofd6oiJ4f1aGfAMkDH2yNcj7sio9WCBEm"
+      },
       "owner": "G7WWd2aTKkYAM1zUMHbJfEhQj1yHDhwraj9soZYt5H5i",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "EDg5mq3fGtTLXwfx48ssGFiZqPemEHxzBCg7Tvgggd55",
+      "amount": 0,
+      "historical": {
+        "slot": 107989530,
+        "time": 1637497838,
+        "txSig": "43FZSdGRdscnZQm71u5H2vx5Doyrcufq3wTiG89qQL1nharKPrXLxj9XkZ7PQBeRTPGdZA6VRYduCs5ZsT7VunMG"
+      },
       "owner": "HwgHJL2TgxcMrg4U7QhfWnD6yUqYoH7UPcqueQV8Dy1X",
+      "price": 1.011252854,
       "tokenName": "Saber CASH-USDC LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": 0
     }
   ]
 }

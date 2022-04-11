@@ -6,24 +6,55 @@
     "over100K": null,
     "reason": "Automated rejection: reported address does not match signature"
   },
+  "summary": {
+    "netLosses": 0.000093,
+    "totalLosses": 0.000093,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "9oPMQDqeFQiSrRzaBKbimMknExZuTb1fZoc2xFusrY7F",
+      "amount": 0.000093,
+      "historical": {
+        "amount": "0.000093",
+        "slot": 115793456,
+        "time": 1641922912,
+        "txSig": "43Q4FiDNdnctLLzpFCxTxx79azqsWjCQP8PynjUVxvPRoA66xk1wAeyXgXD2QJW1b9h4FNX63dGZi8w2g7KaVdwD"
+      },
       "owner": "7JQK1YAB755SxeRhbJufEVz8ogNn2Tn2RjFhHuWLM6q3",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0.000093
     },
     {
       "account": "3RD9cMy2aqN3WAqrk2ecLnzqXHakKAX1UM8SubRmxsSP",
+      "amount": 2426725.4,
+      "historical": {
+        "amount": "2426725.4",
+        "slot": 126154943,
+        "time": 1647962078,
+        "txSig": "5XZhG3Nn4Hdk8yQWZDnTKjt25NC3hggTM5AJtUicce8vwy3tV4b2G6AmJbM9TTttcSkzkZ6C2xoB8SFSS1oeoYXa"
+      },
       "owner": "7JQK1YAB755SxeRhbJufEVz8ogNn2Tn2RjFhHuWLM6q3",
+      "price": null,
       "tokenName": "Saros POLE-CASH Saros LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     },
     {
       "account": "6CW9vqtHdE17g9Ud2pzLLi3DcV7A21n4rLD5X3X9JhYL",
+      "amount": 0,
+      "historical": {
+        "slot": 126155003,
+        "time": 1647962110,
+        "txSig": "3Qv57Wi5YFPxbdPBLqB9VdiV8EvdaEv9ed2bU7BzK7HQ6yqpRaRyCYcqrVGufFMLJw4Y7vSiHT7dicuqf2B6ka4f"
+      },
       "owner": "Fc4Gt1Mk2DYM2LQfewW5h5jgfYXSiVBMfRTkZHiDjhLr",
+      "price": null,
       "tokenName": "Saros POLE-CASH Saros LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": null
     }
   ]
 }

@@ -1,11 +1,24 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "7bMy4pRssebzhtXz3UFHPRC1ptNyZmHSrZuRSz1o1dp9",
+      "amount": 0,
+      "historical": {
+        "slot": 114713363,
+        "time": 1641271016,
+        "txSig": "3KDxik3AfaViwnTW33AjYtLPCYYFyumEmcbTD65mNSpPq7GdVVFmNb9ojEBTtuKKoTRh2sDc5PY69apYHvMoetBk"
+      },
       "owner": "EMGwGomtPWjUTosKJneMTP1z9uaH85gi78vjEvSPfy38",
+      "price": 1.013,
       "tokenName": "Saber aeMIM-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     }
   ]
 }

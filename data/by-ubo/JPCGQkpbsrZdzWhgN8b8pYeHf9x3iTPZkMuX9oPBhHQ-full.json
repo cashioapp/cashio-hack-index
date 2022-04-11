@@ -1,23 +1,43 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "8dy63bbcSccc8gz2ikWDG8aAyXKGJ83yZvMtoNDXmPpM",
+      "amount": 0,
       "owner": "FBBhfw2QBqDkA4mbtWKx1VRLiZodYTRY9FA7RvaJUTPs",
+      "price": 0.00085,
       "tokenName": "Saros C98-CASH Saros LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": 0
     },
     {
       "account": "7qQRSQosh4GXgRodns3dtxTRjaVy2SeZ678gQt7Ssyfc",
+      "amount": 334319.31,
+      "historical": {
+        "amount": "334319.31",
+        "slot": 125670647,
+        "time": 1647690948,
+        "txSig": "N8igJCfMwnAhSsihiuGbvTrLAvbuELCX4H19K3RLUXXcun6SH57xeP4oTQWjiLVhQhBJh7xFgtHcrQM9EeWSiYX"
+      },
       "owner": "FwFiKecBQF7zYALtoHYbVzokdrbLgDqBxRUqPTua2fPg",
+      "price": null,
       "tokenName": "Saros POLE-CASH Saros LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": null
     },
     {
       "account": "FDnpHiR7A1w6vBuzKutUWUnbYsiye3eTqMGmShWUru3M",
+      "amount": 0,
       "owner": "2fGssq1jCUKTxChsUHRmEz4v4izQUN6GEDdHvMDKqEb3",
+      "price": null,
       "tokenName": "Sencha CASH-COW LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": null
     }
   ]
 }

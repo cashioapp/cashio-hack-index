@@ -1,23 +1,52 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "1BKMNJ5D7LUrhAsK4qGXcjvNiZWa7mXMTrnr48cqo15",
+      "amount": 0,
+      "historical": {
+        "slot": 117931540,
+        "time": 1643204641,
+        "txSig": "44Q7SiS11fPGa41rSYa6toKDrzG1RufSdRPqMC5LzF4Au9joY9zCf5YkQEXofQUDbcxSNn5ZcQ7TY4FxLbRoSXPK"
+      },
       "owner": "918J4ijv9YNCBogxoBbET51aqbD4D8vidGBgarzPSJov",
+      "price": 0.16964,
       "tokenName": "Sencha SUNNY-CASH LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": 0
     },
     {
       "account": "AAGkfAg7rZh9FoDap4ehPQUXcWAsZS4ZZ6CwrRRBaXM8",
+      "amount": 0,
+      "historical": {
+        "slot": 117931607,
+        "time": 1643204680,
+        "txSig": "5NVahDfJonuuz2L6RVfz158aNkNsHrD5cvHhntFYs9vzN9yPKGefwzLVArqZogHxJRdgh73G8LgCxERuVQT2J8do"
+      },
       "owner": "D5DzcbDKjSjJQaBzbaavP7mxakALDgMw5sbxTzkHAoHz",
+      "price": 0.16964,
       "tokenName": "Sencha SUNNY-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "3vJP2xWDewjAqoqn6vb8rjLdVJS47WPDyknzQAdPdxLb",
+      "amount": 0,
+      "historical": {
+        "slot": 117931639,
+        "time": 1643204698,
+        "txSig": "5FtoKhTzzcsAcPhifciAkGbDH42euY69mBacw6H3QR96cMkzudH5oBEvhDzoeZTaUN1HTEeRdj7xFhtCbpPEvxWb"
+      },
       "owner": "D5DzcbDKjSjJQaBzbaavP7mxakALDgMw5sbxTzkHAoHz",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     }
   ]
 }

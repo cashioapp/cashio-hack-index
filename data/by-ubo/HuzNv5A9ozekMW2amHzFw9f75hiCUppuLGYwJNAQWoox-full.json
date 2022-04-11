@@ -1,11 +1,24 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "2bbgDp1R3RStAJoQvpmve5bTvduaG8GJm1m7wjmg6k4q",
+      "amount": 0,
+      "historical": {
+        "slot": 114793367,
+        "time": 1641318323,
+        "txSig": "9fufjofwt2wN9n91u8hAyhiPgFxNFLwXdBhqMxRCbbHzT97nSQ5y7nrZEbNVPMCZTkLs9mNRiTqSGjuvSopL6yx"
+      },
       "owner": "91Jwcg56WhZR8QPwK5Yg8Je2xJ4nXvUrDp1N4Pbz7cuZ",
+      "price": null,
       "tokenName": "Sencha aSOL-CASH LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": null
     }
   ]
 }

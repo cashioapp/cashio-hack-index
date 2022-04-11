@@ -9,24 +9,55 @@
       "source": "8H4vUyYxpyqfszfVffECiXCdLBd2xRFY51Rp4AGGfDzS"
     }
   ],
+  "summary": {
+    "netLosses": 13.40180799999996,
+    "totalLosses": 1005.0945029999999,
+    "totalRefunds": 991.692695
+  },
   "tokenAccounts": [
     {
       "account": "HNiixmsmkR8JfnwDySEysmx3j1A2KJPHrNZnFrGyFgr8",
+      "amount": 0,
+      "historical": {
+        "slot": 111683383,
+        "time": 1639590293,
+        "txSig": "4KQhYGGLBSoqYAsUM2E8xipZ2cidJ211R9nmnW8seMUjKfD5p2fw7f3eXdyWd6235TVDdo2FBHviHmHHkXyLntp1"
+      },
       "owner": "H6SLhbPfcMidZrTDwMXfv2VM37yY3Via1YmKjJHpNLv1",
+      "price": null,
       "tokenName": "Sencha CASH-OOGI LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     },
     {
       "account": "AjBtAoE4p5rLn7Mos1N9c8G57YJvi4JnXXEYNgGz4JFw",
+      "amount": 13.401808,
+      "historical": {
+        "amount": "13.401808",
+        "slot": 126071427,
+        "time": 1647915551,
+        "txSig": "4fRnPZuK47FJFeusEBQYZjUshrieDZX2g2GBafNSMmNocDbhExaSMQ45kzAQfnsasqZiEL82mjqEpDG3Yai2pUwr"
+      },
       "owner": "H6SLhbPfcMidZrTDwMXfv2VM37yY3Via1YmKjJHpNLv1",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 13.401808
     },
     {
       "account": "8TPkA7XYE5CSnMpHt4qBDfpMM26op8vRRCzfkbwLSCtq",
+      "amount": 991.692695,
+      "historical": {
+        "amount": "991.692695",
+        "slot": 126071427,
+        "time": 1647915551,
+        "txSig": "4fRnPZuK47FJFeusEBQYZjUshrieDZX2g2GBafNSMmNocDbhExaSMQ45kzAQfnsasqZiEL82mjqEpDG3Yai2pUwr"
+      },
       "owner": "H6SLhbPfcMidZrTDwMXfv2VM37yY3Via1YmKjJHpNLv1",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 991.692695
     }
   ]
 }

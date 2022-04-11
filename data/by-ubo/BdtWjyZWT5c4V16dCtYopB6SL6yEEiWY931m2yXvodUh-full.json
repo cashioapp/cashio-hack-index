@@ -1,59 +1,137 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 7.4e-8,
+    "totalLosses": 7.4e-8,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "DxCyYHW9qXkK71AKp6GgarFMHQvXgq1c2nwoK8tRWVGp",
+      "amount": 7.4e-8,
+      "historical": {
+        "amount": "7.4e-8",
+        "slot": 114629241,
+        "time": 1641217069,
+        "txSig": "37Nn929J54FGEQfubjC89a8SWn6HsjUJPYgwYgXZhQ7Vd7ZpbQwZXyNxMwsEVfsKERbpyZTFnwfT5vuGZMZ7YM13"
+      },
       "owner": "BdtWjyZWT5c4V16dCtYopB6SL6yEEiWY931m2yXvodUh",
+      "price": 1,
       "tokenName": "Saber Wrapped Cashio Dollar (9 decimals)",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 7.4e-8
     },
     {
       "account": "EknhRB7TcB6E5WGxeJiC5TD6zm9RzFKctVMMWfE1pUKk",
+      "amount": 0,
+      "historical": {
+        "slot": 120722734,
+        "time": 1644799470,
+        "txSig": "ebKd7CLeMfRAPuHQvv4ki2cWBzSgjQ4eCreWcym5LGH2KPXHTzTC86Mi1CkfTx1iYwvEaVQgrQ3V8LvXp1kYMku"
+      },
       "owner": "BdtWjyZWT5c4V16dCtYopB6SL6yEEiWY931m2yXvodUh",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "2GVJQnQ4pUaVdj8NpNFGMGxGPRkrnZiZG2Vw25iak1Ye",
+      "amount": 0,
+      "historical": {
+        "slot": 112637896,
+        "time": 1640118653,
+        "txSig": "4duaPmGNZRkTd8o5VkJEEHBCe2MmRG7kKdPJ5rHgW3wwH5eMuqnAD9Fa6zWWBfZE6ADnAUPLhFwXXUGrgQ7C6jMc"
+      },
       "owner": "B9FMcz8cTYHGUX8Ln1ZPoGt4gnU7Z92UejgVbhGvhQce",
+      "price": 0.999,
       "tokenName": "Saber acUSD-CASH LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": 0
     },
     {
       "account": "4Yct4NjuBuv2uG8sPGx9y4EGjqCK7aQ7goSNuPUiCcss",
+      "amount": 0,
+      "historical": {
+        "slot": 114629045,
+        "time": 1641216957,
+        "txSig": "2mF1FsD3mjCnRiuJzFUoh1cbru3SCLmBEc2AmXLxp1fs869ucGYewa8K8qePceuTY6qBHjPooWCAcnJMy3cWxmES"
+      },
       "owner": "4wjcoNuny4bvkhuRSVFrBVy9sVUfdTXS1rLP4iTjB97z",
+      "price": 0.999,
       "tokenName": "Saber acUSD-CASH LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": 0
     },
     {
       "account": "BUXY2SGHgcZ7BvTZ4g1Lteh1DhYKELaeb4Zd4kq81kUj",
+      "amount": 0,
+      "historical": {
+        "slot": 114629241,
+        "time": 1641217069,
+        "txSig": "37Nn929J54FGEQfubjC89a8SWn6HsjUJPYgwYgXZhQ7Vd7ZpbQwZXyNxMwsEVfsKERbpyZTFnwfT5vuGZMZ7YM13"
+      },
       "owner": "BdtWjyZWT5c4V16dCtYopB6SL6yEEiWY931m2yXvodUh",
+      "price": 0.999,
       "tokenName": "Saber acUSD-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "4b8zmj5EThPUhpFqxXRcSAsdScxFren5idruviMMjtEm",
+      "amount": 0,
+      "historical": {
+        "slot": 120723261,
+        "time": 1644799776,
+        "txSig": "DsY6Xad35iRKZyY3xxhQvgmSZhP6eirMqEfThttAn7YcnfnnzUPqnx5dN5GjyHkWiKavx857E3uLkSAWbYa5EhJ"
+      },
       "owner": "23MQrN9ACYT6JUfVFGQ4XpQ8JEqwXyr8yVKPGkGwUHzr",
+      "price": 1.007,
       "tokenName": "Saber UST-CASH LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": 0
     },
     {
       "account": "8h1SDqfm2jgfd1JEVpc19yugJvNPrxu9djt2yxbFr1AT",
+      "amount": 0,
+      "historical": {
+        "slot": 120722659,
+        "time": 1644799425,
+        "txSig": "2xMNPgiu3oS7UfePHTw786ZsBQ17ju1xSGK1ssBBXXaWBYCJaR18x5rG9ndsX4ahQyvrJee2JFsKHp9ZSCXaFbge"
+      },
       "owner": "BdtWjyZWT5c4V16dCtYopB6SL6yEEiWY931m2yXvodUh",
+      "price": 1.007,
       "tokenName": "Saber UST-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "GioVbuL6eLToVusaq7PTqNYu632NFoe2W4pHmTHPNoJe",
+      "amount": 0,
+      "historical": {
+        "slot": 120722407,
+        "time": 1644799276,
+        "txSig": "3WamNKh9hzW8Qi4Gq31vPyaKXvS4JJdP2TqtTBkqiKSSv3EBG8MjfVKpv54dy5wjiMKiJrznCRMhUn8zBrkdtgd7"
+      },
       "owner": "BdtWjyZWT5c4V16dCtYopB6SL6yEEiWY931m2yXvodUh",
+      "price": null,
       "tokenName": "Sencha CASH-COW LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     },
     {
       "account": "25E7D3KEjS5FdGr8ZeJj1Kkd2cFp59NuKZfnEdjB9H5t",
+      "amount": 0,
+      "historical": {
+        "slot": 120722029,
+        "time": 1644799044,
+        "txSig": "emvUfjWY2usmLpx51uj55an9ZrVw462LuKp4ZJN9Yx3aWnDLuCE2SbpY846np7StLdqJXUHVS9UcYEJETxZVKD8"
+      },
       "owner": "6XXPxGugoLKyZhWRK51Qedg2LA5fc8h9tfJEu6NmaRvR",
+      "price": null,
       "tokenName": "Sencha CASH-COW LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": null
     }
   ]
 }

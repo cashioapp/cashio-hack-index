@@ -19,24 +19,55 @@
     "submissionInvalidReason": "reported address does not match signature",
     "submissionIsValid": false
   },
+  "summary": {
+    "netLosses": 2529.4940453500003,
+    "totalLosses": 2529.4940453500003,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "BdDvUidMPvk5WFDogRt9Vae85XWbNa1HVqYcqfWgrYMF",
+      "amount": 0,
+      "historical": {
+        "slot": 126260838,
+        "time": 1648020316,
+        "txSig": "5szuywdJ4cJTMU9RqJihVP8FYM8q5yHKZtZ3hnASYJ8aigpCoNc1XsnQdtF8ebGULaJy2aaEsSjTvRanCjbqL3Vp"
+      },
       "owner": "9k8TzDMKhREqSz47AghAkRCokrm2va77SNunoe5MDWrZ",
+      "price": 1.01,
       "tokenName": "Saber atUST-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "Do9mHF25gqRnfPbbN2PZhtMCJXpFCYLyANw6aAVyaLPK",
+      "amount": 2504.449435,
+      "historical": {
+        "amount": "2504.449435",
+        "slot": 126260838,
+        "time": 1648020316,
+        "txSig": "5szuywdJ4cJTMU9RqJihVP8FYM8q5yHKZtZ3hnASYJ8aigpCoNc1XsnQdtF8ebGULaJy2aaEsSjTvRanCjbqL3Vp"
+      },
       "owner": "8wSN21rkinVmis2jZJb2Vv74Uwzyrib8kxmsXZ1HXjsf",
+      "price": 1.01,
       "tokenName": "Saber atUST-CASH LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": 2529.49392935
     },
     {
       "account": "67py3nzC5sqtChwgrNPizBNV6pX69i9nKhxMyaWgowVg",
+      "amount": 0.000116,
+      "historical": {
+        "amount": "0.000116",
+        "slot": 126260807,
+        "time": 1648020298,
+        "txSig": "5ufzPNrcYBGkW2kxXSaWCTE6fmuqGDzK3NqnTRmy6RcP8KJr4RZRF8LWAqnrM6Bi6W8xRRE9oXevvae5qTi3vDbW"
+      },
       "owner": "9k8TzDMKhREqSz47AghAkRCokrm2va77SNunoe5MDWrZ",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0.000116
     }
   ]
 }

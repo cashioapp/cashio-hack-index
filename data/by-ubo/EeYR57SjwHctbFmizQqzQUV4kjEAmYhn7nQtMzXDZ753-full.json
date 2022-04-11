@@ -1,23 +1,54 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0.000065,
+    "totalLosses": 0.000065,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "AhQUNyJXffyMFTgVyE99rzoV14MY9m4mKnAbJLc16xqb",
+      "amount": 0.111256,
+      "historical": {
+        "amount": "0.111256",
+        "slot": 115791145,
+        "time": 1641921436,
+        "txSig": "4qHZboFBZ4CyhnbuGFesM4M4UcpB1HRrwuSYMquqB1dMzNFgkYob12s9uKz9EfNjE6j8xTeUEijRCafWwh757Sey"
+      },
       "owner": "EeYR57SjwHctbFmizQqzQUV4kjEAmYhn7nQtMzXDZ753",
+      "price": null,
       "tokenName": "Sencha CASH-LUNA LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     },
     {
       "account": "EwDz7MLUZM48uF6xC7WU8YRtwSGHp8ETdVXtyHmSYkBz",
+      "amount": 0,
+      "historical": {
+        "slot": 115791498,
+        "time": 1641921671,
+        "txSig": "5j7NgZ5A4zL1eGwbPqaaje8N2N4n12LA7QwZLZaQebENkP2k3RtLRApZ3t5GAhoaHEDpnakGkeVDpHPqeca8jqVG"
+      },
       "owner": "EKd7u7zyEHYoU9KWvtDsm8wJRJjX81DJuwRHNe9DR1q6",
+      "price": null,
       "tokenName": "Sencha CASH-LUNA LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": null
     },
     {
       "account": "Dq5hy5Xrk825qojXLgYJvBS4SfRRUPX9nTxusBJfwGDu",
+      "amount": 0.000065,
+      "historical": {
+        "amount": "0.000065",
+        "slot": 116747317,
+        "time": 1642477800,
+        "txSig": "3c4obLHYLY39sh9ma19qWC2gXbtZ7QBR3jNrKZxxDMFa8ZB2y3n5dm9rgSU5znR32y919PL9f47LqGW5nN8cBYbJ"
+      },
       "owner": "EeYR57SjwHctbFmizQqzQUV4kjEAmYhn7nQtMzXDZ753",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0.000065
     }
   ]
 }

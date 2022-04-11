@@ -1,23 +1,53 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "FaTFWinMAQVWLhsAPfzPZ6SnRKLGrpyE9y2sT8jbSYb6",
+      "amount": 0,
+      "historical": {
+        "slot": 123721814,
+        "time": 1646562807,
+        "txSig": "4LaJvYLiLsKmn143DPHfQspeJtnNhizGLCYtWSFJj1DmCSNNBAVpCqXRQEUjieZaZwiMkUCjT6V88JEWqyCobAxw"
+      },
       "owner": "5T2UUDTEX21Euf4pw7y3XwCyH7qGhiFxPziKmUUXVxfJ",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "8KvDRxtJGpqLbgTjCnCd6Qvv6VbBrC1by8UHyh9Ssryf",
+      "amount": 0,
+      "historical": {
+        "slot": 120871749,
+        "time": 1644886052,
+        "txSig": "5iEpbmSMQcjM732yrYYHV7N7NrTqNw1BvMeKi82Jt34GabDMnDnVGdrXShGzHDbQ3VJHgaCMBM2CauM57GAHHpxM"
+      },
       "owner": "5T2UUDTEX21Euf4pw7y3XwCyH7qGhiFxPziKmUUXVxfJ",
+      "price": null,
       "tokenName": "Saros PORT-CASH Saros LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     },
     {
       "account": "CtG5HMSxwsFboWRg2PuYbzxavWVCdr5LkJBucZMdbkqx",
+      "amount": 213205.3,
+      "historical": {
+        "amount": "213205.3",
+        "slot": 122108682,
+        "time": 1645606908,
+        "txSig": "5AJHvXjATJ6GqUXQQNvLri9QTAjnXSRQeJJcLBFeagf4qsAXU2iHDwZYXLSsPGyk5Nj1DxLm6Pqhc6FF7zq9MpRY"
+      },
       "owner": "5T2UUDTEX21Euf4pw7y3XwCyH7qGhiFxPziKmUUXVxfJ",
+      "price": null,
       "tokenName": "Saros POLE-CASH Saros LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     }
   ]
 }

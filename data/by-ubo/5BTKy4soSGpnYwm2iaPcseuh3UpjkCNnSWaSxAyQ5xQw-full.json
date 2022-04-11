@@ -9,30 +9,69 @@
       "source": "8H4vUyYxpyqfszfVffECiXCdLBd2xRFY51Rp4AGGfDzS"
     }
   ],
+  "summary": {
+    "netLosses": 222.4227742641524,
+    "totalLosses": 19988.321653264153,
+    "totalRefunds": 19765.898879
+  },
   "tokenAccounts": [
     {
       "account": "21JqNgA914pqGMyXHwwBrgVrD47Ygr66fv1jiWYcvHjh",
+      "amount": 0,
+      "historical": {
+        "slot": 125703976,
+        "time": 1647709585,
+        "txSig": "FB3F17cvWmocyhYEhWGDCui5vWmmxoHTzeVnah8aj6KnVr2dMDTy5yzGqR6mYSYU9zKb5fLdd3XjxnAFTPrK3CY"
+      },
       "owner": "5BTKy4soSGpnYwm2iaPcseuh3UpjkCNnSWaSxAyQ5xQw",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "2ABQz2yLKDYEdvhVxDUP9k2ZgGkCe5oDVZRoiPoBjtnA",
+      "amount": 19765.898879,
+      "historical": {
+        "amount": "19765.898879",
+        "slot": 126210154,
+        "time": 1647992383,
+        "txSig": "3yMcVheGZgfjfYwjE4QJ21XAqdyWxeBPRVQeoEPWC6RKNF7R8RkUiFN6rmrmzgUbfXWMQ7gfoT9ZzEFiRwsaJjfL"
+      },
       "owner": "XhW4WMXvgbuMuzkbZ4NsnHnb9qFxu6FeKB6uUtcSSZ2",
+      "price": 1.011252854,
       "tokenName": "Saber CASH-USDC LP",
-      "type": "sunny-vault"
+      "type": "sunny-vault",
+      "usdValue": 19988.321653264153
     },
     {
       "account": "6DpGvk1iDtPAuWnD3ZQ3tcZTCqk9zUT9jvEkRQyqfAEE",
+      "amount": 0,
+      "historical": {
+        "slot": 124510752,
+        "time": 1647035176,
+        "txSig": "2K3foDpkvMAKviJZogkmpjS8VbBecHrgDCG162V3FWaQs6Fun3FKhWXTx9W8iSxxrkMgMHRV7pb63QHBjFH4Q3VR"
+      },
       "owner": "5BTKy4soSGpnYwm2iaPcseuh3UpjkCNnSWaSxAyQ5xQw",
+      "price": 1.011252854,
       "tokenName": "Saber CASH-USDC LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "5zbgXFRApaYXKfLcizPNdFGbphpoJ7nEGYBEb1DzHsBX",
+      "amount": 19765.898879,
+      "historical": {
+        "amount": "19765.898879",
+        "slot": 126210139,
+        "time": 1647992374,
+        "txSig": "3nbtBtP5W6w7r4XwZRP1DBuxck9qcwbR1AQAZvB4yWVBrinRfM58vdPhyCdibpW4ZhNNjsETn3pud9G8MRb4zH33"
+      },
       "owner": "28phtnn5dsHAYamAG9m5iSDe9RHq5cFS6kVpxbzQYYF1",
+      "price": 0,
       "tokenName": "Sunny Saber CASH-USDC LP",
-      "type": "sunny-vault"
+      "type": "sunny-vault",
+      "usdValue": 0
     }
   ]
 }

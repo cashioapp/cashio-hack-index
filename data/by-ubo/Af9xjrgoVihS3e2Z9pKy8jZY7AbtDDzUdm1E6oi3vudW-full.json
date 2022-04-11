@@ -22,12 +22,26 @@
     "submissionInvalidReason": null,
     "submissionIsValid": true
   },
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "H2e3G2siSMcpExsnoAqRfWM1PjQPLpVMPofU9xW44LKK",
+      "amount": 0,
+      "historical": {
+        "amount": "0",
+        "slot": 116062913,
+        "time": 1642074847,
+        "txSig": "3ywk49C83Tt1HLhaBeMPfDWPrq53aipQGFcuz5ea8rDLE21H5YAVVnvBd35Vd89M5Lfbg4deP8XjHW8rxFDfnK7u"
+      },
       "owner": "Af9xjrgoVihS3e2Z9pKy8jZY7AbtDDzUdm1E6oi3vudW",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     }
   ]
 }

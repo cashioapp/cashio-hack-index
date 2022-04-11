@@ -1,29 +1,69 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0.004712452,
+    "totalLosses": 0.004712452,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "CVKUT9XnKpXLeJ3urEfAmvGjueQPArJY5TwGMXicvMRm",
+      "amount": 0.000003452,
+      "historical": {
+        "amount": "0.000003452",
+        "slot": 117232819,
+        "time": 1642788344,
+        "txSig": "3UWfnZdyAoc3BRxLjvd5GzGsQM9GYSyeaaoFGmq61tpqfjrUDryjkSPysFVaC1Vmtnkh2YuXkkmgQdCE56nqi5az"
+      },
       "owner": "3VKYmEPDgZfhe74mkT4SC8Zg22Ef5JzmnZ9f8Xq2YJDm",
+      "price": 1,
       "tokenName": "Saber Wrapped Cashio Dollar (9 decimals)",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0.000003452
     },
     {
       "account": "CcN1k4WqK6forMqSQRXaZQA6h7DHLVP7nHcUv5DRPSAH",
+      "amount": 0.004709,
+      "historical": {
+        "amount": "0.004709",
+        "slot": 117232819,
+        "time": 1642788344,
+        "txSig": "3UWfnZdyAoc3BRxLjvd5GzGsQM9GYSyeaaoFGmq61tpqfjrUDryjkSPysFVaC1Vmtnkh2YuXkkmgQdCE56nqi5az"
+      },
       "owner": "3VKYmEPDgZfhe74mkT4SC8Zg22Ef5JzmnZ9f8Xq2YJDm",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0.004709
     },
     {
       "account": "9JPQDBe4HsSqYN6WzjopGVjtGmqBabLgF6ZVk4TSutFV",
+      "amount": 0,
+      "historical": {
+        "slot": 112097807,
+        "time": 1639817545,
+        "txSig": "3NZPz43zWsBkue9ymC19QeHaRY2t4KEjKDxmkPbB19oWJyUgXdza8shk9iP436j1s7C49EFaFrs1niKTkH5VFmT6"
+      },
       "owner": "3VKYmEPDgZfhe74mkT4SC8Zg22Ef5JzmnZ9f8Xq2YJDm",
+      "price": null,
       "tokenName": "Sencha aSOL-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     },
     {
       "account": "DDXLVUxyZgUr9uNBujt4yoF6BUA3qWiuCPBWYbGq5nTR",
+      "amount": 0.00000658,
+      "historical": {
+        "amount": "0.00000658",
+        "slot": 113886723,
+        "time": 1640799802,
+        "txSig": "2VNF1PQz1kAVLNjFNDqAyQ8j1pJcsobD7a7J49EebvzQPxvxUdv7T5d3Q8YJsTiUaKvajqqJj5KUHnizZqgZ96jo"
+      },
       "owner": "3agCRTGVkb7R4E3Ygbnn2XUim1LfHbANwRppppShueZg",
+      "price": null,
       "tokenName": "Sencha aSOL-CASH LP",
-      "type": "merge-miner"
+      "type": "merge-miner",
+      "usdValue": null
     }
   ]
 }

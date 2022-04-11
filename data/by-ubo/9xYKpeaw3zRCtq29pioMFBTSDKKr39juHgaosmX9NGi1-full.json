@@ -1,23 +1,54 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0.033176,
+    "totalLosses": 0.033176,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "H6zBmvseDfaCYGbxxqsxuZig3zGbXswEzjq7v5rhxqiv",
+      "amount": 0.033176,
+      "historical": {
+        "amount": "0.033176",
+        "slot": 117056612,
+        "time": 1642668537,
+        "txSig": "4Y1yGdZxdEJd5usDzjaLQXhYyQHqutVy6BV9b1z6E1mMfMddDHaRiSary54GJ3ktBnSKTrBpSEBtk4pCRpbJAeZa"
+      },
       "owner": "9xYKpeaw3zRCtq29pioMFBTSDKKr39juHgaosmX9NGi1",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0.033176
     },
     {
       "account": "2rXYpdM9LExNYoCNJ7bkVCyKesq4eCnip7ZaECkpCZXa",
+      "amount": 0,
+      "historical": {
+        "slot": 117056653,
+        "time": 1642668559,
+        "txSig": "3B425DKGcUmk5GdYCj4qFmtNF2f34zFVfvep2QqSyqZag8wVHC6YYDCnHFRFWPEmeQisek29T8gTUhjJwdbiq1Cs"
+      },
       "owner": "9xYKpeaw3zRCtq29pioMFBTSDKKr39juHgaosmX9NGi1",
+      "price": null,
       "tokenName": "Saros PRT-CASH Saros LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     },
     {
       "account": "6j63HaCicHiv8JiMo8b1gkQ4Sntj5CRwjzNwdEEvB9p7",
+      "amount": 4367.46,
+      "historical": {
+        "amount": "4367.46",
+        "slot": 117056653,
+        "time": 1642668559,
+        "txSig": "3B425DKGcUmk5GdYCj4qFmtNF2f34zFVfvep2QqSyqZag8wVHC6YYDCnHFRFWPEmeQisek29T8gTUhjJwdbiq1Cs"
+      },
       "owner": "5c6izHfy4Bw8kCKtgwASjrK37J5eJuZVsGiJHBQ92ro6",
+      "price": null,
       "tokenName": "Saros PRT-CASH Saros LP",
-      "type": "miner"
+      "type": "miner",
+      "usdValue": null
     }
   ]
 }

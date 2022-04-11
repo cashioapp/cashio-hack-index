@@ -1,29 +1,67 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 9.48e-7,
+    "totalLosses": 9.48e-7,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "2aY2qrp5GfYeoZEYtWKqgjYJZMMMYfoF6RG7P2SFUCqc",
+      "amount": 9.48e-7,
+      "historical": {
+        "amount": "9.48e-7",
+        "slot": 108821849,
+        "time": 1637946990,
+        "txSig": "mVX6vNEwHpeAXpaqvbuaJzTQqiycwUxG46kU7JZJ5fJLoFAv5Lt8xvKDUt9nXHgLgSwTwqrxPGZzR2XPZNyqqmu"
+      },
       "owner": "AgD92nXKBEePb8htdaBaiXUTo5Ag3ezkMtU1auGF3trX",
+      "price": 1,
       "tokenName": "Saber Wrapped Cashio Dollar (9 decimals)",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 9.48e-7
     },
     {
       "account": "8bh76LGwiCx5MDZTL45LiNJGucFZpWpq7qYov7AubjLo",
+      "amount": 0,
+      "historical": {
+        "slot": 108821918,
+        "time": 1637947029,
+        "txSig": "2vJm143z47nY4tU6N149rHye72V76WqvSQVnHcnV5NJJzoSBedhU4gyToeffDQKdh6E2hbqybXMR7ujUZxA8ujrN"
+      },
       "owner": "AgD92nXKBEePb8htdaBaiXUTo5Ag3ezkMtU1auGF3trX",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "BPTdASoYKGaVcXWsPpXyc2om2DYBv1N4uDf3AfxWWKU1",
+      "amount": 0,
+      "historical": {
+        "slot": 108821945,
+        "time": 1637947044,
+        "txSig": "LdVhmHnLuPACjErmyL8W8vRidpr1iweDHnRnBofvUh71G7huGJkQa5N6rkWU1uvo3gbnxfNf78FEjtRyQbRU8L1"
+      },
       "owner": "AgD92nXKBEePb8htdaBaiXUTo5Ag3ezkMtU1auGF3trX",
+      "price": 0.9957,
       "tokenName": "Saber PAI-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "C7AYpgpVgixoKfJ9aA26ELdWVyWHW19SGsQXK78oWxry",
+      "amount": 0,
+      "historical": {
+        "slot": 108821849,
+        "time": 1637946990,
+        "txSig": "mVX6vNEwHpeAXpaqvbuaJzTQqiycwUxG46kU7JZJ5fJLoFAv5Lt8xvKDUt9nXHgLgSwTwqrxPGZzR2XPZNyqqmu"
+      },
       "owner": "AgD92nXKBEePb8htdaBaiXUTo5Ag3ezkMtU1auGF3trX",
+      "price": 0.999,
       "tokenName": "Saber acUSD-CASH LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     }
   ]
 }

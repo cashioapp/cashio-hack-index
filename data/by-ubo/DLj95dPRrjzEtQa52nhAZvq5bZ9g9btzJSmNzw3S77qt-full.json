@@ -1,17 +1,38 @@
 {
   "reimbursements": [],
+  "summary": {
+    "netLosses": 0,
+    "totalLosses": 0,
+    "totalRefunds": 0
+  },
   "tokenAccounts": [
     {
       "account": "5VE8cafoRTLiqTRirsL15EWzArcWV3XxcNAk31GbzLXm",
+      "amount": 0,
+      "historical": {
+        "slot": 116353503,
+        "time": 1642245219,
+        "txSig": "4NPufATyAicj3hXrXNVDGaAufutiScfCSvLP35P3dKRCU9ZCvsDZYqgAr1eomwn6TzgSx4sWkj5rWEubMe2kZ1im"
+      },
       "owner": "DLj95dPRrjzEtQa52nhAZvq5bZ9g9btzJSmNzw3S77qt",
+      "price": 1,
       "tokenName": "Cashio Dollar",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": 0
     },
     {
       "account": "FmiuKJRjNRKqBwoaXaCt5zVwCMx4wVjQqaQt4bmpdRiR",
+      "amount": 0,
+      "historical": {
+        "slot": 116353334,
+        "time": 1642245124,
+        "txSig": "ezXyfLgPt6XZq5VWw7uhf3LtDZ4wbW3yU9yGu7kpwKHXqDcUeCTnSABu8aryg2oQAtwvyfWRfYjmBNMc1KFZ2nE"
+      },
       "owner": "DLj95dPRrjzEtQa52nhAZvq5bZ9g9btzJSmNzw3S77qt",
+      "price": null,
       "tokenName": "Saros POLE-CASH Saros LP",
-      "type": "wallet"
+      "type": "wallet",
+      "usdValue": null
     }
   ]
 }

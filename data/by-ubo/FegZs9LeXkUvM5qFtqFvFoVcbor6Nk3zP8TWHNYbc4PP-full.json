@@ -1,4 +1,10 @@
 {
+  "ethReimbursements": [
+    {
+      "to": "0xc446db7474e60cf10a52d01f773caf1652c2a1d8",
+      "value": "0.016539798000000000"
+    }
+  ],
   "reimbursements": [],
   "review": {
     "decision": "Approved",
@@ -12,7 +18,7 @@
     "messageText": "1. 0xc446Db7474E60Cf10A52d01F773cAf1652C2a1d8\n2. FegZs9LeXkUvM5qFtqFvFoVcbor6Nk3zP8TWHNYbc4PP\n3. Saber UXD-CASH LP (UXD-CASH) token owned by 7w2GTwpeHXga87ukgAj4JgqdbZCWd7rdziT3suYPEiLS\n4. \n5. I deposited 50.23641 UXD-CASH amounting to 50.252 USDC\n6. If you need this amount, keep it.",
     "originalWallet": "FegZs9LeXkUvM5qFtqFvFoVcbor6Nk3zP8TWHNYbc4PP",
     "owner": "FegZs9LeXkUvM5qFtqFvFoVcbor6Nk3zP8TWHNYbc4PP",
-    "ownershipTxSig": "3. Saber UXD-CASH LP (UXD-CASH) token owned by 7w2GTwpeHXga87ukgAj4JgqdbZCWd7rdziT3suYPEiLS",
+    "ownershipTxSig": "Saber UXD-CASH LP (UXD-CASH) token owned by 7w2GTwpeHXga87ukgAj4JgqdbZCWd7rdziT3suYPEiLS",
     "provenanceTxSig": "4. ",
     "rawMessage": "Y2FzaGlvLmFwcCByZWZ1bmQgc3VibWlzc2lvbjoKCjEuIDB4YzQ0NkRiNzQ3NEU2MENmMTBBNTJkMDFGNzczY0FmMTY1MkMyYTFkOAoyLiBGZWdaczlMZVhrVXZNNXFGdHFGdkZvVmNib3I2TmszelA4VFdITlliYzRQUAozLiBTYWJlciBVWEQtQ0FTSCBMUCAoVVhELUNBU0gpIHRva2VuIG93bmVkIGJ5IDd3MkdUd3BlSFhnYTg3dWtnQWo0SmdxZGJaQ1dkN3JkemlUM3N1WVBFaUxTCjQuIAo1LiBJIGRlcG9zaXRlZCA1MC4yMzY0MSBVWEQtQ0FTSCBhbW91bnRpbmcgdG8gNTAuMjUyIFVTREMKNi4gSWYgeW91IG5lZWQgdGhpcyBhbW91bnQsIGtlZXAgaXQu",
     "rawSignature": "qFB9UvQfbWEX169y6OolkSZFL3Q858MTx98FkgLEwO131XEzebnM1e2YNfK12NwdN9QxvBQbYoQk1hAPNX19Bg==",
@@ -24,7 +30,9 @@
     "submissionIsValid": true
   },
   "summary": {
-    "netLosses": 50.53782846,
+    "ethRefundPercent": 1.0188580260122242,
+    "netLosses": -0.9530436837000025,
+    "totalEthRefunds": 51.4908721437,
     "totalLosses": 50.53782846,
     "totalRefunds": 0
   },

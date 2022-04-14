@@ -1,4 +1,10 @@
 {
+  "ethReimbursements": [
+    {
+      "to": "0xb1c56db9e7591b76dbd946c51d1bbd4a49ad4fa8",
+      "value": "46.947402530000000000"
+    }
+  ],
   "reimbursements": [],
   "review": {
     "decision": "Approved",
@@ -12,8 +18,8 @@
     "messageText": "1. 0xB1c56db9E7591B76Dbd946C51D1bBD4A49Ad4fA8\n\n2. CcpaQVQPuBEMY2gWRYENhtKrVXcoY54czUWvQGeXUW1P\n\n3. LP staked during exploit https://solscan.io/tx/3e2Xp8XDtMG9BKrXqdp584w2FjUfRum2LzMefEkjb7AxSKSi77PLvmXxxggbCMwurm9c5ehFcXjFjtmyLiT4J3XQ\n\n4. Unstaked LP from Sunny\nhttps://solscan.io/account/Av5hMGYmeDATS6KQFk3eDoUHBMyXk5PqMitLuJgdR4dd\n\n5. The amount to be returned is 187,207.16 USDC\nhttps://solscan.io/tx/5ina5VQLvYe8Z9GtUL5cLNmHAWvRwystmSRKDBwcvKmF7SvtXx1FZYQTHdpTsCdzEhzos3wQ5MmpSZ9v4LyrqZfc\n\n6. I’ve struggled day and night to accumulate this money by working multiple jobs, freelance gigs for 9 years. That’s all I got and really cannot afford to lose it, because there will be no way forward for me, and my family members. I really need the money to pay for my mum, my 14-year-old nephew, and my own expenses. It was a mistake and the lessons are learnt. I just want to say thank you so much for doing the right thing, our prayers are heard. You’re an extremely talented individual and we respect you. We will always remember you in a good way. Thank you again, my friend.",
     "originalWallet": "CcpaQVQPuBEMY2gWRYENhtKrVXcoY54czUWvQGeXUW1P",
     "owner": "CcpaQVQPuBEMY2gWRYENhtKrVXcoY54czUWvQGeXUW1P",
-    "ownershipTxSig": "3. LP staked during exploit https://solscan.io/tx/3e2Xp8XDtMG9BKrXqdp584w2FjUfRum2LzMefEkjb7AxSKSi77PLvmXxxggbCMwurm9c5ehFcXjFjtmyLiT4J3XQ",
-    "provenanceTxSig": "4. Unstaked LP from Sunny",
+    "ownershipTxSig": "LP staked during exploit https://solscan.io/tx/3e2Xp8XDtMG9BKrXqdp584w2FjUfRum2LzMefEkjb7AxSKSi77PLvmXxxggbCMwurm9c5ehFcXjFjtmyLiT4J3XQ",
+    "provenanceTxSig": "Unstaked LP from Sunny\nhttps://solscan.io/account/Av5hMGYmeDATS6KQFk3eDoUHBMyXk5PqMitLuJgdR4dd",
     "rawMessage": "AQABAqydrcYS9zFdlUWjJ4y90ma9/bv8MbUKIHwPMz2prmGiBUpTUPhdyILWFKVWcniKKW3fHqur0KYGeIhJMvTu9qB+38Q92XHZV9CRxcis/VwDR3uOIvDCGQ6TBYS+AkuNCwEBANoIY2FzaGlvLmFwcCByZWZ1bmQgc3VibWlzc2lvbjoKCjEuIDB4QjFjNTZkYjlFNzU5MUI3NkRiZDk0NkM1MUQxYkJENEE0OUFkNGZBOAoKMi4gQ2NwYVFWUVB1QkVNWTJnV1JZRU5odEtyVlhjb1k1NGN6VVd2UUdlWFVXMVAKCjMuIExQIHN0YWtlZCBkdXJpbmcgZXhwbG9pdCBodHRwczovL3NvbHNjYW4uaW8vdHgvM2UyWHA4WER0TUc5QktyWHFkcDU4NHcyRmpVZlJ1bTJMek1lZkVramI3QXhTS1NpNzdQTHZtWHh4Z2diQ013dXJtOWM1ZWhGY1hqRmp0bXlMaVQ0SjNYUQoKNC4gVW5zdGFrZWQgTFAgZnJvbSBTdW5ueQpodHRwczovL3NvbHNjYW4uaW8vYWNjb3VudC9BdjVoTUdZbWVEQVRTNktRRmszZURvVUhCTXlYazVQcU1pdEx1SmdkUjRkZAoKNS4gVGhlIGFtb3VudCB0byBiZSByZXR1cm5lZCBpcyAxODcsMjA3LjE2IFVTREMKaHR0cHM6Ly9zb2xzY2FuLmlvL3R4LzVpbmE1VlFMdlllOFo5R3RVTDVjTE5tSEFXdlJ3eXN0bVNSS0RCd2N2S21GN1N2dFh4MUZaWVFUSGRwVHNDZHpFaHpvczN3UTVNbXBTWjl2NEx5cnFaZmMKCjYuIEnigJl2ZSBzdHJ1Z2dsZWQgZGF5IGFuZCBuaWdodCB0byBhY2N1bXVsYXRlIHRoaXMgbW9uZXkgYnkgd29ya2luZyBtdWx0aXBsZSBqb2JzLCBmcmVlbGFuY2UgZ2lncyBmb3IgOSB5ZWFycy4gVGhhdOKAmXMgYWxsIEkgZ290IGFuZCByZWFsbHkgY2Fubm90IGFmZm9yZCB0byBsb3NlIGl0LCBiZWNhdXNlIHRoZXJlIHdpbGwgYmUgbm8gd2F5IGZvcndhcmQgZm9yIG1lLCBhbmQgbXkgZmFtaWx5IG1lbWJlcnMuIEkgcmVhbGx5IG5lZWQgdGhlIG1vbmV5IHRvIHBheSBmb3IgbXkgbXVtLCBteSAxNC15ZWFyLW9sZCBuZXBoZXcsIGFuZCBteSBvd24gZXhwZW5zZXMuIEl0IHdhcyBhIG1pc3Rha2UgYW5kIHRoZSBsZXNzb25zIGFyZSBsZWFybnQuIEkganVzdCB3YW50IHRvIHNheSB0aGFuayB5b3Ugc28gbXVjaCBmb3IgZG9pbmcgdGhlIHJpZ2h0IHRoaW5nLCBvdXIgcHJheWVycyBhcmUgaGVhcmQuIFlvdeKAmXJlIGFuIGV4dHJlbWVseSB0YWxlbnRlZCBpbmRpdmlkdWFsIGFuZCB3ZSByZXNwZWN0IHlvdS4gV2Ugd2lsbCBhbHdheXMgcmVtZW1iZXIgeW91IGluIGEgZ29vZCB3YXkuIFRoYW5rIHlvdSBhZ2FpbiwgbXkgZnJpZW5kLg==",
     "rawSignature": "SGUGYrqRUB7FhFy/qslsAvZcMdyh7yfJKG8isgx433VY9Dl78WOvHU1KRthou2i2u+vVVKWck5J1DloQggWhDg==",
     "selfReportedAddress": "CcpaQVQPuBEMY2gWRYENhtKrVXcoY54czUWvQGeXUW1P",
@@ -24,7 +30,9 @@
     "submissionIsValid": true
   },
   "summary": {
-    "netLosses": 186910.60121004403,
+    "ethRefundPercent": 0.7819476543335606,
+    "netLosses": 40756.295023774524,
+    "totalEthRefunds": 146154.3061862695,
     "totalLosses": 186910.60121004403,
     "totalRefunds": 0
   },

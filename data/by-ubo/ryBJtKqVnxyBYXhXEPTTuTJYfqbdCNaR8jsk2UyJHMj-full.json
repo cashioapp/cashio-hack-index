@@ -1,4 +1,10 @@
 {
+  "ethReimbursements": [
+    {
+      "to": "0xe6ce9c627fb862b61d3a7a7377dcd3282a1d799c",
+      "value": "1.971299163000000000"
+    }
+  ],
   "reimbursements": [],
   "review": {
     "decision": "Approved",
@@ -12,8 +18,8 @@
     "messageText": "1. 0xe6cE9C627Fb862B61d3A7a7377DCD3282A1d799c\n2. ryBJtKqVnxyBYXhXEPTTuTJYfqbdCNaR8jsk2UyJHMj\n3. My aeMIM-Cash LP Fnvcz3PcEsxWp1nYfmFdC1uyRRmyGWL7JWRYXxe37zWi\n4. -\n5. 6000 USD\n6. It is borrowed money from Solend using other people's coin as collateral. ",
     "originalWallet": "ryBJtKqVnxyBYXhXEPTTuTJYfqbdCNaR8jsk2UyJHMj",
     "owner": "ryBJtKqVnxyBYXhXEPTTuTJYfqbdCNaR8jsk2UyJHMj",
-    "ownershipTxSig": "3. My aeMIM-Cash LP Fnvcz3PcEsxWp1nYfmFdC1uyRRmyGWL7JWRYXxe37zWi",
-    "provenanceTxSig": "4. -",
+    "ownershipTxSig": "My aeMIM-Cash LP Fnvcz3PcEsxWp1nYfmFdC1uyRRmyGWL7JWRYXxe37zWi",
+    "provenanceTxSig": "-",
     "rawMessage": "AQABAgzM+uG7WAsa2An+blohLoV2c/wLtNYuZpIascpl72K6BUpTUPhdyILWFKVWcniKKW3fHqur0KYGeIhJMvTu9qB+38Q92XHZV9CRxcis/VwDR3uOIvDCGQ6TBYS+AkuNCwEBAJsCY2FzaGlvLmFwcCByZWZ1bmQgc3VibWlzc2lvbjoKCjEuIDB4ZTZjRTlDNjI3RmI4NjJCNjFkM0E3YTczNzdEQ0QzMjgyQTFkNzk5YwoyLiByeUJKdEtxVm54eUJZWGhYRVBUVHVUSllmcWJkQ05hUjhqc2syVXlKSE1qCjMuIE15IGFlTUlNLUNhc2ggTFAgRm52Y3ozUGNFc3hXcDFuWWZtRmRDMXV5UlJteUdXTDdKV1JZWHhlMzd6V2kKNC4gLQo1LiA2MDAwIFVTRAo2LiBJdCBpcyBib3Jyb3dlZCBtb25leSBmcm9tIFNvbGVuZCB1c2luZyBvdGhlciBwZW9wbGUncyBjb2luIGFzIGNvbGxhdGVyYWwuIA==",
     "rawSignature": "jww4t4wJfNOKQIoHSQd2lsPGxnHKHTYAVUwFRlU59bRpQJUkTs0O+rwiqQNSZYm+m9HrrujN4UofzBbIqa3tDw==",
     "selfReportedAddress": "ryBJtKqVnxyBYXhXEPTTuTJYfqbdCNaR8jsk2UyJHMj",
@@ -24,7 +30,9 @@
     "submissionIsValid": true
   },
   "summary": {
-    "netLosses": 6023.619484575829,
+    "ethRefundPercent": 1.0188143532319425,
+    "netLosses": -113.3305047176209,
+    "totalEthRefunds": 6136.94998929345,
     "totalLosses": 6023.619484575829,
     "totalRefunds": 0
   },

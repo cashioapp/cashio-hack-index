@@ -1,4 +1,10 @@
 {
+  "ethReimbursements": [
+    {
+      "to": "0x429eeed5aa86e0127edbd504e69f5a71ba9bcadd",
+      "value": "0.136628421000000000"
+    }
+  ],
   "reimbursements": [],
   "review": {
     "decision": "Approved",
@@ -12,8 +18,8 @@
     "messageText": "1. 0x429eeEd5aa86e0127eDBD504e69f5A71BA9Bcadd\n2. FY74Dvjb2LoMvzicAHPt1Mof7eS6NMEV9vAAsF3oYKCv\n3. https://explorer.solana.com/tx/VwUUX4kia9NVYF48e5J5aND1HifZHtGPDXAcrUY1J7mopKTWEFCUkviKYe1ZM8kPbjpkK71KFc2kWKZdBeT6ZoN?cluster=mainnet-beta\n4. https://explorer.solana.com/tx/VwUUX4kia9NVYF48e5J5aND1HifZHtGPDXAcrUY1J7mopKTWEFCUkviKYe1ZM8kPbjpkK71KFc2kWKZdBeT6ZoN?cluster=mainnet-beta\n5. $1000\n6. Salary money",
     "originalWallet": "FY74Dvjb2LoMvzicAHPt1Mof7eS6NMEV9vAAsF3oYKCv",
     "owner": "FY74Dvjb2LoMvzicAHPt1Mof7eS6NMEV9vAAsF3oYKCv",
-    "ownershipTxSig": "3. https://explorer.solana.com/tx/VwUUX4kia9NVYF48e5J5aND1HifZHtGPDXAcrUY1J7mopKTWEFCUkviKYe1ZM8kPbjpkK71KFc2kWKZdBeT6ZoN?cluster=mainnet-beta",
-    "provenanceTxSig": "4. https://explorer.solana.com/tx/VwUUX4kia9NVYF48e5J5aND1HifZHtGPDXAcrUY1J7mopKTWEFCUkviKYe1ZM8kPbjpkK71KFc2kWKZdBeT6ZoN?cluster=mainnet-beta",
+    "ownershipTxSig": "https://explorer.solana.com/tx/VwUUX4kia9NVYF48e5J5aND1HifZHtGPDXAcrUY1J7mopKTWEFCUkviKYe1ZM8kPbjpkK71KFc2kWKZdBeT6ZoN?cluster=mainnet-beta",
+    "provenanceTxSig": "https://explorer.solana.com/tx/VwUUX4kia9NVYF48e5J5aND1HifZHtGPDXAcrUY1J7mopKTWEFCUkviKYe1ZM8kPbjpkK71KFc2kWKZdBeT6ZoN?cluster=mainnet-beta",
     "rawMessage": "Y2FzaGlvLmFwcCByZWZ1bmQgc3VibWlzc2lvbjoKCjEuIDB4NDI5ZWVFZDVhYTg2ZTAxMjdlREJENTA0ZTY5ZjVBNzFCQTlCY2FkZAoyLiBGWTc0RHZqYjJMb012emljQUhQdDFNb2Y3ZVM2Tk1FVjl2QUFzRjNvWUtDdgozLiBodHRwczovL2V4cGxvcmVyLnNvbGFuYS5jb20vdHgvVndVVVg0a2lhOU5WWUY0OGU1SjVhTkQxSGlmWkh0R1BEWEFjclVZMUo3bW9wS1RXRUZDVWt2aUtZZTFaTThrUGJqcGtLNzFLRmMya1dLWmRCZVQ2Wm9OP2NsdXN0ZXI9bWFpbm5ldC1iZXRhCjQuIGh0dHBzOi8vZXhwbG9yZXIuc29sYW5hLmNvbS90eC9Wd1VVWDRraWE5TlZZRjQ4ZTVKNWFORDFIaWZaSHRHUERYQWNyVVkxSjdtb3BLVFdFRkNVa3ZpS1llMVpNOGtQYmpwa0s3MUtGYzJrV0taZEJlVDZab04/Y2x1c3Rlcj1tYWlubmV0LWJldGEKNS4gJDEwMDAKNi4gU2FsYXJ5IG1vbmV5",
     "rawSignature": "HPJWq8UYaYZxLEehsk7jX82gg7omQ/ec+z0fOHNyEt+y8L/muOKkdGX+NbxYMe9dynddJygUyePmuj7yUK+8CQ==",
     "selfReportedAddress": "FY74Dvjb2LoMvzicAHPt1Mof7eS6NMEV9vAAsF3oYKCv",
@@ -24,7 +30,9 @@
     "submissionIsValid": true
   },
   "summary": {
-    "netLosses": 417.48519486607023,
+    "ethRefundPercent": 1.0188259944705371,
+    "netLosses": -7.8595739700797935,
+    "totalEthRefunds": 425.34476883615,
     "totalLosses": 417.48519486607023,
     "totalRefunds": 0
   },

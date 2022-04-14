@@ -1,4 +1,5 @@
 {
+  "ethReimbursements": [],
   "reimbursements": [],
   "review": {
     "decision": "Rejected",
@@ -13,7 +14,7 @@
     "originalWallet": "BZZRr4wnzpMG4LC3U8oNoJaqdwskJBYKw3xsJmVuCrAx",
     "owner": "9d4GLMDe2KayBmmEyfvB7wz2uXGrugTimYMixe25LVm1",
     "ownershipTxSig": "3. ",
-    "provenanceTxSig": "4. https://solscan.io/tx/2dFfMHXA3uRnF7mLGJvFQ3GCcmuAudVVeHswa11CVJHsVKwjMRXi7oe914KnpSsaGd5o6PyMcVB7xVSMxWGy3dv8",
+    "provenanceTxSig": "https://solscan.io/tx/2dFfMHXA3uRnF7mLGJvFQ3GCcmuAudVVeHswa11CVJHsVKwjMRXi7oe914KnpSsaGd5o6PyMcVB7xVSMxWGy3dv8",
     "rawMessage": "Y2FzaGlvLmFwcCByZWZ1bmQgc3VibWlzc2lvbjoKCjEuIDB4NjU1ZTFjRDlDMzBEYzNFNjk2ODM5OTY2ODM3QTA0ODkwNkY1OUREZAoyLiBCWlpScjR3bnpwTUc0TEMzVThvTm9KYXFkd3NrSkJZS3czeHNKbVZ1Q3JBeAozLiAKNC4gaHR0cHM6Ly9zb2xzY2FuLmlvL3R4LzJkRmZNSFhBM3VSbkY3bUxHSnZGUTNHQ2NtdUF1ZFZWZUhzd2ExMUNWSkhzVkt3ak1SWGk3b2U5MTRLbnBTc2FHZDVvNlB5TWNWQjd4VlNNeFdHeTNkdjgKNS4gMTk5Ljk0CjYuIHRoYW5rIHlvdSB3aGl0ZSBoYXQgdGVhbSBmb3IgeW91ciBjb25zaWRlcmF0aW9uLiBzb3VyY2Ugb2YgbW9uZXkgaXMgd2hhdCdzIHJlbWFpbmluZyBhZnRlciBjbG9zaW5nIGJpdGNvaW4gYXRtIGJ1c2luZXNzLiBuZWVkIGNhc2ggYmFjayB0byBoZWxwIGdyb3dpbmcgZmFtaWx5IHdpdGggc21hbGwgY2hpbGRyZW4uIA==",
     "rawSignature": "jhxhewNGWo9hpvAAGkN7RaWg7Bs3UJC2Qo7jay89BsWtoHzBOJPVvrsAzUl33PVNWOuG7fneZXOWZ4Y8FdVFAw==",
     "selfReportedAddress": "BZZRr4wnzpMG4LC3U8oNoJaqdwskJBYKw3xsJmVuCrAx",
@@ -24,7 +25,9 @@
     "submissionIsValid": false
   },
   "summary": {
+    "ethRefundPercent": null,
     "netLosses": 0,
+    "totalEthRefunds": 0,
     "totalLosses": 0,
     "totalRefunds": 0
   },

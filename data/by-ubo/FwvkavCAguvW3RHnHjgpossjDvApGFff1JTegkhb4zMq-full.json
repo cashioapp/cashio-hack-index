@@ -3,6 +3,12 @@
     "amount": "96.5891",
     "pda": "7gZZA3vjS7pPu494d8RP5HUdSwfgAEMM5rghWr2dSh6N"
   },
+  "ethReimbursements": [
+    {
+      "to": "0xc32b7438b3df7844c9ee799930a2224fe6e26426",
+      "value": "0.359434622000000040"
+    }
+  ],
   "reimbursements": [],
   "review": {
     "decision": "Approved",
@@ -16,7 +22,7 @@
     "messageText": "1.0xC32b7438b3dF7844c9eE799930a2224Fe6E26426\n2.FwvkavCAguvW3RHnHjgpossjDvApGFff1JTegkhb4zMq\n3.I deposited 99.97$CASH into Chest.fi : 339rj3HedSPkR3XcmUBDqmYgzH7uqt7WfmpGMzTauDoMEaZdDJyC8iKKBS8ZWU4qaBmrC8pKsjSfHVD5t1sZMZap\n4.\n5.$99.97",
     "originalWallet": "FwvkavCAguvW3RHnHjgpossjDvApGFff1JTegkhb4zMq",
     "owner": "FwvkavCAguvW3RHnHjgpossjDvApGFff1JTegkhb4zMq",
-    "ownershipTxSig": "3.I deposited 99.97$CASH into Chest.fi : 339rj3HedSPkR3XcmUBDqmYgzH7uqt7WfmpGMzTauDoMEaZdDJyC8iKKBS8ZWU4qaBmrC8pKsjSfHVD5t1sZMZap",
+    "ownershipTxSig": "I deposited 99.97$CASH into Chest.fi : 339rj3HedSPkR3XcmUBDqmYgzH7uqt7WfmpGMzTauDoMEaZdDJyC8iKKBS8ZWU4qaBmrC8pKsjSfHVD5t1sZMZap",
     "provenanceTxSig": "4.",
     "rawMessage": "Y2FzaGlvLmFwcCByZWZ1bmQgc3VibWlzc2lvbjoKCjEuMHhDMzJiNzQzOGIzZEY3ODQ0YzllRTc5OTkzMGEyMjI0RmU2RTI2NDI2CjIuRnd2a2F2Q0FndXZXM1JIbkhqZ3Bvc3NqRHZBcEdGZmYxSlRlZ2toYjR6TXEKMy5JIGRlcG9zaXRlZCA5OS45NyRDQVNIIGludG8gQ2hlc3QuZmkgOiAzMzlyajNIZWRTUGtSM1hjbVVCRHFtWWd6SDd1cXQ3V2ZtcEdNelRhdURvTUVhWmRESnlDOGlLS0JTOFpXVTRxYUJtckM4cEtzalNmSFZENXQxc1pNWmFwCjQuCjUuJDk5Ljk3",
     "rawSignature": "t2IUnc/JslzlYJhhzN7Ov903tYid2LMiB6KVR1mT4OSJSbnDAZscFlEe+q7FYvFd/6lkmTMTr00omb2MsCONCQ==",
@@ -27,7 +33,9 @@
     "submissionIsValid": true
   },
   "summary": {
-    "netLosses": 96.5891,
+    "ethRefundPercent": 11.584887875332726,
+    "netLosses": -1022.3847934793001,
+    "totalEthRefunds": 1118.9738934793002,
     "totalLosses": 96.5891,
     "totalRefunds": 0
   },

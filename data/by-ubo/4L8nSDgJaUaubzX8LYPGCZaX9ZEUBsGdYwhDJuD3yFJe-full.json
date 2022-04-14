@@ -1,4 +1,10 @@
 {
+  "ethReimbursements": [
+    {
+      "to": "0x4a62a25846f4b2fcbc1647081f51069cdfa9e9ee",
+      "value": "21.612568150000000000"
+    }
+  ],
   "reimbursements": [
     {
       "amount": "268030000",
@@ -40,7 +46,9 @@
     "submissionIsValid": true
   },
   "summary": {
-    "netLosses": 66040.6585095956,
+    "ethRefundPercent": 1.0188142888732155,
+    "netLosses": -1242.5080265769066,
+    "totalEthRefunds": 67283.1665361725,
     "totalLosses": 68396.01641259559,
     "totalRefunds": 2355.357903
   },

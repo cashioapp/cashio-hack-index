@@ -1,4 +1,10 @@
 {
+  "ethReimbursements": [
+    {
+      "to": "0x10897e1b61407d43381d347c9faf3b5cccd3e89d",
+      "value": "1.291046779000000000"
+    }
+  ],
   "reimbursements": [],
   "review": {
     "decision": "Approved",
@@ -12,7 +18,7 @@
     "messageText": "1. 0x10897E1b61407d43381D347C9FAf3B5CccD3e89d\n2. 3oewbem8ejN9aUzmhSGotHF9CyLfuBFAXv7UCryvrtUL\n3. Staked to Quarry here: 4aUwQDDw4BUmfz8n3vohu4g7GiWv1rddSNvZQNDUJ7VHMsrrY7JPAFWfLt6saKzakCMBsedPBR3bi99zzcssAm4b\n4.\n5. 3950 USD\n6. The money is savings from my student loan and salary after graduating. I try to buy small amounts of crypto to save for buying a house and having children. With the prices going down in last 6 months I changed to stablecoin farming. I thought CASH was safe being backed by USDC and USDT. Please return the money.",
     "originalWallet": "3oewbem8ejN9aUzmhSGotHF9CyLfuBFAXv7UCryvrtUL",
     "owner": "3oewbem8ejN9aUzmhSGotHF9CyLfuBFAXv7UCryvrtUL",
-    "ownershipTxSig": "3. Staked to Quarry here: 4aUwQDDw4BUmfz8n3vohu4g7GiWv1rddSNvZQNDUJ7VHMsrrY7JPAFWfLt6saKzakCMBsedPBR3bi99zzcssAm4b",
+    "ownershipTxSig": "Staked to Quarry here: 4aUwQDDw4BUmfz8n3vohu4g7GiWv1rddSNvZQNDUJ7VHMsrrY7JPAFWfLt6saKzakCMBsedPBR3bi99zzcssAm4b",
     "provenanceTxSig": "4.",
     "rawMessage": "AQABAimq/dFE89sDXrb7V0But3lNG6o28AEKfIYkdBgaJQYVBUpTUPhdyILWFKVWcniKKW3fHqur0KYGeIhJMvTu9qB+38Q92XHZV9CRxcis/VwDR3uOIvDCGQ6TBYS+AkuNCwEBALoEY2FzaGlvLmFwcCByZWZ1bmQgc3VibWlzc2lvbjoKCjEuIDB4MTA4OTdFMWI2MTQwN2Q0MzM4MUQzNDdDOUZBZjNCNUNjY0QzZTg5ZAoyLiAzb2V3YmVtOGVqTjlhVXptaFNHb3RIRjlDeUxmdUJGQVh2N1VDcnl2cnRVTAozLiBTdGFrZWQgdG8gUXVhcnJ5IGhlcmU6IDRhVXdRRER3NEJVbWZ6OG4zdm9odTRnN0dpV3YxcmRkU052WlFORFVKN1ZITXNyclk3SlBBRldmTHQ2c2FLemFrQ01Cc2VkUEJSM2JpOTl6emNzc0FtNGIKNC4KNS4gMzk1MCBVU0QKNi4gVGhlIG1vbmV5IGlzIHNhdmluZ3MgZnJvbSBteSBzdHVkZW50IGxvYW4gYW5kIHNhbGFyeSBhZnRlciBncmFkdWF0aW5nLiBJIHRyeSB0byBidXkgc21hbGwgYW1vdW50cyBvZiBjcnlwdG8gdG8gc2F2ZSBmb3IgYnV5aW5nIGEgaG91c2UgYW5kIGhhdmluZyBjaGlsZHJlbi4gV2l0aCB0aGUgcHJpY2VzIGdvaW5nIGRvd24gaW4gbGFzdCA2IG1vbnRocyBJIGNoYW5nZWQgdG8gc3RhYmxlY29pbiBmYXJtaW5nLiBJIHRob3VnaHQgQ0FTSCB3YXMgc2FmZSBiZWluZyBiYWNrZWQgYnkgVVNEQyBhbmQgVVNEVC4gUGxlYXNlIHJldHVybiB0aGUgbW9uZXku",
     "rawSignature": "rVmY0pd/t+t+wg1Mm66j5ElmcBuxeNiJLURdRnsxrMBJublCf2YUBdhwKtog7ybuZ4VMpSj69ob7bKTa19OPAw==",
@@ -24,7 +30,9 @@
     "submissionIsValid": true
   },
   "summary": {
-    "netLosses": 3944.99517846741,
+    "ethRefundPercent": 1.0188155113551436,
+    "netLosses": -74.22710157643996,
+    "totalEthRefunds": 4019.22228004385,
     "totalLosses": 3944.99517846741,
     "totalRefunds": 0
   },

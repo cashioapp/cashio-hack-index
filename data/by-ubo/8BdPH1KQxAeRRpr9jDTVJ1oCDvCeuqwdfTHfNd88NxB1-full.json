@@ -1,4 +1,10 @@
 {
+  "ethReimbursements": [
+    {
+      "to": "0x697ee5732e4993630c175960097b7b383732e7a7",
+      "value": "1.423433890000000000"
+    }
+  ],
   "reimbursements": [],
   "review": {
     "decision": "Approved",
@@ -12,8 +18,8 @@
     "messageText": "1. eth address\n0x697eE5732e4993630c175960097b7B383732e7a7\n\n2. solana wallet address\n8BdPH1KQxAeRRpr9jDTVJ1oCDvCeuqwdfTHfNd88NxB1\n\n3. the lp is held in my solana wallet above-described at item 2. My CASH-USDC LP token address is shown below.\n537KjUurxsh3Zu8cxPNj7o6qBQndDRyUCQsF7wrGTeey\n\n4. I still hold the CASH-USDC LP in my solana wallet above-described at item 2\n\n5. I deposited 4,732.32 USDC in CASH/USDC. This amounts to 4,301.13 CASH-USDC LP tokens.\n\n6. the source of this money is derived from accumulated my salary by working as biological scientist in a certain university in Japan. why I need it back is because the fund is going to be used as living and old-age funds with my family(wife) married two years ago. I'm not rich Japanese, and so the lost funds is very important and needed for us. I would love you to understand our troublesome situation.",
     "originalWallet": "8BdPH1KQxAeRRpr9jDTVJ1oCDvCeuqwdfTHfNd88NxB1",
     "owner": "8BdPH1KQxAeRRpr9jDTVJ1oCDvCeuqwdfTHfNd88NxB1",
-    "ownershipTxSig": "3. the lp is held in my solana wallet above-described at item 2. My CASH-USDC LP token address is shown below.",
-    "provenanceTxSig": "4. I still hold the CASH-USDC LP in my solana wallet above-described at item 2",
+    "ownershipTxSig": "the lp is held in my solana wallet above-described at item 2. My CASH-USDC LP token address is shown below.\n537KjUurxsh3Zu8cxPNj7o6qBQndDRyUCQsF7wrGTeey",
+    "provenanceTxSig": "I still hold the CASH-USDC LP in my solana wallet above-described at item 2",
     "rawMessage": "Y2FzaGlvLmFwcCByZWZ1bmQgc3VibWlzc2lvbjoKCjEuIGV0aCBhZGRyZXNzCjB4Njk3ZUU1NzMyZTQ5OTM2MzBjMTc1OTYwMDk3YjdCMzgzNzMyZTdhNwoKMi4gc29sYW5hIHdhbGxldCBhZGRyZXNzCjhCZFBIMUtReEFlUlJwcjlqRFRWSjFvQ0R2Q2V1cXdkZlRIZk5kODhOeEIxCgozLiB0aGUgbHAgaXMgaGVsZCBpbiBteSBzb2xhbmEgd2FsbGV0IGFib3ZlLWRlc2NyaWJlZCBhdCBpdGVtIDIuIE15IENBU0gtVVNEQyBMUCB0b2tlbiBhZGRyZXNzIGlzIHNob3duIGJlbG93Lgo1MzdLalV1cnhzaDNadThjeFBOajdvNnFCUW5kRFJ5VUNRc0Y3d3JHVGVleQoKNC4gSSBzdGlsbCBob2xkIHRoZSBDQVNILVVTREMgTFAgaW4gbXkgc29sYW5hIHdhbGxldCBhYm92ZS1kZXNjcmliZWQgYXQgaXRlbSAyCgo1LiBJIGRlcG9zaXRlZCA0LDczMi4zMiBVU0RDIGluIENBU0gvVVNEQy4gVGhpcyBhbW91bnRzIHRvIDQsMzAxLjEzIENBU0gtVVNEQyBMUCB0b2tlbnMuCgo2LiB0aGUgc291cmNlIG9mIHRoaXMgbW9uZXkgaXMgZGVyaXZlZCBmcm9tIGFjY3VtdWxhdGVkIG15IHNhbGFyeSBieSB3b3JraW5nIGFzIGJpb2xvZ2ljYWwgc2NpZW50aXN0IGluIGEgY2VydGFpbiB1bml2ZXJzaXR5IGluIEphcGFuLiB3aHkgSSBuZWVkIGl0IGJhY2sgaXMgYmVjYXVzZSB0aGUgZnVuZCBpcyBnb2luZyB0byBiZSB1c2VkIGFzIGxpdmluZyBhbmQgb2xkLWFnZSBmdW5kcyB3aXRoIG15IGZhbWlseSh3aWZlKSBtYXJyaWVkIHR3byB5ZWFycyBhZ28uIEknbSBub3QgcmljaCBKYXBhbmVzZSwgYW5kIHNvIHRoZSBsb3N0IGZ1bmRzIGlzIHZlcnkgaW1wb3J0YW50IGFuZCBuZWVkZWQgZm9yIHVzLiBJIHdvdWxkIGxvdmUgeW91IHRvIHVuZGVyc3RhbmQgb3VyIHRyb3VibGVzb21lIHNpdHVhdGlvbi4=",
     "rawSignature": "S2WRZMQzY7yuLScCkgjvHOX23py1ggRVq3eYJuP6o1HkBZqPopy2mBpFKJA2Rpttt0tn0FnwTY02wdb99RphCQ==",
     "selfReportedAddress": "8BdPH1KQxAeRRpr9jDTVJ1oCDvCeuqwdfTHfNd88NxB1",
@@ -24,7 +30,9 @@
     "submissionIsValid": true
   },
   "summary": {
-    "netLosses": 4349.534450341915,
+    "ethRefundPercent": 1.0188132236325091,
+    "netLosses": -81.82876431158547,
+    "totalEthRefunds": 4431.3632146535,
     "totalLosses": 4349.534450341915,
     "totalRefunds": 0
   },

@@ -1,4 +1,10 @@
 {
+  "ethReimbursements": [
+    {
+      "to": "0x4569d5d6413d100f5b840187491fd55291a8efea",
+      "value": "7.563600008000000000"
+    }
+  ],
   "reimbursements": [],
   "review": {
     "decision": "Approved",
@@ -12,8 +18,8 @@
     "messageText": "1. 0x4569D5d6413d100F5B840187491FD55291A8efea\n2. GJr1ixLfryF7qfYGbLuwiz644HrSWzx3fbPAm4mYLcCA\n3. atUST-CASH LP on Saber : \"8AFdRCS9A18qYbn4bW8Zjj1tN6mPgdJdt79pcKU6MJYw\" owned by \"GJr1ixLfryF7qfYGbLuwiz644HrSWzx3fbPAm4mYLcCA\"\n4. Not sold any (deposit transaction : \"5tQMFy4XcuHAbYjsCufMVzBA2NdZECRDfRqPP2YT5TTwtcBuUfP64jZCMycxTk6vDBGh1GqfESzRhDK4nRggU9wg\", just withdrew it after exploit (trx :\"4WAxvM2pCASwyCZvuKHxuDGCos7JoGachTRzW4pmbTq2twZAQ2SCzmxsnmpG7KU7mUkXSc7SubwtZKCDZ6nX8j4T\"\n5. I deposited 22,910 in CASH. This amounts to  22,648.45 CASH-atUST LP tokens.\n6. Money comes from my work, it was an investment that I started to make it grow in order to help my children in the future. ",
     "originalWallet": "GJr1ixLfryF7qfYGbLuwiz644HrSWzx3fbPAm4mYLcCA",
     "owner": "GJr1ixLfryF7qfYGbLuwiz644HrSWzx3fbPAm4mYLcCA",
-    "ownershipTxSig": "3. atUST-CASH LP on Saber : \"8AFdRCS9A18qYbn4bW8Zjj1tN6mPgdJdt79pcKU6MJYw\" owned by \"GJr1ixLfryF7qfYGbLuwiz644HrSWzx3fbPAm4mYLcCA\"",
-    "provenanceTxSig": "4. Not sold any (deposit transaction : \"5tQMFy4XcuHAbYjsCufMVzBA2NdZECRDfRqPP2YT5TTwtcBuUfP64jZCMycxTk6vDBGh1GqfESzRhDK4nRggU9wg\", just withdrew it after exploit (trx :\"4WAxvM2pCASwyCZvuKHxuDGCos7JoGachTRzW4pmbTq2twZAQ2SCzmxsnmpG7KU7mUkXSc7SubwtZKCDZ6nX8j4T\"",
+    "ownershipTxSig": "atUST-CASH LP on Saber : \"8AFdRCS9A18qYbn4bW8Zjj1tN6mPgdJdt79pcKU6MJYw\" owned by \"GJr1ixLfryF7qfYGbLuwiz644HrSWzx3fbPAm4mYLcCA\"",
+    "provenanceTxSig": "Not sold any (deposit transaction : \"5tQMFy4XcuHAbYjsCufMVzBA2NdZECRDfRqPP2YT5TTwtcBuUfP64jZCMycxTk6vDBGh1GqfESzRhDK4nRggU9wg\", just withdrew it after exploit (trx :\"4WAxvM2pCASwyCZvuKHxuDGCos7JoGachTRzW4pmbTq2twZAQ2SCzmxsnmpG7KU7mUkXSc7SubwtZKCDZ6nX8j4T\"",
     "rawMessage": "Y2FzaGlvLmFwcCByZWZ1bmQgc3VibWlzc2lvbjoKCjEuIDB4NDU2OUQ1ZDY0MTNkMTAwRjVCODQwMTg3NDkxRkQ1NTI5MUE4ZWZlYQoyLiBHSnIxaXhMZnJ5RjdxZllHYkx1d2l6NjQ0SHJTV3p4M2ZiUEFtNG1ZTGNDQQozLiBhdFVTVC1DQVNIIExQIG9uIFNhYmVyIDogIjhBRmRSQ1M5QTE4cVlibjRiVzhaamoxdE42bVBnZEpkdDc5cGNLVTZNSll3IiBvd25lZCBieSAiR0pyMWl4TGZyeUY3cWZZR2JMdXdpejY0NEhyU1d6eDNmYlBBbTRtWUxjQ0EiCjQuIE5vdCBzb2xkIGFueSAoZGVwb3NpdCB0cmFuc2FjdGlvbiA6ICI1dFFNRnk0WGN1SEFiWWpzQ3VmTVZ6QkEyTmRaRUNSRGZScVBQMllUNVRUd3RjQnVVZlA2NGpaQ015Y3hUazZ2REJHaDFHcWZFU3pSaERLNG5SZ2dVOXdnIiwganVzdCB3aXRoZHJldyBpdCBhZnRlciBleHBsb2l0ICh0cnggOiI0V0F4dk0ycENBU3d5Q1p2dUtIeHVER0NvczdKb0dhY2hUUnpXNHBtYlRxMnR3WkFRMlNDem14c25tcEc3S1U3bVVrWFNjN1N1Ynd0WktDRFo2blg4ajRUIgo1LiBJIGRlcG9zaXRlZCAyMiw5MTAgaW4gQ0FTSC4gVGhpcyBhbW91bnRzIHRvICAyMiw2NDguNDUgQ0FTSC1hdFVTVCBMUCB0b2tlbnMuCjYuIE1vbmV5IGNvbWVzIGZyb20gbXkgd29yaywgaXQgd2FzIGFuIGludmVzdG1lbnQgdGhhdCBJIHN0YXJ0ZWQgdG8gbWFrZSBpdCBncm93IGluIG9yZGVyIHRvIGhlbHAgbXkgY2hpbGRyZW4gaW4gdGhlIGZ1dHVyZS4g",
     "rawSignature": "XPePViN/zkvTwIDfsaf7XFON81bCo+0DgWyTuen066/NYRzwi5qo3eYXaJHRIz0/fgoExxa2Z3WAUUU/NS/+AA==",
     "selfReportedAddress": "GJr1ixLfryF7qfYGbLuwiz644HrSWzx3fbPAm4mYLcCA",
@@ -24,7 +30,9 @@
     "submissionIsValid": true
   },
   "summary": {
-    "netLosses": 23111.78813426884,
+    "ethRefundPercent": 1.0188143482499137,
+    "netLosses": -434.8332306363591,
+    "totalEthRefunds": 23546.6213649052,
     "totalLosses": 23111.78813426884,
     "totalRefunds": 0
   },

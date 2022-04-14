@@ -1,4 +1,5 @@
 {
+  "ethReimbursements": [],
   "reimbursements": [],
   "review": {
     "decision": "Rejected",
@@ -7,18 +8,26 @@
     "reason": "Incorrectly filled out memo - requires resubmission"
   },
   "submission": {
-    "messageText": "",
+    "balance": ") Balance before attack:\n2136.31 aeMIM-CASH LP @ 1.013 = $2164\n+ 2558.01 aeFEI-CASH LP @ 1.011 =$2586\n= $4750 = $4750 USDC",
+    "ethAddress": "0x3f4fa4e98f663dbE9A429998ABfDc4C2c31Ffe59",
+    "messageText": "1.) Eth Wallet: 0x3f4fa4e98f663dbE9A429998ABfDc4C2c31Ffe59\n 2.) Sol Wallet: D8K6MZyq3bST6W57B7p91Mw46HQrA8y1qoKCXEf8swZH\n 3.) aeMIM-CASH LP token: ALPbh25PVwDDEhmJizhrtyhfgXNjh17RtbZc4i5ZAHdh \nheld by : \nFqNQ8H71MZtiskMUbPfTSUjJ2kP81fSY7C9qo1b9i2Cb\nowned by: \nD8K6MZyq3bST6W57B7p91Mw46HQrA8y1qoKCXEf8swZH \naeFEI-CASH LP token: ALPaX3bS8zPKsVN6eS7Ln7dvEbDAfDtXsLz5pe2JRddq \nheld by: \n6wD37jKcVZ9gsVGh3zp5wwZKBaQAHYJRqZE28E2TzrR2\nowned by: \nD8K6MZyq3bST6W57B7p91Mw46HQrA8y1qoKCXEf8swZH \n4.) - \n5.) Balance before attack:\n2136.31 aeMIM-CASH LP @ 1.013 = $2164\n+ 2558.01 aeFEI-CASH LP @ 1.011 =$2586\n= $4750 = $4750 USDC \n6.) This relatively small portfolio is a combination of my student loan, which I have been trying to save each term, and my savings from working manual labour jobs all summer when I'm not at university. It is my entire net worth, I cannot afford to lose it. ",
+    "originalWallet": "D8K6MZyq3bST6W57B7p91Mw46HQrA8y1qoKCXEf8swZH",
     "owner": "D8K6MZyq3bST6W57B7p91Mw46HQrA8y1qoKCXEf8swZH",
-    "rawMessage": "Y2FzaGlvLmFwcCByZWZ1bmQgc3VibWlzc2lvbjoKCg==",
-    "rawSignature": "ctaF48ZW/ak8YajY4utz5zGEv0p/edZqV8a5c4E4kDea8U9k0AdLvOmHcdI42l0fasM50DuFvo1AyxgeLZlWBA==",
+    "ownershipTxSig": ") aeMIM-CASH LP token: ALPbh25PVwDDEhmJizhrtyhfgXNjh17RtbZc4i5ZAHdh \nheld by : \nFqNQ8H71MZtiskMUbPfTSUjJ2kP81fSY7C9qo1b9i2Cb\nowned by: \nD8K6MZyq3bST6W57B7p91Mw46HQrA8y1qoKCXEf8swZH \naeFEI-CASH LP token: ALPaX3bS8zPKsVN6eS7Ln7dvEbDAfDtXsLz5pe2JRddq \nheld by: \n6wD37jKcVZ9gsVGh3zp5wwZKBaQAHYJRqZE28E2TzrR2\nowned by: \nD8K6MZyq3bST6W57B7p91Mw46HQrA8y1qoKCXEf8swZH",
+    "provenanceTxSig": ") -",
+    "rawMessage": "Y2FzaGlvLmFwcCByZWZ1bmQgc3VibWlzc2lvbjoKCjEuKSBFdGggV2FsbGV0OiAweDNmNGZhNGU5OGY2NjNkYkU5QTQyOTk5OEFCZkRjNEMyYzMxRmZlNTkK4oCoMi4pIFNvbCBXYWxsZXQ6IEQ4SzZNWnlxM2JTVDZXNTdCN3A5MU13NDZIUXJBOHkxcW9LQ1hFZjhzd1pICuKAqDMuKeKAqGFlTUlNLUNBU0ggTFAgdG9rZW46IEFMUGJoMjVQVndEREVobUppemhydHloZmdYTmpoMTdSdGJaYzRpNVpBSGRoIApoZWxkIGJ5IDogCkZxTlE4SDcxTVp0aXNrTVViUGZUU1VqSjJrUDgxZlNZN0M5cW8xYjlpMkNiCm93bmVkIGJ5OiAKRDhLNk1aeXEzYlNUNlc1N0I3cDkxTXc0NkhRckE4eTFxb0tDWEVmOHN3WkggCmFlRkVJLUNBU0ggTFAgdG9rZW46IEFMUGFYM2JTOHpQS3NWTjZlUzdMbjdkdkViREFmRHRYc0x6NXBlMkpSZGRxIApoZWxkIGJ5OiAKNndEMzdqS2NWWjlnc1ZHaDN6cDV3d1pLQmFRQUhZSlJxWkUyOEUyVHpyUjIKb3duZWQgYnk6IApEOEs2TVp5cTNiU1Q2VzU3QjdwOTFNdzQ2SFFyQTh5MXFvS0NYRWY4c3daSCAKNC4pIC3igKgKNS4pIEJhbGFuY2UgYmVmb3JlIGF0dGFjazoKMjEzNi4zMSBhZU1JTS1DQVNIIExQIEAgMS4wMTMgPSAkMjE2NAorIDI1NTguMDEgYWVGRUktQ0FTSCBMUCBAIDEuMDExID0kMjU4Ngo9ICQ0NzUwID0gJDQ3NTAgVVNEQ+KAqAo2LikgVGhpcyByZWxhdGl2ZWx5IHNtYWxsIHBvcnRmb2xpbyBpcyBhIGNvbWJpbmF0aW9uIG9mIG15IHN0dWRlbnQgbG9hbiwgd2hpY2ggSSBoYXZlIGJlZW4gdHJ5aW5nIHRvIHNhdmUgZWFjaCB0ZXJtLCBhbmQgbXkgc2F2aW5ncyBmcm9tIHdvcmtpbmcgbWFudWFsIGxhYm91ciBqb2JzIGFsbCBzdW1tZXIgd2hlbiBJJ20gbm90IGF0IHVuaXZlcnNpdHkuIEl0IGlzIG15IGVudGlyZSBuZXQgd29ydGgsIEkgY2Fubm90IGFmZm9yZCB0byBsb3NlIGl0LiA=",
+    "rawSignature": "NjRMzxTULnOjvyXMBeR3B+122LbEKJMkH8jqfHYSCZqMuVaYTfmYuX/n9pY2aDqkB3g4w50P5aQzPcTS2u35Cg==",
     "selfReportedAddress": "D8K6MZyq3bST6W57B7p91Mw46HQrA8y1qoKCXEf8swZH",
     "signatureIsVerified": true,
-    "submissionID": 521,
+    "source": ") This relatively small portfolio is a combination of my student loan, which I have been trying to save each term, and my savings from working manual labour jobs all summer when I'm not at university. It is my entire net worth, I cannot afford to lose it.",
+    "submissionID": 542,
     "submissionInvalidReason": null,
     "submissionIsValid": true
   },
   "summary": {
+    "ethRefundPercent": 0,
     "netLosses": 4750.242059542036,
+    "totalEthRefunds": 0,
     "totalLosses": 4750.242059542036,
     "totalRefunds": 0
   },

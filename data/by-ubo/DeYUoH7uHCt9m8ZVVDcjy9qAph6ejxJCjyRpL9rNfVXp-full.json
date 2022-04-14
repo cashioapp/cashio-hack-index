@@ -1,4 +1,10 @@
 {
+  "ethReimbursements": [
+    {
+      "to": "0x651bd2f24aa227114e912bdab95c081166ae6a11",
+      "value": "5.349237153000000000"
+    }
+  ],
   "reimbursements": [],
   "review": {
     "decision": "Approved",
@@ -13,7 +19,7 @@
     "originalWallet": "DeYUoH7uHCt9m8ZVVDcjy9qAph6ejxJCjyRpL9rNfVXp",
     "owner": "DeYUoH7uHCt9m8ZVVDcjy9qAph6ejxJCjyRpL9rNfVXp",
     "ownershipTxSig": "AHiCyGBzyUEMWrqbMYkp26zroRoxi1Qob7GLk2PQMmCS",
-    "provenanceTxSig": "4.\tI have not sold any LP, they are still sitting there. ",
+    "provenanceTxSig": "I have not sold any LP, they are still sitting there.",
     "rawMessage": "Y2FzaGlvLmFwcCByZWZ1bmQgc3VibWlzc2lvbjoKCgoxLgkweDY1MWJkMkYyNEFBMjI3MTE0RTkxMmJkYUI5NUMwODExNjZBZTZBMTEKMi4JRGVZVW9IN3VIQ3Q5bThaVlZEY2p5OXFBcGg2ZWp4SkNqeVJwTDlyTmZWWHAKMy4JQUhpQ3lHQnp5VUVNV3JxYk1Za3AyNnpyb1JveGkxUW9iN0dMazJQUU1tQ1MKNC4JSSBoYXZlIG5vdCBzb2xkIGFueSBMUCwgdGhleSBhcmUgc3RpbGwgc2l0dGluZyB0aGVyZS4gCjUuCSQxNiwxNjcuNjEgVVNECjYuCUkgZG9u4oCZdCBoYXZlIGEgdmVyeSBpbnRlcmVzdGluZyBzdG9yeSBhdCBhbGwuIEkgbGl2ZSBpbiBBdXN0cmFsaWEuIFRoZSBjb250ZW50cyBvZiBteSBTT0wgd2FsbGV0IGlzIHRoZSBwcm9kdWN0IG9mIDUgeWVhcnMgb2Ygd2FnZXNsYXZpbmcgYW5kIGludmVzdGluZyBldmVyeSBzaW5nbGUgcGVubnkgdGhhdCBJIGVhcm4uIEkgYW0gZGVmaW5pdGVseSBub3QgcmljaC4gSSBoYXZlIGEgZGVwZW5kZW50IHdpZmUgYW5kIEkgcGxlYXNlIHJlcXVlc3QgdGhlIHJldHVybiBvZiB0aGUgbW9uZXkgYXMgaXQgaXMgb3VyIGxpZmUgc2F2aW5ncy4=",
     "rawSignature": "EYx+f41zOtTd2h62rNTO8l1aSiAobjjBDiPkxH+AODBqi+aALw6WKqSeUtSBG/4ICmohyHL5BmocVAmoN+KfDQ==",
     "selfReportedAddress": "DeYUoH7uHCt9m8ZVVDcjy9qAph6ejxJCjyRpL9rNfVXp",
@@ -24,7 +30,9 @@
     "submissionIsValid": true
   },
   "summary": {
-    "netLosses": 16345.450981131871,
+    "ethRefundPercent": 1.0188142047646815,
+    "netLosses": -307.5266617300804,
+    "totalEthRefunds": 16652.97764286195,
     "totalLosses": 16345.450981131871,
     "totalRefunds": 0
   },

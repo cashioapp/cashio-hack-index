@@ -3,6 +3,12 @@
     "amount": "50184.235979",
     "pda": "7PbcgovZGD61gNKD82SP7zgw3b5zwDP8ChKHcoQ9EzCj"
   },
+  "ethReimbursements": [
+    {
+      "to": "0x63791313a7e7814ee45cb45fb797b8b8f26c20bf",
+      "value": "16.423371710000000000"
+    }
+  ],
   "reimbursements": [],
   "review": {
     "decision": "Approved",
@@ -17,7 +23,7 @@
     "originalWallet": "2cS7tZxRBhqcx3ncxmSGqCWuPnAqEbQpAqNEaVU1yRBo",
     "owner": "2cS7tZxRBhqcx3ncxmSGqCWuPnAqEbQpAqNEaVU1yRBo",
     "ownershipTxSig": "Xisczdc1sgQKz7iBmUrsRMp7ZEt54cDgs3ZWksyiwKeRqyLbacVuGyKTvGMofx9cq6VkYArfUpicvmd6893Z2Lx",
-    "provenanceTxSig": "4. transaction ID from above",
+    "provenanceTxSig": "transaction ID from above",
     "rawMessage": "AQABAhfvasl0wgUs5vSHdhdhh5giWzYQ1tz9YnISZDw/2G7yBUpTUPhdyILWFKVWcniKKW3fHqur0KYGeIhJMvTu9qB+38Q92XHZV9CRxcis/VwDR3uOIvDCGQ6TBYS+AkuNCwEBAP8EY2FzaGlvLmFwcCByZWZ1bmQgc3VibWlzc2lvbjoKCjEuIDB4NjM3OTEzMTNBN0U3ODE0ZUU0NWNiNDVmYjc5N0I4YjhmMjZjMjBiZgoyLiAyY1M3dFp4UkJocWN4M25jeG1TR3FDV3VQbkFxRWJRcEFxTkVhVlUxeVJCbwozLiBYaXNjemRjMXNnUUt6N2lCbVVyc1JNcDdaRXQ1NGNEZ3MzWldrc3lpd0tlUnF5TGJhY1Z1R3lLVHZHTW9meDljcTZWa1lBcmZVcGljdm1kNjg5M1oyTHgKNC4gdHJhbnNhY3Rpb24gSUQgZnJvbSBhYm92ZQo1LiA1MDE5NC4wNTI5OTIKNi4gVGhlc2UgZnVuZHMgYXJlIG15IGxpZmUgc2F2aW5ncyBmcm9tIHRoZSBsYXN0IDE1IHllYXJzIG9mIGVtcGxveW1lbnQuIEkgcHV0IHRoZW0gaW50byBjaGVzdC5maSB0byBlYXJuIGEgcGFzc2l2ZSB5aWVsZCBhcyBJIGFtIHVuZW1wbG95ZWQgYXQgdGhlIG1vbWVudCBhbmQgdHJ1bHkgYmVsaWV2ZSBpbiBEZWZpIGFsbG93aW5nIHRoZSBhdmVyYWdlIHVzZXIgbGlrZSBteXNlbGYgdGhlIHNhbWUgb3Bwb3J0dW5pdHkgYXMgdGhlIGZhdCBjYXRzIGluIHRoZSBiYW5rcy4gVGhpcyBoYXMgYmVlbiB2ZXJ5IHN0cmVzc2Z1bCBmb3IgbWUgYW5kIEkgcmVhbGx5IGFwcHJlY2lhdGUgeW91IHRha2luZyB0aGUgdGltZSB0byByZWltYnVyc2UgYWZmZWN0ZWQgdXNlcnMu",
     "rawSignature": "c8GnzOXU+Uk/vU9w0f3bKe0zP0M0H41Jmll12QY3eQsRofwK8/qi3q1YVAzdfTbWWozr4eKIiISq5cMFCfwOBQ==",
     "selfReportedAddress": "2cS7tZxRBhqcx3ncxmSGqCWuPnAqEbQpAqNEaVU1yRBo",
@@ -28,7 +34,9 @@
     "submissionIsValid": true
   },
   "summary": {
-    "netLosses": 50184.235979,
+    "ethRefundPercent": 1.018814347604726,
+    "netLosses": -944.1836599865055,
+    "totalEthRefunds": 51128.4196389865,
     "totalLosses": 50184.235979,
     "totalRefunds": 0
   },

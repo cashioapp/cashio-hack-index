@@ -1,4 +1,10 @@
 {
+  "ethReimbursements": [
+    {
+      "to": "0xf161477447216a8af5762a4e5c28d94d350d5b7d",
+      "value": "5.111638729000000000"
+    }
+  ],
   "reimbursements": [],
   "review": {
     "decision": "Approved",
@@ -12,8 +18,8 @@
     "messageText": "1. 0xF161477447216A8af5762A4E5c28d94D350d5B7d\n2. GkPpy4abMQgthqaCb3TV2sieETb3MHmnEbRDM4k3DLWs\n3. LP Token: 6EA3eFnp3j9MMgDxTSTakxXQ1CicFiJ5TzoeD5pN7kF2\n4. -\n5. 15,449.48 aeFEI-CASH\n6. Hi, this money was earned by me over the past 5 years. I worked in construction, until I became disabled 2 years ago from a foot wound. My friend introduced me to liquidity pools last year and I put most of my savings into it. Unfortunately I need this money to pay back medical bills (medicines, wound care, procedures). ",
     "originalWallet": "GkPpy4abMQgthqaCb3TV2sieETb3MHmnEbRDM4k3DLWs",
     "owner": "GkPpy4abMQgthqaCb3TV2sieETb3MHmnEbRDM4k3DLWs",
-    "ownershipTxSig": "3. LP Token: 6EA3eFnp3j9MMgDxTSTakxXQ1CicFiJ5TzoeD5pN7kF2",
-    "provenanceTxSig": "4. -",
+    "ownershipTxSig": "LP Token: 6EA3eFnp3j9MMgDxTSTakxXQ1CicFiJ5TzoeD5pN7kF2",
+    "provenanceTxSig": "-",
     "rawMessage": "Y2FzaGlvLmFwcCByZWZ1bmQgc3VibWlzc2lvbjoKCjEuIDB4RjE2MTQ3NzQ0NzIxNkE4YWY1NzYyQTRFNWMyOGQ5NEQzNTBkNUI3ZAoyLiBHa1BweTRhYk1RZ3RocWFDYjNUVjJzaWVFVGIzTUhtbkViUkRNNGszRExXcwozLiBMUCBUb2tlbjogNkVBM2VGbnAzajlNTWdEeFRTVGFreFhRMUNpY0ZpSjVUem9lRDVwTjdrRjIKNC4gLQo1LiAxNSw0NDkuNDggYWVGRUktQ0FTSAo2LiBIaSwgdGhpcyBtb25leSB3YXMgZWFybmVkIGJ5IG1lIG92ZXIgdGhlIHBhc3QgNSB5ZWFycy4gSSB3b3JrZWQgaW4gY29uc3RydWN0aW9uLCB1bnRpbCBJIGJlY2FtZSBkaXNhYmxlZCAyIHllYXJzIGFnbyBmcm9tIGEgZm9vdCB3b3VuZC4gTXkgZnJpZW5kIGludHJvZHVjZWQgbWUgdG8gbGlxdWlkaXR5IHBvb2xzIGxhc3QgeWVhciBhbmQgSSBwdXQgbW9zdCBvZiBteSBzYXZpbmdzIGludG8gaXQuIFVuZm9ydHVuYXRlbHkgSSBuZWVkIHRoaXMgbW9uZXkgdG8gcGF5IGJhY2sgbWVkaWNhbCBiaWxscyAobWVkaWNpbmVzLCB3b3VuZCBjYXJlLCBwcm9jZWR1cmVzKS4g",
     "rawSignature": "IMtc/O4FOcZqBfije0Ocz6NsUfN0dv9yXjvDKqK0XtnBU/HM1HTJMOBpfx+vqjPJBFaAX5ao/L8ONyegnm6CAg==",
     "selfReportedAddress": "GkPpy4abMQgthqaCb3TV2sieETb3MHmnEbRDM4k3DLWs",
@@ -24,7 +30,9 @@
     "submissionIsValid": true
   },
   "summary": {
-    "netLosses": 15619.431198420605,
+    "ethRefundPercent": 1.0188141877276211,
+    "netLosses": -293.86691076574607,
+    "totalEthRefunds": 15913.298109186351,
     "totalLosses": 15619.431198420605,
     "totalRefunds": 0
   },

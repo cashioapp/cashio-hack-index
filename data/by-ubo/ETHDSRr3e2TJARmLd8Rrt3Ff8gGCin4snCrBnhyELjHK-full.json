@@ -3,6 +3,12 @@
     "amount": "111.478209",
     "pda": "AXjSQjdCxARHekWSHH6w2P7n5GtWjWtZiYdDEKazDuLz"
   },
+  "ethReimbursements": [
+    {
+      "to": "0x5e5d2dd32b1b3a83d72f2f2bddce4619c80dcc79",
+      "value": "0.036483117000000000"
+    }
+  ],
   "reimbursements": [],
   "review": {
     "decision": "Approved",
@@ -28,7 +34,9 @@
     "submissionIsValid": true
   },
   "summary": {
-    "netLosses": 111.478209,
+    "ethRefundPercent": 1.0188306459834675,
+    "netLosses": -2.099206688549998,
+    "totalEthRefunds": 113.57741568855,
     "totalLosses": 111.478209,
     "totalRefunds": 0
   },

@@ -1,4 +1,10 @@
 {
+  "ethReimbursements": [
+    {
+      "to": "0x3fed016f04343ecdb8c7920d6aec8d415e2080b2",
+      "value": "0.065069412000000000"
+    }
+  ],
   "reimbursements": [],
   "review": {
     "decision": "Approved",
@@ -12,8 +18,8 @@
     "messageText": "1.0x3feD016F04343eCDB8c7920D6AEC8D415e2080b2\n2.hoYBqBATxuUApUcEq9EPJwFZSKnnwuiAaRoVb5sUNuH\n3.https://solscan.io/tx/5SZtqjSSjvPH3mEYQQ3eu7JNQPMgXDpBa97KSCucML28mfsPMsdJg6FBaweyEp4QDo1nncsEJ5R6KRP2pAxud6BH\n4.https://solscan.io/account/2YC4UFT6QQv2Jc4aByqpJc8MdszR7mMZ8gYsVVZM2m9y\n5.200USDC\n6.The money is managed by my wife. After persuading her for a long time, she gave some money to try. This time she didn't make any money and lost the principal. If she knew it, it must be another scolding. I haven't slept well during this period of time. I don't know how to fill this loophole. I'm really happy to hear the news that I can refund, otherwise the family will be greatly impacted. A good man will be safe all his life. Bless you",
     "originalWallet": "hoYBqBATxuUApUcEq9EPJwFZSKnnwuiAaRoVb5sUNuH",
     "owner": "hoYBqBATxuUApUcEq9EPJwFZSKnnwuiAaRoVb5sUNuH",
-    "ownershipTxSig": "3.https://solscan.io/tx/5SZtqjSSjvPH3mEYQQ3eu7JNQPMgXDpBa97KSCucML28mfsPMsdJg6FBaweyEp4QDo1nncsEJ5R6KRP2pAxud6BH",
-    "provenanceTxSig": "4.https://solscan.io/account/2YC4UFT6QQv2Jc4aByqpJc8MdszR7mMZ8gYsVVZM2m9y",
+    "ownershipTxSig": "https://solscan.io/tx/5SZtqjSSjvPH3mEYQQ3eu7JNQPMgXDpBa97KSCucML28mfsPMsdJg6FBaweyEp4QDo1nncsEJ5R6KRP2pAxud6BH",
+    "provenanceTxSig": "https://solscan.io/account/2YC4UFT6QQv2Jc4aByqpJc8MdszR7mMZ8gYsVVZM2m9y",
     "rawMessage": "Y2FzaGlvLmFwcCByZWZ1bmQgc3VibWlzc2lvbjoKCjEuMHgzZmVEMDE2RjA0MzQzZUNEQjhjNzkyMEQ2QUVDOEQ0MTVlMjA4MGIyCjIuaG9ZQnFCQVR4dVVBcFVjRXE5RVBKd0ZaU0tubnd1aUFhUm9WYjVzVU51SAozLmh0dHBzOi8vc29sc2Nhbi5pby90eC81U1p0cWpTU2p2UEgzbUVZUVEzZXU3Sk5RUE1nWERwQmE5N0tTQ3VjTUwyOG1mc1BNc2RKZzZGQmF3ZXlFcDRRRG8xbm5jc0VKNVI2S1JQMnBBeHVkNkJICjQuaHR0cHM6Ly9zb2xzY2FuLmlvL2FjY291bnQvMllDNFVGVDZRUXYySmM0YUJ5cXBKYzhNZHN6UjdtTVo4Z1lzVlZaTTJtOXkKNS4yMDBVU0RDCjYuVGhlIG1vbmV5IGlzIG1hbmFnZWQgYnkgbXkgd2lmZS4gQWZ0ZXIgcGVyc3VhZGluZyBoZXIgZm9yIGEgbG9uZyB0aW1lLCBzaGUgZ2F2ZSBzb21lIG1vbmV5IHRvIHRyeS4gVGhpcyB0aW1lIHNoZSBkaWRuJ3QgbWFrZSBhbnkgbW9uZXkgYW5kIGxvc3QgdGhlIHByaW5jaXBhbC4gSWYgc2hlIGtuZXcgaXQsIGl0IG11c3QgYmUgYW5vdGhlciBzY29sZGluZy4gSSBoYXZlbid0IHNsZXB0IHdlbGwgZHVyaW5nIHRoaXMgcGVyaW9kIG9mIHRpbWUuIEkgZG9uJ3Qga25vdyBob3cgdG8gZmlsbCB0aGlzIGxvb3Bob2xlLiBJJ20gcmVhbGx5IGhhcHB5IHRvIGhlYXIgdGhlIG5ld3MgdGhhdCBJIGNhbiByZWZ1bmQsIG90aGVyd2lzZSB0aGUgZmFtaWx5IHdpbGwgYmUgZ3JlYXRseSBpbXBhY3RlZC4gQSBnb29kIG1hbiB3aWxsIGJlIHNhZmUgYWxsIGhpcyBsaWZlLiBCbGVzcyB5b3U=",
     "rawSignature": "Vv1uu4mbc6HBgKp+ARtop0xAW57bnNsgJ6W7gQKstrGoRZb8d4PDP6W0p0/BHasopJT0bE5RmwKBVamP3Fo3BA==",
     "selfReportedAddress": "hoYBqBATxuUApUcEq9EPJwFZSKnnwuiAaRoVb5sUNuH",
@@ -24,7 +30,9 @@
     "submissionIsValid": true
   },
   "summary": {
-    "netLosses": 198.825507007461,
+    "ethRefundPercent": 1.0188372861043349,
+    "netLosses": -3.745332960338999,
+    "totalEthRefunds": 202.5708399678,
     "totalLosses": 198.825507007461,
     "totalRefunds": 0
   },

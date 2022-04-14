@@ -1,4 +1,10 @@
 {
+  "ethReimbursements": [
+    {
+      "to": "0x78282cec3be304b9d07e92d7f58c1150f1e7adac",
+      "value": "0.066852988000000000"
+    }
+  ],
   "reimbursements": [],
   "review": {
     "decision": "Approved",
@@ -12,8 +18,8 @@
     "messageText": "1. ETH Address: 0x78282cEC3bE304B9d07E92D7F58c1150F1E7Adac \n\n2. Solana Address: BUQDiPSAexRHDAszA7dtw7Npst5vXK741wwThp7kD6bk \n\n3. Signature Buy CASH on Saros Finance: d39GKSpviZ7HJD4memU6zf3WBF9TjcdvCEU1EQgWeCcYo7J7V3NoDwVngBu4Zv9SMVpVBt5hv15h78Rs9EzTATW \n\n4. Signature LP (PRT - CASH) on Saros Finance: 46Lkp2Rc55EnJNNyPya9MVAJYporoScNwJsCzZnYCpKqrSU56b17scs5krRTxoYwzkacRHsE2GuSDf1CKYLpNUdu \n\n5. The amount of money to be return: 204$ ( 102$ CASH + 102$ PRT already LP). \n\n6. Reason: I'm a Vietnamese.  Total amount needed in LP is ~204$.  This is the amount to buy milk for a 6-month-old my baby.  please refund.  thank you so much!",
     "originalWallet": "BUQDiPSAexRHDAszA7dtw7Npst5vXK741wwThp7kD6bk",
     "owner": "BUQDiPSAexRHDAszA7dtw7Npst5vXK741wwThp7kD6bk",
-    "ownershipTxSig": "3. Signature Buy CASH on Saros Finance: d39GKSpviZ7HJD4memU6zf3WBF9TjcdvCEU1EQgWeCcYo7J7V3NoDwVngBu4Zv9SMVpVBt5hv15h78Rs9EzTATW ",
-    "provenanceTxSig": "4. Signature LP (PRT - CASH) on Saros Finance: 46Lkp2Rc55EnJNNyPya9MVAJYporoScNwJsCzZnYCpKqrSU56b17scs5krRTxoYwzkacRHsE2GuSDf1CKYLpNUdu ",
+    "ownershipTxSig": "Signature Buy CASH on Saros Finance: d39GKSpviZ7HJD4memU6zf3WBF9TjcdvCEU1EQgWeCcYo7J7V3NoDwVngBu4Zv9SMVpVBt5hv15h78Rs9EzTATW",
+    "provenanceTxSig": "Signature LP (PRT - CASH) on Saros Finance: 46Lkp2Rc55EnJNNyPya9MVAJYporoScNwJsCzZnYCpKqrSU56b17scs5krRTxoYwzkacRHsE2GuSDf1CKYLpNUdu",
     "rawMessage": "Y2FzaGlvLmFwcCByZWZ1bmQgc3VibWlzc2lvbjoKCjEuIEVUSCBBZGRyZXNzOiAweDc4MjgyY0VDM2JFMzA0QjlkMDdFOTJEN0Y1OGMxMTUwRjFFN0FkYWMgCgoyLiBTb2xhbmEgQWRkcmVzczogQlVRRGlQU0FleFJIREFzekE3ZHR3N05wc3Q1dlhLNzQxd3dUaHA3a0Q2YmsgCgozLiBTaWduYXR1cmUgQnV5IENBU0ggb24gU2Fyb3MgRmluYW5jZTogZDM5R0tTcHZpWjdISkQ0bWVtVTZ6ZjNXQkY5VGpjZHZDRVUxRVFnV2VDY1lvN0o3VjNOb0R3Vm5nQnU0WnY5U01WcFZCdDVodjE1aDc4UnM5RXpUQVRXIAoKNC4gU2lnbmF0dXJlIExQIChQUlQgLSBDQVNIKSBvbiBTYXJvcyBGaW5hbmNlOiA0NkxrcDJSYzU1RW5KTk55UHlhOU1WQUpZcG9yb1NjTndKc0N6Wm5ZQ3BLcXJTVTU2YjE3c2NzNWtyUlR4b1l3emthY1JIc0UyR3VTRGYxQ0tZTHBOVWR1IAoKNS4gVGhlIGFtb3VudCBvZiBtb25leSB0byBiZSByZXR1cm46IDIwNCQgKCAxMDIkIENBU0ggKyAxMDIkIFBSVCBhbHJlYWR5IExQKS4gCgo2LiBSZWFzb246IEknbSBhIFZpZXRuYW1lc2UuICBUb3RhbCBhbW91bnQgbmVlZGVkIGluIExQIGlzIH4yMDQkLiAgVGhpcyBpcyB0aGUgYW1vdW50IHRvIGJ1eSBtaWxrIGZvciBhIDYtbW9udGgtb2xkIG15IGJhYnkuICBwbGVhc2UgcmVmdW5kLiAgdGhhbmsgeW91IHNvIG11Y2gh",
     "rawSignature": "YWWFPMMo22B7ypwsra3BZQnrBWx/s/W08d7mx820Erey8USUpIO6IOTNIMaCQy3LniiIBbYrgIcvodFAVr+zAA==",
     "selfReportedAddress": "BUQDiPSAexRHDAszA7dtw7Npst5vXK741wwThp7kD6bk",
@@ -24,7 +30,9 @@
     "submissionIsValid": true
   },
   "summary": {
-    "netLosses": 204.2820943475843,
+    "ethRefundPercent": 1.0188038274077993,
+    "netLosses": -3.841285244615733,
+    "totalEthRefunds": 208.12337959220002,
     "totalLosses": 204.2820943475843,
     "totalRefunds": 0
   },

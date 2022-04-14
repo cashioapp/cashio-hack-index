@@ -1,4 +1,10 @@
 {
+  "ethReimbursements": [
+    {
+      "to": "0x821b2f5068bac3ed1b9da3456e1152091d8dca33",
+      "value": "2.775482220000000000"
+    }
+  ],
   "reimbursements": [],
   "review": {
     "decision": "Approved",
@@ -12,8 +18,8 @@
     "messageText": "1. 0x821B2f5068bAc3Ed1b9dA3456E1152091d8DCa33\n2. FsiZjQ5Wnd3bfYtMZWRTAZX4hAu5n13FWoXSLp8bzk2\n3. https://solscan.io/tx/5CuNhzabGVoMPhWxkpdcrS6L5BkEUi4kCehma8edntidkqfxvRaDaeZMNDgwGxGKVizWNDrRnKERMYsn6fPRkEn8\n4. not sold still have in quarry\n5. $8,517.55\n6. The source of this money is my life savings earned by working construction mostly carpentry in my home city of Ciudad Apodaca, Mexico.  Please this money means I can buy a house so live with pride, independently.  My dream is to one day start a family and become contractor. \n",
     "originalWallet": "FsiZjQ5Wnd3bfYtMZWRTAZX4hAu5n13FWoXSLp8bzk2",
     "owner": "FsiZjQ5Wnd3bfYtMZWRTAZX4hAu5n13FWoXSLp8bzk2",
-    "ownershipTxSig": "3. https://solscan.io/tx/5CuNhzabGVoMPhWxkpdcrS6L5BkEUi4kCehma8edntidkqfxvRaDaeZMNDgwGxGKVizWNDrRnKERMYsn6fPRkEn8",
-    "provenanceTxSig": "4. not sold still have in quarry",
+    "ownershipTxSig": "https://solscan.io/tx/5CuNhzabGVoMPhWxkpdcrS6L5BkEUi4kCehma8edntidkqfxvRaDaeZMNDgwGxGKVizWNDrRnKERMYsn6fPRkEn8",
+    "provenanceTxSig": "not sold still have in quarry",
     "rawMessage": "Y2FzaGlvLmFwcCByZWZ1bmQgc3VibWlzc2lvbjoKCjEuIDB4ODIxQjJmNTA2OGJBYzNFZDFiOWRBMzQ1NkUxMTUyMDkxZDhEQ2EzMwoyLiBGc2laalE1V25kM2JmWXRNWldSVEFaWDRoQXU1bjEzRldvWFNMcDhiemsyCjMuIGh0dHBzOi8vc29sc2Nhbi5pby90eC81Q3VOaHphYkdWb01QaFd4a3BkY3JTNkw1QmtFVWk0a0NlaG1hOGVkbnRpZGtxZnh2UmFEYWVaTU5EZ3dHeEdLVml6V05EclJuS0VSTVlzbjZmUFJrRW44CjQuIG5vdCBzb2xkIHN0aWxsIGhhdmUgaW4gcXVhcnJ5CjUuICQ4LDUxNy41NQo2LiBUaGUgc291cmNlIG9mIHRoaXMgbW9uZXkgaXMgbXkgbGlmZSBzYXZpbmdzIGVhcm5lZCBieSB3b3JraW5nIGNvbnN0cnVjdGlvbiBtb3N0bHkgY2FycGVudHJ5IGluIG15IGhvbWUgY2l0eSBvZiBDaXVkYWQgQXBvZGFjYSwgTWV4aWNvLiAgUGxlYXNlIHRoaXMgbW9uZXkgbWVhbnMgSSBjYW4gYnV5IGEgaG91c2Ugc28gbGl2ZSB3aXRoIHByaWRlLCBpbmRlcGVuZGVudGx5LiAgTXkgZHJlYW0gaXMgdG8gb25lIGRheSBzdGFydCBhIGZhbWlseSBhbmQgYmVjb21lIGNvbnRyYWN0b3IuIAo=",
     "rawSignature": "W559C0KxoTQBfQ01wU7f0IOnvREHTdo1Il0BmceINxj2w0xz4ntTWS3DWPoelHAny6lTKNABxc4E96vV/IDlDg==",
     "selfReportedAddress": "FsiZjQ5Wnd3bfYtMZWRTAZX4hAu5n13FWoXSLp8bzk2",
@@ -24,7 +30,9 @@
     "submissionIsValid": true
   },
   "summary": {
-    "netLosses": 8480.925909636017,
+    "ethRefundPercent": 1.0188147574046937,
+    "netLosses": -159.56656355698397,
+    "totalEthRefunds": 8640.492473193,
     "totalLosses": 8480.925909636017,
     "totalRefunds": 0
   },

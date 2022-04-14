@@ -1,4 +1,10 @@
 {
+  "ethReimbursements": [
+    {
+      "to": "0x40ac3c9937119e8ab59608c8d21b05a3ae3a0e7d",
+      "value": "1.264846220000000000"
+    }
+  ],
   "reimbursements": [],
   "review": {
     "decision": "Approved",
@@ -13,7 +19,7 @@
     "originalWallet": "2CWsjuGAF4e5G9b6tGsoTh58BuVBZRyhYA7VsUxmp5Du",
     "owner": "2CWsjuGAF4e5G9b6tGsoTh58BuVBZRyhYA7VsUxmp5Du",
     "ownershipTxSig": "AWG9KKQSfoTwpKgVwVXLgrFz4fRLUVJQb54Gx2xHxoVS",
-    "provenanceTxSig": "4. never sold anything",
+    "provenanceTxSig": "never sold anything",
     "rawMessage": "Y2FzaGlvLmFwcCByZWZ1bmQgc3VibWlzc2lvbjoKCjEuIDB4NDBhQzNDOTkzNzExOUU4QUI1OTYwOEM4RDIxQjA1YTNBZTNhMGU3RAoyLiAyQ1dzanVHQUY0ZTVHOWI2dEdzb1RoNThCdVZCWlJ5aFlBN1ZzVXhtcDVEdQozLiBBV0c5S0tRU2ZvVHdwS2dWd1ZYTGdyRno0ZlJMVVZKUWI1NEd4MnhIeG9WUwo0LiBuZXZlciBzb2xkIGFueXRoaW5nCjUuICQ0MCwwMDAgVVNECjYuIGxpZmUgc2F2aW5ncy9ib3Jyb3dlZCBmdW5kcyBhbmQgbm93IGFtIHdyZWNrZWQu",
     "rawSignature": "ofsLWva1UD47z8HTEDpq0rchTM0YAnxA9lmAkzUCXLQXtuFe7+pZY7HUxnunkOIHRA/wJ6T2d2wrH1MZe+7zCA==",
     "selfReportedAddress": "2CWsjuGAF4e5G9b6tGsoTh58BuVBZRyhYA7VsUxmp5Du",
@@ -24,7 +30,9 @@
     "submissionIsValid": true
   },
   "summary": {
-    "netLosses": 3864.9356900000002,
+    "ethRefundPercent": 1.0188154022798241,
+    "netLosses": -72.72031979299936,
+    "totalEthRefunds": 3937.6560097929996,
     "totalLosses": 3864.9356900000002,
     "totalRefunds": 0
   },

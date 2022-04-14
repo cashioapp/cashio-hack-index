@@ -1,4 +1,10 @@
 {
+  "ethReimbursements": [
+    {
+      "to": "0x25656827703d805f88b4710cf29fc3b44f597a29",
+      "value": "0.022607227000000000"
+    }
+  ],
   "reimbursements": [],
   "review": {
     "decision": "Approved",
@@ -13,7 +19,7 @@
     "originalWallet": "AQuw6mnAvdZ4eH3yGhtaosLVKUyoNoYGFRztzGXuc2bN",
     "owner": "AQuw6mnAvdZ4eH3yGhtaosLVKUyoNoYGFRztzGXuc2bN",
     "ownershipTxSig": "4LLWe5AHPa1vzDTnrNGgEAfiVw3q2wCTUFYgA6TikcJs",
-    "provenanceTxSig": "4. N/A",
+    "provenanceTxSig": "N/A",
     "rawMessage": "Y2FzaGlvLmFwcCByZWZ1bmQgc3VibWlzc2lvbjoKCjEuIDB4MjU2NTY4Mjc3MDNEODA1Zjg4QjQ3MTBjRjI5RmMzQjQ0ZjU5N2EyOQoyLiBBUXV3Nm1uQXZkWjRlSDN5R2h0YW9zTFZLVXlvTm9ZR0ZSenR6R1h1YzJiTgozLiA0TExXZTVBSFBhMXZ6RFRuck5HZ0VBZmlWdzNxMndDVFVGWWdBNlRpa2NKcwo0LiBOL0EKNS4gNjguNDkKNi4gSSdtIG5ld2JpZSB0byB0aGUgc29sb25hLiBJIGNhbWUgdG8gdGhlIHNvbG9uYSBieSBzZWVuIHRoZSBwbGF5IHRvIGVhcm4gZ2FtaW5nIHByb2plY3RzIGxpa2Ugc3RhciBhdGxhcyBhbmQgSSdtIERhaWx5IHBsYXkuIE1lYW53aGlsZSBzZWFyY2ggbmV3IGdvb2QgREFPIHByb2plY3RzIHdpdGggZ29vZCBwb3RlbnRpYWwgYW5kIHRoZW4gSSBzYXcgdGhpcyBDYXNoaW8gcHJvamVjdCBhcyB0aGUgYmVzdCBwcm9qZWN0LiBUaGVuIEkgaW52ZXN0ZWQgbXkgb3duIG1vbmV5IHRvIHRoaXMgcHJvamVjdCBieSBob3BwaW5nIHRoZSBkZWNlbnRyYWxpemVkIHByb2plY3RzIHdpbGwgYmUgdGhlIGZ1dHVyZS4gVGhlbiBJIExvc3QgbXkgZnVuZCBkdWUgdG8gdGhpcyBoYWNrLiBJIHJlYWxseSBhcHByZWNpYXRlIGlmIHlvdSBjYW4gcmVmdW5kIG1lIHRoaXMgZnVuZCBkdWUgdG8gbXkgY3VycmVudCBzaXR1YXRpb24uIEknbSBTcmkgTGFua2FuIGFuZCBkdWUgdG8gdGhlIGVjb25vbXkgY3Jpc2lzIGluIG15IGNvdW50cnkgdGhpcyBsb3N0IGltcGFjdCBtZSBhIGJpZyBsb3NzLiBQbGVhc2UgYmUga2luZCBlbm91Z2ggdG8gY29uc2lkZXIgdGhpcy4=",
     "rawSignature": "BnNiwA7hidEujVoAujJgPFcCquOPhXT5y78WG+x2E/cWlA2rWpAIcbOAgRmiJKfab0VE4fGKdmXfApR5UADpCw==",
     "selfReportedAddress": "4LLWe5AHPa1vzDTnrNGgEAfiVw3q2wCTUFYgA6TikcJs",
@@ -24,7 +30,9 @@
     "submissionIsValid": false
   },
   "summary": {
-    "netLosses": 69.07543922968948,
+    "ethRefundPercent": 1.0188815231564963,
+    "netLosses": -1.3042495053605307,
+    "totalEthRefunds": 70.37968873505001,
     "totalLosses": 69.07543922968948,
     "totalRefunds": 0
   },

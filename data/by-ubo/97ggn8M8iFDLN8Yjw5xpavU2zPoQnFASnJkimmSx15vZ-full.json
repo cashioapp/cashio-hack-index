@@ -1,4 +1,10 @@
 {
+  "ethReimbursements": [
+    {
+      "to": "0xf2324dc1840abc1bcff681b646d35b06fc732ccc",
+      "value": "1.965755352000000000"
+    }
+  ],
   "reimbursements": [],
   "review": {
     "decision": "Approved",
@@ -12,8 +18,8 @@
     "messageText": "1.ETH address: 0xf2324DC1840ABC1BCfF681b646D35b06fC732CcC\n2.Solana address: 97ggn8M8iFDLN8Yjw5xpavU2zPoQnFASnJkimmSx15vZ\n3.I already sold lp\n4.Transaction ID proving deposit of PAI-CASH on Saber on March 15: 38KCZnGwL45LiNqg9byGnYHKfFgp1EPk7iShkfobEgu8C7pipJRhc4uHZ6xchrsu46sLu99nHHQjKhesGPCMw3Kc\n5.The amount of money is 6.076,51 USDC (I deposited 6076,51 CASH)\n6.Source of funds is salary, I used to work 70 hours a week to pay for my 350.000€ mortgage. Now I am ill (long-covid) and cannot work anymore but still own that money to the bank. I am living on benefits and trying to make some extra money in DeFi. Please understand my situation and refund me! \nThank you very much!",
     "originalWallet": "97ggn8M8iFDLN8Yjw5xpavU2zPoQnFASnJkimmSx15vZ",
     "owner": "97ggn8M8iFDLN8Yjw5xpavU2zPoQnFASnJkimmSx15vZ",
-    "ownershipTxSig": "3.I already sold lp",
-    "provenanceTxSig": "4.Transaction ID proving deposit of PAI-CASH on Saber on March 15: 38KCZnGwL45LiNqg9byGnYHKfFgp1EPk7iShkfobEgu8C7pipJRhc4uHZ6xchrsu46sLu99nHHQjKhesGPCMw3Kc",
+    "ownershipTxSig": "I already sold lp",
+    "provenanceTxSig": "Transaction ID proving deposit of PAI-CASH on Saber on March 15: 38KCZnGwL45LiNqg9byGnYHKfFgp1EPk7iShkfobEgu8C7pipJRhc4uHZ6xchrsu46sLu99nHHQjKhesGPCMw3Kc",
     "rawMessage": "AQABAniT2mmkfOW/QzxmRl8R7IOrvu4o0XuQN3U0e4YLi+/CBUpTUPhdyILWFKVWcniKKW3fHqur0KYGeIhJMvTu9qB+38Q92XHZV9CRxcis/VwDR3uOIvDCGQ6TBYS+AkuNCwEBAMoFY2FzaGlvLmFwcCByZWZ1bmQgc3VibWlzc2lvbjoKCjEuRVRIIGFkZHJlc3M6IDB4ZjIzMjREQzE4NDBBQkMxQkNmRjY4MWI2NDZEMzViMDZmQzczMkNjQwoyLlNvbGFuYSBhZGRyZXNzOiA5N2dnbjhNOGlGRExOOFlqdzV4cGF2VTJ6UG9RbkZBU25Ka2ltbVN4MTV2WgozLkkgYWxyZWFkeSBzb2xkIGxwCjQuVHJhbnNhY3Rpb24gSUQgcHJvdmluZyBkZXBvc2l0IG9mIFBBSS1DQVNIIG9uIFNhYmVyIG9uIE1hcmNoIDE1OiAzOEtDWm5Hd0w0NUxpTnFnOWJ5R25ZSEtmRmdwMUVQazdpU2hrZm9iRWd1OEM3cGlwSlJoYzR1SFo2eGNocnN1NDZzTHU5OW5ISFFqS2hlc0dQQ013M0tjCjUuVGhlIGFtb3VudCBvZiBtb25leSBpcyA2LjA3Niw1MSBVU0RDIChJIGRlcG9zaXRlZCA2MDc2LDUxIENBU0gpCjYuU291cmNlIG9mIGZ1bmRzIGlzIHNhbGFyeSwgSSB1c2VkIHRvIHdvcmsgNzAgaG91cnMgYSB3ZWVrIHRvIHBheSBmb3IgbXkgMzUwLjAwMOKCrCBtb3J0Z2FnZS4gTm93IEkgYW0gaWxsIChsb25nLWNvdmlkKSBhbmQgY2Fubm90IHdvcmsgYW55bW9yZSBidXQgc3RpbGwgb3duIHRoYXQgbW9uZXkgdG8gdGhlIGJhbmsuIEkgYW0gbGl2aW5nIG9uIGJlbmVmaXRzIGFuZCB0cnlpbmcgdG8gbWFrZSBzb21lIGV4dHJhIG1vbmV5IGluIERlRmkuIFBsZWFzZSB1bmRlcnN0YW5kIG15IHNpdHVhdGlvbiBhbmQgcmVmdW5kIG1lIcKgClRoYW5rIHlvdSB2ZXJ5IG11Y2gh",
     "rawSignature": "yqFBubW+n2KOgmLtUpUmggbznAT4ocvWwT4ij5TrgYiTl6AWe+/6e4/BNaUxgSeuzpjdm2XlztP9I8sNrPbWCA==",
     "selfReportedAddress": "97ggn8M8iFDLN8Yjw5xpavU2zPoQnFASnJkimmSx15vZ",
@@ -24,7 +30,9 @@
     "submissionIsValid": true
   },
   "summary": {
-    "netLosses": 6006.6842965575,
+    "ethRefundPercent": 1.018813537043401,
+    "netLosses": -113.00697752130054,
+    "totalEthRefunds": 6119.6912740788,
     "totalLosses": 6006.6842965575,
     "totalRefunds": 0
   },

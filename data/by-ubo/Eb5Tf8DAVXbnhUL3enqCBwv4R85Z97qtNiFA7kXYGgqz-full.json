@@ -1,12 +1,22 @@
 {
-  "ethReimbursements": [],
+  "chestfi": {
+    "amount": "50",
+    "pda": "8akkmw19R1SJeNPRpnzNTR7dHEr1AUerv7gg6ZWC6Tm8"
+  },
+  "ethReimbursements": [
+    {
+      "to": "0xa55b0e4b68ddbe65846a35abef0cd90ed589d1ba",
+      "tx": "0xcd1a889cfa0de8abbe1bcde28c60618df5975cc14f029f6516cd377f19e71519",
+      "value": "0.063604575163399000"
+    }
+  ],
   "reimbursements": [],
   "review": {
-    "batch": 2,
-    "decision": "Approved",
+    "batch": 3,
+    "decision": "",
     "estimatedDollarValue": null,
     "over100K": null,
-    "reason": "Correct amount in tool"
+    "reason": ""
   },
   "solanaAddresses": [
     "Eb5Tf8DAVXbnhUL3enqCBwv4R85Z97qtNiFA7kXYGgqz"
@@ -29,10 +39,10 @@
     "submissionIsValid": true
   },
   "summary": {
-    "ethRefundPercent": 0,
-    "netLosses": 194.6294805,
-    "totalEthRefunds": 0,
-    "totalLosses": 194.6294805,
+    "ethRefundPercent": 0.7943529678394999,
+    "netLosses": 50.307326643789935,
+    "totalEthRefunds": 194.32215385621006,
+    "totalLosses": 244.6294805,
     "totalRefunds": 0
   },
   "tokenAccounts": [

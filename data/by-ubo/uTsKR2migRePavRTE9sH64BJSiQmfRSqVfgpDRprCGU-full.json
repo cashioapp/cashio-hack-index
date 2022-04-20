@@ -1,12 +1,18 @@
 {
-  "ethReimbursements": [],
+  "ethReimbursements": [
+    {
+      "to": "0x3b159b84f3a0e493eccef0d8e0b87259e03f4028",
+      "tx": "0xcd1a889cfa0de8abbe1bcde28c60618df5975cc14f029f6516cd377f19e71519",
+      "value": "0.082267973856209000"
+    }
+  ],
   "reimbursements": [],
   "review": {
-    "batch": 2,
-    "decision": "Approved",
+    "batch": 3,
+    "decision": "",
     "estimatedDollarValue": null,
     "over100K": null,
-    "reason": "Correct amount in tool"
+    "reason": ""
   },
   "solanaAddresses": [
     "uTsKR2migRePavRTE9sH64BJSiQmfRSqVfgpDRprCGU"
@@ -28,9 +34,9 @@
     "submissionIsValid": true
   },
   "summary": {
-    "ethRefundPercent": 0,
-    "netLosses": 251.73950954348547,
-    "totalEthRefunds": 0,
+    "ethRefundPercent": 0.9984202458419373,
+    "netLosses": 0.39768653694997624,
+    "totalEthRefunds": 251.3418230065355,
     "totalLosses": 251.73950954348547,
     "totalRefunds": 0
   },

@@ -1,5 +1,11 @@
 {
-  "ethReimbursements": [],
+  "ethReimbursements": [
+    {
+      "to": "0x71429f772e93c02dadef75874cb684c04b695be5",
+      "tx": "0xcd1a889cfa0de8abbe1bcde28c60618df5975cc14f029f6516cd377f19e71519",
+      "value": "0.004787581699346000"
+    }
+  ],
   "reimbursements": [],
   "review": {
     "batch": 2,
@@ -29,9 +35,9 @@
     "submissionIsValid": true
   },
   "summary": {
-    "ethRefundPercent": 0,
-    "netLosses": 14.65355469141563,
-    "totalEthRefunds": 0,
+    "ethRefundPercent": 0.9981761021537415,
+    "netLosses": 0.026726586841704147,
+    "totalEthRefunds": 14.626828104573926,
     "totalLosses": 14.65355469141563,
     "totalRefunds": 0
   },

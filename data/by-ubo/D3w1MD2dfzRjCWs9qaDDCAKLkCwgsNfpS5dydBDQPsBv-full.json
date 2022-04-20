@@ -3,7 +3,13 @@
     "amount": "331.879654",
     "pda": "99fdXTWRJpXuce6HiJck9m8ogaUfK3kYV9WempmLXBY8"
   },
-  "ethReimbursements": [],
+  "ethReimbursements": [
+    {
+      "to": "0x72d866c3b9b1a40cc1e4e931d09f10deb1a5a0dc",
+      "tx": "0xcd1a889cfa0de8abbe1bcde28c60618df5975cc14f029f6516cd377f19e71519",
+      "value": "0.108457516339869000"
+    }
+  ],
   "reimbursements": [],
   "review": {
     "batch": 2,
@@ -33,9 +39,9 @@
     "submissionIsValid": true
   },
   "summary": {
-    "ethRefundPercent": 0,
-    "netLosses": 331.879654,
-    "totalEthRefunds": 0,
+    "ethRefundPercent": 0.9984193415511822,
+    "netLosses": 0.5245883790858556,
+    "totalEthRefunds": 331.35506562091416,
     "totalLosses": 331.879654,
     "totalRefunds": 0
   },

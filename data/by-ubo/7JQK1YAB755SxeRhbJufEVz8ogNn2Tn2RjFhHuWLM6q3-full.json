@@ -1,5 +1,11 @@
 {
-  "ethReimbursements": [],
+  "ethReimbursements": [
+    {
+      "to": "0xe828c52d3e622a69416f309915b302220c6c9a53",
+      "tx": "0xcd1a889cfa0de8abbe1bcde28c60618df5975cc14f029f6516cd377f19e71519",
+      "value": "1.225892156862750000"
+    }
+  ],
   "reimbursements": [],
   "review": {
     "batch": 2,
@@ -9,7 +15,8 @@
     "reason": "Correct amount in tool"
   },
   "solanaAddresses": [
-    "7JQK1YAB755SxeRhbJufEVz8ogNn2Tn2RjFhHuWLM6q3"
+    "7JQK1YAB755SxeRhbJufEVz8ogNn2Tn2RjFhHuWLM6q3",
+    "7ixLYc3B1EMf8dyzN1JumpS7gbggtjsj9dhXUdnKs5K1"
   ],
   "submission": {
     "balance": "790 USDT",
@@ -29,9 +36,9 @@
     "submissionIsValid": true
   },
   "summary": {
-    "ethRefundPercent": 0,
-    "netLosses": 849.353983,
-    "totalEthRefunds": 0,
+    "ethRefundPercent": 4.409582761632613,
+    "netLosses": 0,
+    "totalEthRefunds": 3745.2966819607996,
     "totalLosses": 849.353983,
     "totalRefunds": 0
   },
